@@ -1,0 +1,409 @@
+/* Text Styles */
+hr { color: #000000}
+body, table, tr, th /* Normal */
+{
+ font-size: 11pt;
+ font-family: Calibri,Vectora,'Droid Sans','Open Sans',Frutiger,sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.f_attention /* attention */
+{
+}
+span.f_Bullet_1 /* Bullet_1 */
+{
+}
+span.f_Bullet_3 /* Bullet_3 */
+{
+}
+span.f_Bullet_4 /* Bullet_4 */
+{
+}
+span.f_CodeExample /* Code Example */
+{
+ font-size: 10pt;
+ font-family: 'Courier New';
+}
+span.f_Comment /* Comment */
+{
+ font-family: 'Times New Roman',Times,Georgia,serif;
+ font-style: italic;
+ text-decoration: underline;
+}
+span.f_Dev_note /* Dev_note */
+{
+ font-family: 'Arial Black',Gadget,sans-serif;
+ color: #3366ff;
+ text-transform: uppercase;
+ background-color: #ffffff;
+}
+span.f_Example /* Example */
+{
+ font-family: 'Courier New';
+ background-color: #ffffff;
+}
+span.f_Example_heading /* Example_heading */
+{
+ font-size: 12pt;
+ font-family: 'Courier New';
+ font-weight: bold;
+ background-color: #ffffff;
+}
+span.f_Example_img_cap /* Example_img_cap */
+{
+ font-family: 'Courier New';
+ font-weight: bold;
+ background-color: #ffffff;
+}
+span.f_GUI_item /* GUI_item */
+{
+ font-style: italic;
+ font-weight: bold;
+}
+span.f_Heading2 /* Heading 2 */
+{
+ font-size: 14pt;
+ font-weight: bold;
+ color: #3366ff;
+}
+span.f_Heading3 /* Heading 3 */
+{
+ font-size: 13pt;
+ font-weight: bold;
+ color: #000080;
+}
+span.f_Heading4 /* Heading 4 */
+{
+ font-size: 12pt;
+ font-weight: bold;
+ color: #0080c0;
+}
+span.f_Heading5 /* Heading 5 */
+{
+ font-weight: bold;
+ color: #2e2e2e;
+}
+span.f_Heading1 /* Heading1 */
+{
+ font-size: 18pt;
+ font-weight: bold;
+ color: #ffffff;
+}
+span.f_Heading12 /* Heading12 */
+{
+ font-size: 18pt;
+ font-family: Arial,Helvetica,sans-serif;
+ font-weight: bold;
+ color: #ffffff;
+ text-transform: uppercase;
+}
+span.f_ImageCaption /* Image Caption */
+{
+ font-size: 10pt;
+ font-weight: bold;
+}
+span.f_img_display /* img_display */
+{
+ font-size: 8pt;
+ font-weight: bold;
+}
+span.f_Important /* Important */
+{
+ font-weight: bold;
+ color: #ff0000;
+}
+span.f_Key_name /* Key_name */
+{
+ font-weight: bold;
+}
+span.f_Name_of /* Name_of */
+{
+}
+span.f_NewStyle /* New Style */
+{
+ color: #ffffff;
+ background-color: #ff0000;
+}
+span.f_NewStyle2 /* New Style2 */
+{
+ color: #ffffff;
+ background-color: #ff0000;
+}
+span.f_Note /* Note */
+{
+}
+span.f_Notes /* Notes */
+{
+}
+span.f_Proc_text /* Proc_text */
+{
+}
+span.f_Procedure /* Procedure */
+{
+}
+span.f_ProcedureHeading /* Procedure Heading */
+{
+ font-weight: bold;
+ color: #2e2e2e;
+}
+span.f_Reference /* Reference */
+{
+ font-style: italic;
+ font-weight: bold;
+ text-decoration: underline;
+}
+span.f_Table_heading /* Table_heading */
+{
+ color: #ffffff;
+}
+span.f_tableheading /* tableheading */
+{
+ color: #ffffff;
+}
+span.f_Term /* Term */
+{
+ font-style: italic;
+}
+span.f_warning /* warning */
+{
+}
+/* Paragraph styles */
+p, p.p_Normal, div.p_Normal /* Normal */
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 5px 0px 0px 10px;
+}
+.p_attention /* attention */
+{
+ font-size: 11pt;
+ background: #ff9900;
+ margin: 10px 0px 5px 10px;
+}
+.p_Bullet_1 /* Bullet_1 */
+{
+ font-size: 11pt;
+ text-indent: 19px;
+ margin: 0px 0px 5px 10px;
+}
+.p_Bullet_3 /* Bullet_3 */
+{
+ font-size: 11pt;
+ text-indent: 29px;
+ margin: 0px 0px 5px 10px;
+}
+.p_Bullet_4 /* Bullet_4 */
+{
+ font-size: 11pt;
+ text-indent: 38px;
+ margin: 0px 0px 5px 10px;
+}
+.p_CodeExample /* Code Example */
+{
+ font-size: 10pt;
+ line-height: 1.0;
+ white-space: nowrap;
+ page-break-inside: avoid;
+ margin: 0px 0px 0px 0px;
+}
+.p_Comment /* Comment */
+{
+ font-size: 11pt;
+}
+.p_Dev_note /* Dev_note */
+{
+ font-size: 11pt;
+}
+.p_Example /* Example */
+{
+ font-size: 11pt;
+ background: #ffffff;
+ margin: 10px 0px 0px 10px;
+}
+.p_Example_heading /* Example_heading */
+{
+ font-size: 12pt;
+ background: #ffffff;
+ margin: 10px 0px 0px 10px;
+}
+.p_Example_img_cap /* Example_img_cap */
+{
+ font-size: 11pt;
+ background: #ffffff;
+ margin: 10px 0px 0px 10px;
+}
+.p_GUI_item /* GUI_item */
+{
+ font-size: 11pt;
+}
+.p_Heading2 /* Heading 2 */
+{
+ font-size: 14pt;
+ margin: 0px 0px 5px 10px;
+}
+.p_Heading3 /* Heading 3 */
+{
+ font-size: 13pt;
+ margin: 10px 0px 0px 10px;
+}
+.p_Heading4 /* Heading 4 */
+{
+ font-size: 12pt;
+ margin: 10px 0px 0px 10px;
+}
+.p_Heading5 /* Heading 5 */
+{
+ font-size: 11pt;
+ margin: 10px 0px 0px 10px;
+}
+.p_Heading1 /* Heading1 */
+{
+ font-size: 100%;
+ font-weight: normal;
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 5px 0px 0px 10px;
+}
+.p_Heading12 /* Heading12 */
+{
+ font-size: 100%;
+ font-weight: normal;
+ text-align: left;
+ text-indent: 48px;
+ padding: 0px 0px 0px 0px;
+ margin: 5px 0px 10px 0px;
+}
+.p_ImageCaption /* Image Caption */
+{
+ font-size: 10pt;
+ text-align: center;
+ margin: 10px 0px 0px 10px;
+}
+.p_img_display /* img_display */
+{
+ font-size: 8pt;
+ text-align: center;
+ margin: 10px 0px 5px 10px;
+}
+.p_Important /* Important */
+{
+ font-size: 11pt;
+}
+.p_Key_name /* Key_name */
+{
+ font-size: 11pt;
+}
+.p_Name_of /* Name_of */
+{
+ font-size: 11pt;
+}
+.p_NewStyle /* New Style */
+{
+ font-size: 11pt;
+}
+.p_NewStyle2 /* New Style2 */
+{
+ font-size: 11pt;
+ text-align: center;
+}
+.p_Note /* Note */
+{
+ font-size: 11pt;
+ background: #99ccff;
+ margin: 10px 0px 5px 10px;
+}
+.p_Notes /* Notes */
+{
+ font-size: 11pt;
+ margin: 10px 0px 0px 10px;
+}
+.p_Proc_text /* Proc_text */
+{
+ font-size: 11pt;
+ text-align: justify;
+ background: #dfdfe6;
+}
+.p_Procedure /* Procedure */
+{
+ font-size: 11pt;
+ text-indent: 19px;
+ margin: 0px 0px 5px 10px;
+}
+.p_ProcedureHeading /* Procedure Heading */
+{
+ font-size: 11pt;
+}
+.p_Reference /* Reference */
+{
+ font-size: 11pt;
+}
+.p_Table_heading /* Table_heading */
+{
+ font-size: 11pt;
+ text-align: center;
+}
+.p_tableheading /* tableheading */
+{
+ font-size: 11pt;
+ background: #808080;
+}
+.p_Term /* Term */
+{
+ font-size: 11pt;
+ text-align: center;
+}
+.p_warning /* warning */
+{
+ font-size: 11pt;
+ background: #ff9900;
+ margin: 10px 0px 5px 10px;
+}
+
+
+#hmpopupdiv /* used for javascript text popups */
+{
+  display: none;
+  position: absolute;
+  z-index: 1000;
+  background-color: #FFFFFF;
+  padding: 6px;
+  border:1px solid #000000;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px #888;
+}
+
+#hmlightbox /* image lightbox */
+{
+  border: none;
+  padding: 8px;
+  background: #FFF;
+  font-size: 110%;
+  font-weight: bold;
+  color: #777;
+  box-shadow: 5px 5px 5px #888;
+}
+
+a.dropdown-toggle /* dropdown toggle caption */
+{
+  cursor: pointer;
+}
+a.inline-toggle /* inline toggle caption */
+{
+  cursor: pointer;
+}
+img.dropdown-toggle-icon /* toggle icon */
+{
+  cursor: pointer;
+}
+/* CSS for responsive image maps */
+
+.hmImageMap a.hmHotspotRect { display:block; position:absolute; border: 1px solid transparent; background:#000; opacity:0.01; filter:alpha(opacity=1)  }
+.hmImageMap a.hmHotspotEllipse { display:block; position:absolute; border-radius:50%; border: 1px solid transparent; background:#000; opacity:0.01; filter:alpha(opacity=1) }
+.hmImageMap:hover a.hmHotspotRect {opacity:0.3; filter:alpha(opacity=30); }
+.hmImageMap:hover a.hmHotspotEllipse { opacity:0.3; filter:alpha(opacity=30); }
+a.hmHotspotRect:hover { border:1px solid #000; background:#FFF; opacity:0.3; filter:alpha(opacity=30) }
+a.hmHotspotEllipse:hover { border:1px solid #000; background:#FFF; opacity:0.3; filter:alpha(opacity=30) }
