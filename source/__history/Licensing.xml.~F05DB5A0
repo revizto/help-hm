@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="утюг" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Licensing. Workspace Configuration and Management</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Licensing. Workspace Configuration and Management</text></para>
+    </header>
+    <para styleclass="Normal" style="margin-top:4px; margin-left:0px; line-height:1.31; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Revizto license is provided for a specific number of users and and projects (depends on the purchased Plan). The starting point is activating the &#160;license and configuring the team workspace.</text></para>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.31; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Note that even if it is planned to limit the use of Revizto Cloud, initial license configuration has to be carried out online via the web-GUI. Even if you use the </text><text styleclass="Normal" style="font-family:Arial; font-weight:bold; font-style:italic; vertical-align:baseline;" translate="true">Shared Location</text><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true"> option for your projects, all user license and access level data, as well as issue-related workflow is managed via the Cloud, while project source files remain within the corporate network.</text></para>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.31; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">As most Plans imply a limited number of users and projects within a team workspace, it is necessary to regularly monitor the current license status. Note that before migrating to a smaller Plan, the number of active licenses has to be brought into correspondence with it. Otherwise the whole license will be frozen until the number of active users under it is not reduced to comply with the Plan. The freeze period is 6 months. Beyond this period Revizto is not responsible for any data exported to the Cloud.</text></para>
+    <para styleclass="Heading2" style="text-align:left; text-indent:0px; margin-top:24px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:2.06; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

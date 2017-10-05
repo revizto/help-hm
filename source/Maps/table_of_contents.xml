@@ -5,9 +5,6 @@
     <topicref type="topic" id="412533931291485" build="ALL" modified="2017-10-01T03:29:14.990Z" icon="0" href="sysreqs">
       <caption translate="true">Technical requirements</caption>
     </topicref>
-    <topicref type="topic" id="412535391819393" modified="2017-10-01T16:58:25.896Z" icon="0" href="User_profile">
-      <caption translate="true">Expected user skills</caption>
-    </topicref>
     <topicref type="topic" id="412533943714332" build="USER1,USER2,USER3" modified="2017-10-01T03:29:44.769Z" icon="0" href="Abbreviations">
       <caption translate="true">Terms and abbreviations</caption>
     </topicref>
@@ -29,8 +26,8 @@
   </topicref>
   <topicref type="topic" id="430093570287213" build="ALL" modified="2017-10-01T03:34:17.088Z" icon="0" href="Licensing">
     <caption translate="true">Licensing. Workspace Configuration and Management</caption>
-    <topicref type="topic" id="430092343760025" build="ALL" modified="2017-10-01T03:35:27.053Z" icon="0" href="Activation">
-      <caption translate="true">License activation</caption>
+    <topicref type="topic" id="430092343760025" build="ALL" modified="2017-10-05T11:59:49.199Z" icon="0" href="Activation">
+      <caption translate="true">Activating License</caption>
     </topicref>
     <topicref type="topic" id="430093621256219" build="ALL" modified="2017-10-01T03:36:23.799Z" icon="0" href="Manage-Users">
       <caption translate="true">Managing Users</caption>

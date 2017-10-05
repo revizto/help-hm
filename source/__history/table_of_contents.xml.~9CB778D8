@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude" defaulttopic="Introduction">
+  <topicref type="topic" id="412535212434522" build="ALL" modified="2017-10-01T03:51:10.247Z" icon="0" href="Introduction">
+    <caption translate="true">Intoroduction</caption>
+    <topicref type="topic" id="412533931291485" build="ALL" modified="2017-10-01T03:29:14.990Z" icon="0" href="sysreqs">
+      <caption translate="true">Technical requirements</caption>
+    </topicref>
+    <topicref type="topic" id="412533943714332" build="USER1,USER2,USER3" modified="2017-10-01T03:29:44.769Z" icon="0" href="Abbreviations">
+      <caption translate="true">Terms and abbreviations</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430090748001303" build="ALL" modified="2017-10-01T03:53:03.238Z" icon="0" href="Role-Guides">
+    <caption translate="true">Role Guides</caption>
+    <topicref type="topic" id="430090155077075" build="ALL" modified="2017-10-01T03:53:13.925Z" icon="0" href="License-Owner">
+      <caption translate="true">License Owner</caption>
+    </topicref>
+    <topicref type="topic" id="430093575942866" build="ALL" modified="2017-10-01T03:53:23.498Z" icon="0" href="Project-Manager">
+      <caption translate="true">Project Manager</caption>
+    </topicref>
+    <topicref type="topic" id="430092885596750" build="ALL" modified="2017-10-01T03:53:51.067Z" icon="0" href="Content-author">
+      <caption translate="true">Content author</caption>
+    </topicref>
+    <topicref type="topic" id="430092295050164" build="ALL" modified="2017-10-01T03:54:06.431Z" icon="0" href="Reviewer">
+      <caption translate="true">Reviewer</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430093570287213" build="ALL" modified="2017-10-01T03:34:17.088Z" icon="0" href="Licensing">
+    <caption translate="true">Licensing. Workspace Configuration and Management</caption>
+    <topicref type="topic" id="430092343760025" build="ALL" modified="2017-10-05T11:59:49.199Z" icon="0" href="Activation">
+      <caption translate="true">Activating License</caption>
+    </topicref>
+    <topicref type="topic" id="430093621256219" build="ALL" modified="2017-10-01T03:36:23.799Z" icon="0" href="Manage-Users">
+      <caption translate="true">Managing Users</caption>
+    </topicref>
+    <topicref type="topic" id="430090358747983" build="ALL" modified="2017-10-01T03:36:43.204Z" icon="0" href="Project-Management">
+      <caption translate="true">Project Management</caption>
+    </topicref>
+    <topicref type="topic" id="430089867500719" build="ALL" modified="2017-10-01T03:37:51.930Z" icon="0" href="License_monitoring">
+      <caption translate="true">License Monitoring</caption>
+    </topicref>
+    <topicref type="topic" id="430091924514971" build="ALL" modified="2017-10-01T03:38:07.198Z" icon="0" href="Interface-Tips">
+      <caption translate="true">Interface Tips</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430092289959695" build="ALL" modified="2017-10-01T03:52:14.428Z" icon="0" href="Exporting-Files-to-Revizto">
+    <caption translate="true">Exporting Files to Revizto</caption>
+  </topicref>
+</map>

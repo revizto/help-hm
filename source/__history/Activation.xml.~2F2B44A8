@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">License activation</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">License activation</text></para>
+    </header>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To start using you Revizto license:</text></para>
+    <list id="142" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Find an email with license owner credentials. These provide full access to the workspace management web-interface. By default, the License owner has the SuperAdmin role in the workspace. See more on roles below.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Navigate to www.revizto.com, log in with the above credentials and open the workspace management GUI (</text><var styleclass="Procedure">&lt;%FIG%&gt;</var><text styleclass="Procedure" translate="true">&#32;</text><var styleclass="Procedure">&lt;%FIGNO_0++%&gt;</var><text styleclass="Procedure" translate="true">). Note that simultaneously you may start downloading Revizto software for local installation (if you need it).</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.31; tabstops:none;"><image src="clip0003.png" scale="100.00%" styleclass="Image Caption"><caption translate="true"><![CDATA[<%IMAGENO_0++%> - Log In Page]]></caption></image></para>
+    <list id="143" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="3" styleclass="Procedure" style="font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" style="font-family:Arial; vertical-align:baseline;" translate="true">Go to the </text><text styleclass="Procedure" style="font-family:Arial; font-weight:bold; font-style:italic; vertical-align:baseline;" translate="true">License page</text><text styleclass="Procedure" style="font-family:Arial; vertical-align:baseline;" translate="true"> of the workspace GUI.</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">It displays summarized license status (number of user account created, number of projects created, SuperAdmin name, Team name) and allows navigating to other management pages (</text><var styleclass="Normal">&lt;%FIG%&gt;</var><text styleclass="Normal" translate="true">&#32;</text><var styleclass="Normal">&lt;%FIGNO_0++%&gt;</var><text styleclass="Normal" translate="true">).</text></para>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.31; tabstops:none;"><image src="clip0004.png" scale="100.00%" styleclass="Image Caption"><caption translate="true"><![CDATA[<%IMAGENO_0++%> - License Info Screen]]></caption></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">From this page you can navigate to project management, team management, support.</text></para>
+  </body>
+</topic>

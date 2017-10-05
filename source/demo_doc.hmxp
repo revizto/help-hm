@@ -226,6 +226,7 @@
       <config-value name="historyfilecount">10</config-value>
       <config-value name="historykeepdeletedfiles">0</config-value>
       <config-value name="vcsmanuallycheckout">0</config-value>
+      <config-group name="bookmarks"/>
     </config-group>
     <config-group name="pdf">
       <config-value name="style">0</config-value>
@@ -775,14 +776,12 @@ document.write('</frameset>');
       <helpcontext-number href="Reviewer" value="20170828"/>
       <helpcontext-number href="Role-Guides" value="20170824"/>
       <helpcontext-number href="sysreqs" value="11"/>
-      <helpcontext-number href="User_profile" value="12"/>
     </helpcontext-numbers>
   </config>
   <xi:include parse="xml" href="Maps/table_of_contents.xml"/>
   <project-files>
     <file href="Topics/*.xml" build="ALL" filetype="topic">
       <file-mod href="Abbreviations.xml" build="USER1,USER2,USER3"/>
-      <file-mod href="User_profile.xml"/>
     </file>
     <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
   </project-files>
