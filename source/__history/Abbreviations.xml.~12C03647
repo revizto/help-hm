@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="ион" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Используемые сокращения и термины</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Используемые сокращения и термины</text></para>
+    </header>
+    <para styleclass="Heading 2"><anchor id="__abbreviations" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">Сокращения и аббревиатуры</text></para>
+    <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">SID - уникальный идентификатор контроллера, который формируется автоматически и не может быть изменен</text></para>
+    <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">АРМ - автоматизированное рабочее место</text></para>
+    <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">БД - база данных</text></para>
+    <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">ОС - операционная система</text></para>
+    <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">ОЗУ - оперативное запоминающее устройство, оперативная память</text></para>
+    <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">ПК - персональный компьютер </text></para>
+    <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">ПО - программное обеспечение</text></para>
+    <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">СКУД - система контроля и управления доступом</text></para>
+    <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">СУБД - система управления базами данных</text></para>
+    <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">УРВ - учет рабочего времени</text></para>
+    <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">ЦП - центральный процессор</text></para>
+    <para styleclass="Heading 2"><anchor id="__terms" styleclass="Heading 2"><keywords><keyword translate="true">Термины</keyword></keywords></anchor><text styleclass="Heading 2" translate="true">Термины</text></para>
+    <para styleclass="Normal"><text styleclass="Term" translate="true">Драйвер</text><text styleclass="Normal" translate="true">, </text><text styleclass="Term" translate="true">драйвер устройства</text><text styleclass="Normal" translate="true"> - интерактивный индикатор устройства, интегрированного в систему, управляемую ПО RusGuard. Отображается на планах, позволяет управлять устройством через АРМ.</text></para>
+    <para styleclass="Normal"><text styleclass="Term" translate="true">Группа пользователей</text><text styleclass="Normal" translate="true"> - элемент настройки системы. Позволяет группировать учетные записи пользователей АРМ RusGuard, исходя из их полномочий, назначать полномочия нескольким пользователям одновременно. Назначение прав осуществляется только на уровне Групп.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-style:italic;" translate="true">Модуль АРМ</text><text styleclass="Normal" translate="true"> – компонент Рабочего места, выполняющий определенную функциональную нагрузку. Состав модулей, доступных для определенного Рабочего места определяется Администратором системы. </text></para>
+    <para styleclass="Normal"><text styleclass="Term" translate="true">Пользователь</text><text styleclass="Normal" translate="true"> - учетная запись пользователя (оператора, администратора) АРМ RusGuard, предоставляющая доступ к определенному набору рабочих мест. </text></para>
+    <para styleclass="Normal"><text styleclass="Term" translate="true">План</text><text styleclass="Normal" translate="true"> - графическая схема объекта с расположенными на ней драйверами устройств. Также существует &quot;дерево планов&quot; – иерархическое объединение отдельных Планов. </text></para>
+    <para styleclass="Normal"><conditional-text type="IF" value="user2"/><link displaytype="text" defaultstyle="true" type="topiclink" href="_workstation_setup" styleclass="Term" translate="true">Рабочее место</link><conditional-text type="END"/><conditional-text type="IFNOT" value="user2,user3"/><text styleclass="Term" translate="true">Рабочее место</text><conditional-text type="END"/><text styleclass="Normal" translate="true"> - вариант конфигурации интерфейса к АРМ RusGuard, настраиваемая администратором для различных групп операторов, в зависимости от их задач. Каждый тип рабочего места имеет собственный набор доступных модулей АРМ, либо различную конфигурацию одинаковых модулей.</text></para>
+    <para styleclass="Normal"><text styleclass="Term" translate="true">Сотрудник</text><text styleclass="Normal" translate="true"> - учетная запись лица, осуществляющего контролируемый системой доступ на оборудованный СКУД объект. </text></para>
+    <para styleclass="Normal"><text styleclass="Term" translate="true">Событие</text><text styleclass="Normal" translate="true"> - значимое для системы событие на точке доступа, регистрируемое средствами системы, сохраняемое в БД и доступное для построения отчетов. Например, вход, выход, взлом и т.д.</text></para>
+    <para styleclass="Normal"><text styleclass="Term" translate="true">Точка доступа</text><text styleclass="Normal" translate="true"> - точка, через которую сотрудники осуществляют доступ на объект и покидают его. На точках доступа устанавливаются устройства СКУД (контроллеры). Подключенные к системе контроллеры поддерживают четыре типа точек доступа: дверь, двойная дверь, турникет и шлагбаум (ворота).</text></para>
+    <para styleclass="Normal"><text styleclass="Term" translate="true">Реакция</text><text styleclass="Normal" translate="true"> - настраиваемое действие (обычно уведомление), которое выполняется системой по определенному пользователем графику (&quot;расписанию&quot;) и определяется возникновением событий разного типа. </text></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

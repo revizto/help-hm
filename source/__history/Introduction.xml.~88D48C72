@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="утюг" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Intoruduction</title>
+  <keywords>
+    <keyword translate="true">Лицензионного соглашения</keyword>
+    <keyword translate="true">Скачать полный пакет ПО RusGuard Soft</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Intoruduction</text></para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><image src="SOFT.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Программное обеспечение RusGuard Soft - новейшая разработка специалистов компании &quot;</text><link displaytype="text" defaultstyle="true" type="weblink" href="rgsec.ru" target="_blank" styleclass="Normal" translate="true">РусГард</link><text styleclass="Normal" translate="true">&quot;. Многосерверный принцип, примененный в ПО RusGuard, позволяет создавать единые интегрированные системы безопасности на объектах любой сложности и любого масштаба - от одного здания, до распределенных на региональном уровне крупных промышленных объектов.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Основные особенности ПО RusGuard Soft:</text></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Полный пакет ПО поставляется бесплатно;</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Количество контроллеров в системе – неограниченно;</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Количество пользователей в системе – неограниченно;</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Количество удаленных рабочих мест в системе – неограниченно;</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Полная поддержка всех современных операционных систем семейства Windows, как х32 так и х64 разрядных версий;</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Встроенный модуль автоматического распознавания документов;</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Интеграция в систему любых IP камер с возможностью просмотра живого видео, записи архива и др.;</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Поддержка любых USB GSM модемов для отправки SMS;</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Большой набор интеграций с внешними системами: Bolid, ISS, ITV, 1c, VisitorControl и др.;</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Открытый пакет полного серверного API на базе стандартизированных технологий SOAP.</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">ПО RusGuard Soft создано в среде Microsoft Visual Studio 2015 (.NET 4.6) c использованием самых современных и передовых технологий в сфере разработки программного обеспечения, позволяющих совместно с техническими особенностями оборудования, создавать единую комбинированную систему, включающую в себя неограниченное количество серверов оборудования, локальных серверов БД и др., с организацией как локальных центров мониторинга, так и централизованных.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">ПО RusGuard Soft постоянно развивается и обновляется, чтобы обеспечить выполнение новых задач, возникающих в сфере обеспечения безопасности. Полный пакет ПО, так же как и обновления, поставляется бесплатно. Чтобы ознакомиться с возможностями ПО RusGuard, загрузите его c сайта или воспользуйтесь функционалом Демо-сервера.</text></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="weblink" href="http://www.rgsec.ru/support/software/programm" target="_blank" styleclass="Normal" translate="true">Скачать полный пакет ПО RusGuard Soft</link></para>
+    <para styleclass="attention"><text styleclass="attention" style="font-weight:bold;" translate="true">Внимание</text><text styleclass="attention" translate="true">: перед использованием ПО RusGuard Soft ознакомьтесь с положениями </text><link displaytype="text" defaultstyle="true" type="weblink" href="http://www.rgsec.ru/files/ftp/RusGuardSoft/LicensAagreement_RusGuardSoft.pdf" target="_blank" styleclass="attention" translate="true">Лицензионного соглашения</link><text styleclass="attention" translate="true">.</text></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

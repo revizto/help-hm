@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude" defaulttopic="Introduction">
+  <topicref type="topic" id="412535212434522" build="ALL" modified="2017-10-01T03:28:53.470Z" icon="0" href="Introduction">
+    <caption translate="true">Intoruduction</caption>
+    <topicref type="topic" id="412533931291485" build="ALL" modified="2017-10-01T03:29:14.990Z" icon="0" href="sysreqs">
+      <caption translate="true">Technical requirements</caption>
+    </topicref>
+    <topicref type="topic" id="412919395053432" build="USER1,USER2,USER3" modified="2017-10-01T03:29:23.340Z" icon="0" href="_new_in_version">
+      <caption translate="true">Before installing</caption>
+    </topicref>
+    <topicref type="topic" id="412535391819393" build="ALL" modified="2017-10-01T03:29:37.164Z" icon="0" href="User_profile">
+      <caption translate="true">Expected user skills</caption>
+    </topicref>
+    <topicref type="topic" id="412533943714332" build="USER1,USER2,USER3" modified="2017-10-01T03:29:44.769Z" icon="0" href="Abbreviations">
+      <caption translate="true">Terms and abbreviations</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430093570287213" build="ALL" modified="2017-10-01T03:29:52.661Z" icon="0" href="Licensing">
+    <caption translate="true">Licensing</caption>
+  </topicref>
+</map>
