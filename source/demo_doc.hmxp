@@ -182,15 +182,15 @@
       </tablestyleclass>
     </styleclasses>
     <config-group name="project">
-      <config-value name="title" translate="true">Revizto</config-value>
+      <config-value name="title" translate="true">Revizto User Guide</config-value>
       <config-value name="author" translate="true">Revizto</config-value>
       <config-value name="copyright" translate="true">© 2017 Revizto</config-value>
       <config-value name="versionmajor">1</config-value>
       <config-value name="versionminor">0</config-value>
       <config-value name="versionbuild">0</config-value>
-      <config-value name="lcid">ru</config-value>
-      <config-value name="charset">RUSSIAN_CHARSET</config-value>
-      <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000;</config-value>
+      <config-value name="lcid" translate="true">en-us</config-value>
+      <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
+      <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000; </config-value>
       <config-value name="autohelpstart">26</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
@@ -198,11 +198,10 @@
       <config-group name="custombuilds">
         <config-value name="DEMO">Demo Build</config-value>
         <config-value name="IMPORT">IMPORT</config-value>
-        <config-value name="SKUD">SKUD</config-value>
+        <config-value name="MOBILE">MOBILE</config-value>
         <config-value name="USER1">User defined 1</config-value>
         <config-value name="USER2">User defined 2</config-value>
         <config-value name="USER3">User defined 3</config-value>
-        <config-value name="MOBILE">MOBILE</config-value>
       </config-group>
       <config-value name="imageshortcuts_includebaggage">1</config-value>
       <config-value name="make4include">USER3</config-value>
@@ -228,14 +227,16 @@
       <config-value name="historyfilecount">10</config-value>
       <config-value name="historykeepdeletedfiles">0</config-value>
       <config-value name="vcsmanuallycheckout">0</config-value>
+      <config-value name="contents">Introduction</config-value>
+      <config-value name="bidimode">0</config-value>
     </config-group>
     <config-group name="pdf">
       <config-value name="style">0</config-value>
-      <config-value name="createoutline">1</config-value>
+      <config-value name="createoutline">0</config-value>
       <config-value name="outlinesnumbered">0</config-value>
       <config-value name="createhotspots">1</config-value>
       <config-value name="insertseealso">1</config-value>
-      <config-value name="linkcolor">16737843</config-value>
+      <config-value name="linkcolor">16711680</config-value>
       <config-value name="ignoreblank">1</config-value>
       <config-value name="outputfile">manual.pdf</config-value>
       <config-value name="template">$(HMSYS)Templates\PDF\Classic_manual_short.mnl</config-value>
@@ -247,10 +248,15 @@
       <config-value name="usercopy">1</config-value>
       <config-value name="userchange">1</config-value>
       <config-value name="encrypt128bit">0</config-value>
-      <config-value name="title" translate="true">RusGuard Soft. Руководство пользователя</config-value>
+      <config-value name="title" translate="true">Revizto User Manual</config-value>
       <config-value name="highlighthotspots">0</config-value>
       <config-value name="exportcomments">0</config-value>
       <config-value name="exportcommentsdate">36526</config-value>
+      <config-value name="insertseealsostyle">1</config-value>
+      <config-value name="pdfa">0</config-value>
+      <config-value name="pagelayout">0</config-value>
+      <config-value name="copyright" translate="true">Revizto</config-value>
+      <config-value name="copyrightpublicdomain">0</config-value>
     </config-group>
     <config-group name="user">
       <config-group name="ион">

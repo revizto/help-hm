@@ -72,7 +72,7 @@
         <style-set media="screen" type="para">text-indent:0px; margin-top:5px; margin-bottom:0px; margin-left:10px;</style-set>
         <style-set media="screen" type="text">font-family:Calibri; font-size:11pt;</style-set>
       </styleclass>
-      <styleclass name="Bullet_1" parentclass="Normal" shortcut="0">
+      <styleclass name="Bullet_1" parentclass="Normal" shortcut="116">
         <style-set media="screen" type="para">text-indent:19px; margin-top:0px; margin-bottom:5px;</style-set>
       </styleclass>
       <styleclass name="Bullet_3" parentclass="Bullet_1" shortcut="16434">
@@ -103,11 +103,11 @@
       </styleclass>
       <styleclass name="Heading 2" parentclass="Normal" shortcut="0">
         <style-set media="screen" type="para">margin-top:0px; margin-bottom:5px;</style-set>
-        <style-set media="screen" type="text">font-size:14pt; font-weight:bold; color:#3366ff;</style-set>
+        <style-set media="screen" type="text">font-size:14pt; font-weight:bold; color:#ff6600;</style-set>
       </styleclass>
       <styleclass name="Heading 3" parentclass="Normal" shortcut="0">
         <style-set media="screen" type="para">margin-top:10px; margin-bottom:0px;</style-set>
-        <style-set media="screen" type="text">font-size:13pt; font-weight:bold; color:#000080;</style-set>
+        <style-set media="screen" type="text">font-size:13pt; font-weight:bold; color:#ff9900;</style-set>
       </styleclass>
       <styleclass name="Heading 4" parentclass="Normal" shortcut="0">
         <style-set media="screen" type="para">margin-top:10px; margin-bottom:0px;</style-set>
@@ -172,24 +172,26 @@
         <style-set media="screen" type="text">font-style:italic;</style-set>
       </styleclass>
       <styleclass name="warning" parentclass="Normal" shortcut="0">
-        <style-set media="screen" type="para">margin-top:10px; margin-bottom:5px; background-color:#ff9900;</style-set>
+        <style-set media="screen" type="para">margin-top:10px; margin-bottom:5px; background-color:#ff6464;</style-set>
       </styleclass>
-      <styleclass name="attention" parentclass="warning" shortcut="0"/>
+      <styleclass name="attention" parentclass="warning" shortcut="0">
+        <style-set media="screen" type="para">background-color:#ffcc00;</style-set>
+      </styleclass>
       <tablestyleclass name="Default">
         <style-set media="screen">width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; background-color:none; head-row-background-color:none; alt-row-background-color:none;</style-set>
       </tablestyleclass>
     </styleclasses>
     <config-group name="project">
-      <config-value name="title" translate="true">Revizto</config-value>
+      <config-value name="title" translate="true">Revizto User Guide</config-value>
       <config-value name="author" translate="true">Revizto</config-value>
       <config-value name="copyright" translate="true">© 2017 Revizto</config-value>
       <config-value name="versionmajor">1</config-value>
       <config-value name="versionminor">0</config-value>
       <config-value name="versionbuild">0</config-value>
-      <config-value name="lcid">ru</config-value>
-      <config-value name="charset">RUSSIAN_CHARSET</config-value>
-      <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000;</config-value>
-      <config-value name="autohelpstart">10</config-value>
+      <config-value name="lcid" translate="true">en-us</config-value>
+      <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
+      <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000; </config-value>
+      <config-value name="autohelpstart">26</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
       <config-value name="searchpath">.\images\</config-value>
@@ -226,7 +228,8 @@
       <config-value name="historyfilecount">10</config-value>
       <config-value name="historykeepdeletedfiles">0</config-value>
       <config-value name="vcsmanuallycheckout">0</config-value>
-      <config-group name="bookmarks"/>
+      <config-value name="contents">Introduction</config-value>
+      <config-value name="bidimode">0</config-value>
     </config-group>
     <config-group name="pdf">
       <config-value name="style">0</config-value>
@@ -759,30 +762,44 @@ document.write('</frameset>');
       <variable id="TABLENO_2++" type="text" translate="true">0</variable>
       <variable id="IMAGENO_13++" type="text" translate="true">0</variable>
       <variable id="FIGNO_13++" type="text" translate="true">0</variable>
+      <variable id="BRAND_NAME" type="text" translate="true">Revizto</variable>
     </variables>
     <helpcontext-numbers>
       <helpcontext-number href="Abbreviations" value="13"/>
       <helpcontext-number href="Activation" value="20170818"/>
+      <helpcontext-number href="Collaborator-Reports" value="26"/>
       <helpcontext-number href="Content-author" value="20170827"/>
+      <helpcontext-number href="Creating-and-Managing-Project-" value="25"/>
+      <helpcontext-number href="Creating-a-Project" value="24"/>
       <helpcontext-number href="Exporting-Files-to-Revizto" value="20170823"/>
+      <helpcontext-number href="FAQ" value="15"/>
+      <helpcontext-number href="From-AutoCad_ArchiCad" value="18"/>
+      <helpcontext-number href="From-Navisworks" value="14"/>
+      <helpcontext-number href="From-Revit" value="12"/>
+      <helpcontext-number href="Installation-and-Deployment" value="17"/>
       <helpcontext-number href="Interface-Tips" value="20170822"/>
       <helpcontext-number href="Introduction" value="1"/>
+      <helpcontext-number href="Issue-LifeCycle" value="10"/>
       <helpcontext-number href="License_monitoring" value="20170821"/>
       <helpcontext-number href="License-Owner" value="20170825"/>
       <helpcontext-number href="Licensing" value="20170817"/>
       <helpcontext-number href="Manage-Users" value="20170819"/>
+      <helpcontext-number href="Managing-Notifications" value="19"/>
+      <helpcontext-number href="Managing-User-Profile" value="20"/>
+      <helpcontext-number href="My-Projects" value="21"/>
       <helpcontext-number href="Project-Management" value="20170820"/>
+      <helpcontext-number href="Project-Management2" value="23"/>
       <helpcontext-number href="Project-Manager" value="20170826"/>
       <helpcontext-number href="Reviewer" value="20170828"/>
       <helpcontext-number href="Role-Guides" value="20170824"/>
       <helpcontext-number href="sysreqs" value="11"/>
+      <helpcontext-number href="Troubleshooting" value="16"/>
+      <helpcontext-number href="Using-the-Web-GUI" value="22"/>
     </helpcontext-numbers>
   </config>
   <xi:include parse="xml" href="Maps/table_of_contents.xml"/>
   <project-files>
-    <file href="Topics/*.xml" build="ALL" filetype="topic">
-      <file-mod href="Abbreviations.xml" build="USER1,USER2,USER3"/>
-    </file>
+    <file href="Topics/*.xml" build="ALL" filetype="topic"/>
     <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
   </project-files>
 </helpproject>
