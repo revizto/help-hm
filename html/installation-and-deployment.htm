@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+   <title>Installation and Deployment</title>
+   <meta name="generator" content="Help &amp; Manual" />
+   <meta name="keywords" content="" />
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+   
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+   <meta name="description" content="Local Installation. Windows When a team license is issued to a customer, owner credentials are supplied by Revizto. Further configuration is performed at the customer side..." />
+   <meta name="picture" content="" />
+   <link type="text/css" href="default.css" rel="stylesheet" />
+   <style type="text/css">
+     body { margin: 0px; background: #FFFFFF; }
+   </style>
+   <script type="text/javascript" src="jquery.js"></script>
+   <script type="text/javascript" src="helpman_settings.js"></script>
+   <script type="text/javascript" src="helpman_topicinit.js"></script>
+
+   <script type="text/javascript">
+     HMSyncTOC("index.html", "installation-and-deployment.htm");
+   </script>
+</head>
+<body>
+
+
+<table style="width:100%; border:none; border-spacing:0px; padding:5px; background:#D0D0D0">
+  <tr style="vertical-align:middle">
+    <td style="text-align:left">
+      <h1 class="p_Heading1"><span class="f_Heading1">Installation and Deployment</span></h1>
+
+    </td>
+    <td style="text-align:right">
+     <a href="introduction.htm">Top</a>&nbsp;
+     <a href="interface-tips.htm">Previous</a>&nbsp;
+     <a href="using-the-web-gui.htm">Next</a>
+    </td>
+  </tr>
+</table>
+
+
+<!-- Placeholder for topic body. -->
+<table style="width:100%;border:none;border-spacing:0px"><tr style="vertical-align:top"><td style="text-align:left;padding:5px">
+<p class="p_Heading2"><span class="f_Heading2">Local Installation. Windows</span></p>
+<p class="p_Normal">When a team license is issued to a customer, owner credentials are supplied by Revizto. Further configuration is performed at the customer side according to their business process and preferences.</p>
+<p class="p_Normal">To deploy a collaboration environment, you have to first activate the team license in the web-GUI (see the Licensing section) and then proceed to local deployment. Note that to ensure valid network collaboration, you have to pay attention network settings when installing local instances of Revizto, Viewers and plug-ins.</p>
+<p class="p_Heading3"><span class="f_Heading3">Network requirements</span></p>
+<p class="p_Normal">If the company is using firewall, ports 80 and 443 have to be opened for Revizto. And the following domains must be allowed:</p>
+<p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 13px; margin: 0px 0px 5px 29px;"><span style="font-size:11pt; font-family: 'Arial Unicode MS','Lucida Sans Unicode','Arial';color:#000000;display:inline-block;width:13px;margin-left:-13px">&#8226;</span><span class="f_Bullet_1">*.revizto.com</span></p><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 13px; margin: 0px 0px 5px 29px;"><span style="font-size:11pt; font-family: 'Arial Unicode MS','Lucida Sans Unicode','Arial';color:#000000;display:inline-block;width:13px;margin-left:-13px">&#8226;</span><span class="f_Bullet_1">*.s3.amazonaws.com</span></p><p class="p_Normal">If the company is using the proxy server, you need to set up proxy server settings in Revizto. In log in window click the Proxy server settings in the right top corner of the screen and fill in all required information.</p>
+<p class="p_Note"><span class="f_Note" style="font-weight: bold;">Tip</span><span class="f_Note">: Revizto displays the current connection status in a circle by the name of current user. If everything is ok, the circle is green, if there are connection issues, it is yellow, if you are offline, it goes black.</span></p>
+<p class="p_ImageCaption"><img alt="connection_status.png" title="connection_status.png" width="100" height="30" style="margin:0px auto 0px auto;width:100px;height:30px;border:none" src="connection_status.png"/></p>
+<p class="p_Heading3"><span class="f_Heading3">Installation Process</span></p>
+<p class="p_Normal">To install the software suite, you have to either be the license owner who obtains the download link from Revizto, or a license user invited directly to the team or to one of its projects. The distribution package includes all Revizto components (Revizto, viewers, scheduler, plug-ins). The installation wizard installs Revizto and viewers, and allows the user to select optional components.</p>
+<p class="p_ImageCaption"><img alt="ins_opt_comp.png" title="ins_opt_comp.png" width="495" height="387" style="margin:0px auto 0px auto;width:495px;height:387px;border:none" src="ins_opt_comp.png"/></p>
+<p class="p_Normal">Generally, source editors need Revizto and plug-ins for software they work with (most popular ware Revit and Navisworks); collaborators on the customer (or management) side need Revizto and viewers. Thus, customers can review the model in a preferable display format, create issues and track them.</p>
+<p class="p_Normal">Also you can select your language and which shortcuts you want on your desktop.</p>
+<p class="p_Normal">The Wizard asks user permission to install certUtil.exe. It is safe to install this element and it is recommended to. It installs certificates that ensures smooth interaction with Revit and AutoCad (otherwise you will have to confirm that you want to use the plug-in any time you launch it).</p>
+<p class="p_Normal">From this point onwards the procedure is quite standard; just follow the wizard.</p>
+<p class="p_Normal">If a newer version of Revizto is available, notification is displayed at the launch.</p>
+<p class="p_attention"><span class="f_attention" style="font-weight: bold;">Caution</span><span class="f_attention">: If you plan to install a new version of Revizto instead of an existing one, do not uninstall it manually. The installation wizard detects traces of the previous version and attempts to uninstall it, as it is a part of its logic. Failing to find an old version, the wizard fails.</span></p>
+<p class="p_Normal">Just as any software, Revizto can be installed for the current user and for all users of the machine. For the latter option you have to launch the wizard as the local administrator.</p>
+<p class="p_Heading3"><span class="f_Heading3">Quiet mode installation</span></p>
+<p class="p_Normal">Revizto can be installed in the quiet mode (without UI) using the following keys:</p>
+<p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 13px; margin: 0px 0px 5px 29px;"><span style="font-size:11pt; font-family: 'Arial Unicode MS','Lucida Sans Unicode','Arial';color:#000000;display:inline-block;width:13px;margin-left:-13px">&#8226;</span><span class="f_Bullet_1">ALLUSERS=”1”- installation for all users on this computer (per machine). Administrator rights are required.</span></p><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 13px; margin: 0px 0px 5px 29px;"><span style="font-size:11pt; font-family: 'Arial Unicode MS','Lucida Sans Unicode','Arial';color:#000000;display:inline-block;width:13px;margin-left:-13px">&#8226;</span><span class="f_Bullet_1">MSIINSTALLPERUSER=”1” – installation for a current user (per user)</span></p><p class="p_Note"><span class="f_Note" style="font-weight: bold;">Tip</span><span class="f_Note">: to quickly access the installation log, open the command line and enter “C:\MyPackage\Revizto(x64)-4.4.XXXXX.msi” /L*V C:\MyPackage\ReviztoInstall.log” in it.</span></p>
+<p class="p_Heading3"><span class="f_Heading3">Defining Preferences</span></p>
+<p class="p_Normal">Upon completing installation, launch Revizto and navigate to the <span class="f_GUI_item">Preferences</span> menu. By default, the <span class="f_GUI_item">General </span>view is displayed.</p>
+<p class="p_ImageCaption"><img alt="install_preferences.png" title="install_preferences.png" width="653" height="480" style="margin:0px auto 0px auto;width:653px;height:480px;border:none" src="install_preferences.png"/></p>
+<p class="p_Normal" style="margin: 0px 0px 0px 0px;">&nbsp;</p>
+<p class="p_Normal">Define the preferred display settings, measure units. Note that you can change language any time. You can also change the default project folder. During installation the wizard creates a new folder in the Documents folder of the current user. This folder is used for synchronization: projects somehow available to the user are stored there and shared from there.</p>
+<p class="p_ImageCaption"><img alt="inst_working_folder.png" title="inst_working_folder.png" width="578" height="323" style="margin:0px auto 0px auto;width:578px;height:323px;border:none" src="inst_working_folder.png"/></p>
+<p class="p_Normal">Note that this folder contains logs for all revizto components and events.</p>
+<p class="p_attention"><span class="f_attention" style="font-weight: bold;">Caution</span><span class="f_attention">: It is not recommended to create the working folder at remote network location. Revizto relies on SQL Light and major projects tend to generate multiple requests to the working folder. If created outside the local machine, it can cause failures and errors.</span></p>
+<p class="p_Heading2"><span class="f_Heading2">Portable Devices</span></p>
+<p class="p_Heading2"><span class="f_Heading2">Multi-User Installation. Windows</span></p>
+<p class="p_Heading3"><span class="f_Heading3">Installation</span></p>
+
+</td></tr></table>
+
+</body>
+</html>

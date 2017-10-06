@@ -66,13 +66,13 @@ span.f_Heading2 /* Heading 2 */
 {
  font-size: 14pt;
  font-weight: bold;
- color: #3366ff;
+ color: #ff6600;
 }
 span.f_Heading3 /* Heading 3 */
 {
  font-size: 13pt;
  font-weight: bold;
- color: #000080;
+ color: #ff9900;
 }
 span.f_Heading4 /* Heading 4 */
 {
@@ -180,7 +180,7 @@ p, p.p_Normal, div.p_Normal /* Normal */
 .p_attention /* attention */
 {
  font-size: 11pt;
- background: #ff9900;
+ background: #ffcc00;
  margin: 10px 0px 5px 10px;
 }
 .p_Bullet_1 /* Bullet_1 */
@@ -359,7 +359,7 @@ p, p.p_Normal, div.p_Normal /* Normal */
 .p_warning /* warning */
 {
  font-size: 11pt;
- background: #ff9900;
+ background: #ff6464;
  margin: 10px 0px 5px 10px;
 }
 

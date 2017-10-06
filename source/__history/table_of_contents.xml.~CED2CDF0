@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude" defaulttopic="Introduction">
+  <topicref type="topic" id="412535212434522" build="ALL" modified="2017-10-01T03:51:10.247Z" icon="0" href="Introduction">
+    <caption translate="true">Intoroduction</caption>
+    <topicref type="topic" id="412533931291485" build="ALL" modified="2017-10-01T03:29:14.990Z" icon="0" href="sysreqs">
+      <caption translate="true">Technical requirements</caption>
+    </topicref>
+    <topicref type="topic" id="412533943714332" build="USER1,USER2,USER3" modified="2017-10-01T03:29:44.769Z" icon="0" href="Abbreviations">
+      <caption translate="true">Terms and abbreviations</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430090748001303" build="ALL" modified="2017-10-01T03:53:03.238Z" icon="0" href="Role-Guides">
+    <caption translate="true">Role Guides</caption>
+    <topicref type="topic" id="430090155077075" build="ALL" modified="2017-10-01T03:53:13.925Z" icon="0" href="License-Owner">
+      <caption translate="true">License Owner</caption>
+    </topicref>
+    <topicref type="topic" id="430093575942866" build="ALL" modified="2017-10-01T03:53:23.498Z" icon="0" href="Project-Manager">
+      <caption translate="true">Project Manager</caption>
+    </topicref>
+    <topicref type="topic" id="430092885596750" build="ALL" modified="2017-10-05T13:28:08.777Z" icon="0" href="Content-author">
+      <caption translate="true">Content Editor</caption>
+    </topicref>
+    <topicref type="topic" id="430092295050164" build="ALL" modified="2017-10-05T13:28:12.933Z" icon="0" href="Reviewer">
+      <caption translate="true">Viewer</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430093570287213" build="ALL" modified="2017-10-01T03:34:17.088Z" icon="0" href="Licensing">
+    <caption translate="true">Licensing. Workspace Configuration and Management</caption>
+    <topicref type="topic" id="430092343760025" build="ALL" modified="2017-10-05T11:59:49.199Z" icon="0" href="Activation">
+      <caption translate="true">Activating License</caption>
+    </topicref>
+    <topicref type="topic" id="430093621256219" build="ALL" modified="2017-10-01T03:36:23.799Z" icon="0" href="Manage-Users">
+      <caption translate="true">Managing Users</caption>
+    </topicref>
+    <topicref type="topic" id="430090358747983" build="ALL" modified="2017-10-05T13:26:12.026Z" icon="0" href="Project-Management">
+      <caption translate="true">Managing Projects</caption>
+    </topicref>
+    <topicref type="topic" id="430089867500719" build="ALL" modified="2017-10-01T03:37:51.930Z" icon="0" href="License_monitoring">
+      <caption translate="true">License Monitoring</caption>
+    </topicref>
+    <topicref type="topic" id="430091924514971" build="ALL" modified="2017-10-05T13:32:18.205Z" icon="0" href="Interface-Tips">
+      <caption translate="true">Web Interface Tips</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="43014952613964" build="ALL" modified="2017-10-05T13:33:00.367Z" icon="0" href="Installation-and-Deployment">
+    <caption translate="true">Installation and Deployment</caption>
+  </topicref>
+  <topicref type="topic" id="430144948930184" build="ALL" modified="2017-10-06T09:52:40.918Z" icon="0" href="Using-the-Web-GUI">
+    <caption translate="true">Using the Web GUI</caption>
+    <topicref type="topic" id="430144011018100" build="ALL" modified="2017-10-06T09:52:30.304Z" icon="0" href="My-Projects">
+      <caption translate="true">My Projects</caption>
+    </topicref>
+    <topicref type="topic" id="430143319475775" build="ALL" modified="2017-10-06T09:51:58.627Z" icon="0" href="Managing-User-Profile">
+      <caption translate="true">Managing User Profile</caption>
+    </topicref>
+    <topicref type="topic" id="429936055817" build="ALL" modified="2017-10-06T09:51:48.456Z" icon="0" href="Managing-Notifications">
+      <caption translate="true">Managing Notifications</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430092289959695" build="ALL" modified="2017-10-05T13:26:31.702Z" icon="0" href="Exporting-Files-to-Revizto">
+    <caption translate="true">Source Export to Revizto</caption>
+    <topicref type="topic" id="430137083871120" build="ALL" modified="2017-10-05T13:27:16.516Z" icon="0" href="From-Revit">
+      <caption translate="true">From Revit</caption>
+    </topicref>
+    <topicref type="topic" id="430136537361845" build="ALL" modified="2017-10-05T13:31:36.529Z" icon="0" href="From-Navisworks">
+      <caption translate="true">From Navisworks</caption>
+    </topicref>
+    <topicref type="topic" id="430144747157305" build="ALL" modified="2017-10-06T09:32:52.497Z" icon="0" href="From-AutoCad_ArchiCad">
+      <caption translate="true">From AutoCad/ArchiCad</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430136681765252" build="ALL" modified="2017-10-05T13:26:52.345Z" icon="0" href="Issue-LifeCycle">
+    <caption translate="true">Issue LifeCycle</caption>
+  </topicref>
+  <topicref type="topic" id="430137438263638" build="ALL" modified="2017-10-05T13:28:24.986Z" icon="0" href="FAQ">
+    <caption translate="true">FAQ</caption>
+  </topicref>
+  <topicref type="topic" id="430134805534268" build="ALL" modified="2017-10-05T13:28:34.220Z" icon="0" href="Troubleshooting">
+    <caption translate="true">Troubleshooting</caption>
+  </topicref>
+</map>

@@ -8,7 +8,7 @@
     </header>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">The License owner (SuperAdmin) is responsible for the license life-cycle. Typically, the License management includes the following steps and stages:</text></para>
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
-      <li styleclass="Procedure"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Procedure"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" styleclass="Procedure"><caption translate="true"><![CDATA[Team license activation.]]></caption></toggle></li>
+      <li styleclass="Procedure"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Procedure"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Procedure"><caption translate="true"><![CDATA[Team license activation.]]></caption></toggle></li>
     </list>
     <para styleclass="Procedure"><table styleclass="Default" rowcount="1" colcount="1">
       <tr style="vertical-align:top">
@@ -28,7 +28,7 @@
       </tr>
     </table></para>
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
-      <li styleclass="Procedure"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Procedure"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" styleclass="Procedure"><caption translate="true"><![CDATA[Project license management.]]></caption></toggle></li>
+      <li styleclass="Procedure"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Procedure"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Procedure"><caption translate="true"><![CDATA[Project license management.]]></caption></toggle></li>
     </list>
     <para styleclass="Procedure"><table styleclass="Default" rowcount="1" colcount="1">
       <tr style="vertical-align:top">
@@ -38,7 +38,7 @@
       </tr>
     </table></para>
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
-      <li styleclass="Procedure"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Procedure"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" styleclass="Procedure"><caption translate="true"><![CDATA[License Monitoring.]]></caption></toggle></li>
+      <li styleclass="Procedure"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Procedure"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Procedure"><caption translate="true"><![CDATA[License Monitoring.]]></caption></toggle></li>
     </list>
     <para styleclass="Procedure"><table styleclass="Default" rowcount="1" colcount="1">
       <tr style="vertical-align:top">
