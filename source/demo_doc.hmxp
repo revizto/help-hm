@@ -191,7 +191,7 @@
       <config-value name="lcid">ru</config-value>
       <config-value name="charset">RUSSIAN_CHARSET</config-value>
       <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000;</config-value>
-      <config-value name="autohelpstart">22</config-value>
+      <config-value name="autohelpstart">26</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
       <config-value name="searchpath">.\images\</config-value>
@@ -765,7 +765,10 @@ document.write('</frameset>');
     <helpcontext-numbers>
       <helpcontext-number href="Abbreviations" value="13"/>
       <helpcontext-number href="Activation" value="20170818"/>
+      <helpcontext-number href="Collaborator-Reports" value="26"/>
       <helpcontext-number href="Content-author" value="20170827"/>
+      <helpcontext-number href="Creating-and-Managing-Project-" value="25"/>
+      <helpcontext-number href="Creating-a-Project" value="24"/>
       <helpcontext-number href="Exporting-Files-to-Revizto" value="20170823"/>
       <helpcontext-number href="FAQ" value="15"/>
       <helpcontext-number href="From-AutoCad_ArchiCad" value="18"/>
@@ -783,6 +786,7 @@ document.write('</frameset>');
       <helpcontext-number href="Managing-User-Profile" value="20"/>
       <helpcontext-number href="My-Projects" value="21"/>
       <helpcontext-number href="Project-Management" value="20170820"/>
+      <helpcontext-number href="Project-Management2" value="23"/>
       <helpcontext-number href="Project-Manager" value="20170826"/>
       <helpcontext-number href="Reviewer" value="20170828"/>
       <helpcontext-number href="Role-Guides" value="20170824"/>

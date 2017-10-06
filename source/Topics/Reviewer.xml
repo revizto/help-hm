@@ -7,5 +7,7 @@
       <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Viewer</text></para>
     </header>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Enter topic text here.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
   </body>
 </topic>

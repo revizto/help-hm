@@ -69,8 +69,20 @@
       <caption translate="true">From AutoCad/ArchiCad</caption>
     </topicref>
   </topicref>
-  <topicref type="topic" id="430136681765252" build="ALL" modified="2017-10-05T13:26:52.345Z" icon="0" href="Issue-LifeCycle">
-    <caption translate="true">Issue LifeCycle</caption>
+  <topicref type="topic" id="430144698487057" build="ALL" modified="2017-10-06T11:38:50.123Z" icon="0" href="Project-Management2">
+    <caption translate="true">Project Management</caption>
+    <topicref type="topic" id="430145626347429" build="ALL" modified="2017-10-06T11:39:42.425Z" icon="0" href="Creating-a-Project">
+      <caption translate="true">Creating a Project</caption>
+    </topicref>
+    <topicref type="topic" id="430144045773598" build="ALL" modified="2017-10-06T11:43:56.305Z" icon="0" href="Creating-and-Managing-Project-">
+      <caption translate="true">Creating and Managing Project Team</caption>
+    </topicref>
+    <topicref type="topic" id="430136681765252" build="ALL" modified="2017-10-06T11:45:09.882Z" icon="0" href="Issue-LifeCycle">
+      <caption translate="true">Issue Management (Collaboration)</caption>
+    </topicref>
+    <topicref type="topic" id="430143528497075" build="ALL" modified="2017-10-06T11:47:27.378Z" icon="0" href="Collaborator-Reports">
+      <caption translate="true">Collaborator Reports</caption>
+    </topicref>
   </topicref>
   <topicref type="topic" id="430137438263638" build="ALL" modified="2017-10-05T13:28:24.986Z" icon="0" href="FAQ">
     <caption translate="true">FAQ</caption>

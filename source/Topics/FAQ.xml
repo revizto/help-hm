@@ -6,7 +6,7 @@
     <header>
       <para styleclass="Heading1"><text styleclass="Heading1" translate="true">FAQ</text></para>
     </header>
-    <list id="45" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+    <list id="7" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- We let go a team member who owns a range of projects. How to transfer ownership?]]></caption></toggle></li>
     </list>
     <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
@@ -16,7 +16,7 @@
         </td>
       </tr>
     </table></para>
-    <list id="46" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+    <list id="8" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- We let go the License Owner (SuperAdmin). How to transfer the license ownership?]]></caption></toggle></li>
     </list>
     <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
@@ -26,7 +26,7 @@
         </td>
       </tr>
     </table></para>
-    <list id="47" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="3" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+    <list id="9" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="3" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- My company operates in Canada and has partners in the UK. Both we and our partners have Revizto licenses. Yet, I cannot invite their users as Guests to collaborate in my projects. Why?]]></caption></toggle></li>
     </list>
     <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
@@ -36,7 +36,7 @@
         </td>
       </tr>
     </table></para>
-    <list id="48" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="4" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+    <list id="10" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="4" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- We often get failures and errors while exporting our source files to Revizto. What to do?]]></caption></toggle></li>
     </list>
     <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
@@ -46,7 +46,7 @@
         </td>
       </tr>
     </table></para>
-    <list id="49" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="5" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+    <list id="11" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="5" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- We want to show the project to our colleagues/partners from another company, but they have no Revizto license. Also, we don’t want them to see our issues.]]></caption></toggle></li>
     </list>
     <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
@@ -58,7 +58,7 @@
       </tr>
     </table></para>
     <para styleclass="Bullet_1"></para>
-    <list id="50" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="6" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+    <list id="12" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="6" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- I am currently using the French keyboard and cannot use the WASD viewer navigation option. Can I define other buttons as controls?]]></caption></toggle></li>
     </list>
     <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
@@ -69,8 +69,9 @@
       </tr>
     </table></para>
     <para styleclass="Bullet_1"></para>
-    <list id="51" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+    <list id="13" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">.</text></li>
     </list>
+    <para styleclass="Bullet_1" style="page-break-before:always;"></para>
   </body>
 </topic>

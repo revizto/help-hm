@@ -67,14 +67,5 @@
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Note that when your project has already been shared the </text><text styleclass="GUI_item" translate="true">Automatically upload this project on the cloud after each change</text><text styleclass="Normal" translate="true"> checkbox becomes available. Activate it to use this option.</text></para>
     <para styleclass="Image Caption"><image src="synch_sched.png" scale="60.00%" width="616" height="480" styleclass="Image Caption"><title translate="true">synch_sched.png</title></image></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Synchronization can also be scheduled from Revizto plugin; if both scheduling options are used, the latest configuration is applied.</text></para>
-    <para styleclass="Heading1" style="margin-top:26px; margin-left:0px; line-height:2.75; tabstops:none;"><text styleclass="Heading1" style="font-family:Arial; font-size:20pt; font-weight:normal; vertical-align:baseline; color:#000000;" translate="true">Exporting from Revit</text></para>
-    <para styleclass="Heading 2"></para>
-    <para styleclass="Heading1" style="margin-top:26px; margin-left:0px; line-height:2.75; tabstops:none;"><text styleclass="Heading1" style="font-family:Arial; font-size:20pt; font-weight:normal; vertical-align:baseline; color:#000000;" translate="true">Exporting from Navisworks</text></para>
-    <para styleclass="Normal" style="margin-top:8px; margin-left:0px; line-height:1.31; tabstops:none;"></para>
-    <para styleclass="Heading1" style="margin-top:26px; margin-left:0px; line-height:2.75; tabstops:none;"></para>
-    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"></para>
-    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"></para>
-    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">=</text></para>
-    <para styleclass="Heading 2"></para>
   </body>
 </topic>
