@@ -45,7 +45,6 @@
     <para styleclass="attention"><text styleclass="attention" style="font-weight:bold;" translate="true">Caution</text><text styleclass="attention" translate="true">: It is not recommended to create the working folder at remote network location. Revizto relies on SQL Light and major projects tend to generate multiple requests to the working folder. If created outside the local machine, it can cause failures and errors.</text></para>
     <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Portable Devices</text></para>
     <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Multi-User Installation. Windows</text></para>
-    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Installation</text></para>
     <para styleclass="Heading 3"></para>
   </body>
 </topic>

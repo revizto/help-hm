@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" status="" lasteditedby="утюг" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title>Role Guides</title>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Role Guides</title>
   <body>
-    <header><para styleclass="Heading1">Role Guides</para></header>
-    <para styleclass="Normal">Enter topic text here.</para>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Role Guides</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">This section provides </text><text styleclass="Normal" translate="true">concise Revizto user road-maps with regards to their license roles. If reading the web version, click on each step, to expand detailed guidelines. </text><text styleclass="Normal" translate="true">&#32;</text></para>
   </body>
 </topic>

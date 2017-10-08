@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Terms and abbreviations</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Terms and abbreviations</text></para>
+    </header>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"></para>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"><table styleclass="Default" rowcount="17" colcount="2" style="head-row-background-color:#ff9900; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td style="width:218px;">
+          <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.19; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-size:12pt; font-weight:bold; vertical-align:baseline; color:#ffffff;" translate="true">Term</text></para>
+        </td>
+        <td style="width:1041px;">
+          <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.19; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-size:12pt; font-weight:bold; vertical-align:baseline; color:#ffffff;" translate="true">Definition</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="width:218px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto</text></para>
+        </td>
+        <td style="width:1041px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Core software component of the suite</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:218px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto viewer</text></para>
+        </td>
+        <td style="width:1041px;">
+          <para styleclass="Normal"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:218px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto export scheduler</text></para>
+        </td>
+        <td style="width:1041px;">
+          <para styleclass="Normal"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:218px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto plug-in</text></para>
+        </td>
+        <td style="width:1041px;">
+          <para styleclass="Normal"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:218px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto model</text></para>
+        </td>
+        <td style="width:1041px;">
+          <para styleclass="Normal"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:218px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto scene</text></para>
+        </td>
+        <td style="width:1041px;">
+          <para styleclass="Normal"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:218px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto license</text></para>
+        </td>
+        <td style="width:1041px;">
+          <para styleclass="Normal"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:218px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto user</text></para>
+        </td>
+        <td style="width:1041px;">
+          <para styleclass="Normal"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:218px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto license role</text></para>
+        </td>
+        <td style="width:1041px;">
+          <para styleclass="Normal"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:218px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto project</text></para>
+        </td>
+        <td style="width:1041px;">
+          <para styleclass="Normal"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:218px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto [project] access level</text></para>
+        </td>
+        <td style="width:1041px;">
+          <para styleclass="Normal"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:218px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">License owner</text></para>
+        </td>
+        <td style="width:1041px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Same as SuperAdmin</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:218px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto region/geography</text></para>
+        </td>
+        <td style="width:1041px;">
+          <para styleclass="Normal"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:218px;">
+        </td>
+        <td style="width:1041px;">
+          <para styleclass="Normal"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:218px;">
+          <para styleclass="Normal"></para>
+        </td>
+        <td style="width:1041px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:218px;">
+          <para styleclass="Normal"></para>
+        </td>
+        <td style="width:1041px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"></para>
+  </body>
+</topic>
