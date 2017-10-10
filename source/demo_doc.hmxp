@@ -194,7 +194,7 @@
       <config-value name="lcid" translate="true">en-us</config-value>
       <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
       <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000; </config-value>
-      <config-value name="autohelpstart">26</config-value>
+      <config-value name="autohelpstart">32</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
       <config-value name="searchpath">.\images\</config-value>
@@ -779,6 +779,7 @@ document.write('</frameset>');
       <helpcontext-number href="Content-author" value="20170827"/>
       <helpcontext-number href="Creating-and-Managing-Project-" value="25"/>
       <helpcontext-number href="Creating-a-Project" value="24"/>
+      <helpcontext-number href="Export-from-Revizto" value="32"/>
       <helpcontext-number href="Exporting-Files-to-Revizto" value="20170823"/>
       <helpcontext-number href="FAQ" value="15"/>
       <helpcontext-number href="From-AutoCad_ArchiCad" value="18"/>
@@ -801,10 +802,13 @@ document.write('</frameset>');
       <helpcontext-number href="Project-Management2" value="23"/>
       <helpcontext-number href="Project-Manager" value="20170826"/>
       <helpcontext-number href="Reviewer" value="20170828"/>
+      <helpcontext-number href="Revizto-Application" value="29"/>
       <helpcontext-number href="Role-Guides" value="20170824"/>
       <helpcontext-number href="sysreqs" value="11"/>
       <helpcontext-number href="Troubleshooting" value="16"/>
       <helpcontext-number href="Using-the-Web-GUI" value="22"/>
+      <helpcontext-number href="Version-Control" value="31"/>
+      <helpcontext-number href="View-modes" value="30"/>
     </helpcontext-numbers>
   </config>
   <xi:include parse="xml" href="Maps/table_of_contents.xml"/>
