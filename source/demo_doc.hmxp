@@ -194,7 +194,7 @@
       <config-value name="lcid" translate="true">en-us</config-value>
       <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
       <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000; </config-value>
-      <config-value name="autohelpstart">33</config-value>
+      <config-value name="autohelpstart">34</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
       <config-value name="searchpath">.\images\</config-value>
@@ -795,6 +795,7 @@ document.write('</frameset>');
       <helpcontext-number href="Manage-Users" value="20170819"/>
       <helpcontext-number href="Manage-Users#license_roles" value="27"/>
       <helpcontext-number href="Managing-Notifications" value="19"/>
+      <helpcontext-number href="Managing-Project-Access-Rights" value="34"/>
       <helpcontext-number href="Managing-User-Profile" value="20"/>
       <helpcontext-number href="My-Projects" value="21"/>
       <helpcontext-number href="Project-Management" value="20170820"/>

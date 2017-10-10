@@ -77,6 +77,9 @@
     <topicref type="topic" id="430144045773598" build="ALL" modified="2017-10-06T11:43:56.305Z" icon="0" href="Creating-and-Managing-Project-">
       <caption translate="true">Creating and Managing Project Team</caption>
     </topicref>
+    <topicref type="topic" id="430189348410264" build="ALL" modified="2017-10-10T18:57:18.017Z" icon="0" href="Managing-Project-Access-Rights">
+      <caption translate="true">Managing Project Access Rights</caption>
+    </topicref>
     <topicref type="topic" id="430136681765252" build="ALL" modified="2017-10-06T11:45:09.882Z" icon="0" href="Issue-LifeCycle">
       <caption translate="true">Issue Management (Collaboration)</caption>
     </topicref>
