@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Project Optimization</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Project Optimization</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto provides several optimization options to resize large models and enable faster operation on portable devices.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Note that to use the option, you need project-level rights that include uploading models.</text></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To apply optimization:</text></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Open a project in Revizto.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Choose </text><text styleclass="GUI_item" translate="true">Edit</text><text styleclass="Procedure" translate="true"> &gt; </text><text styleclass="GUI_item" translate="true">Project optimization</text><text styleclass="Procedure" translate="true">.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Define optimization settings in the view that opens.</text></li>
+      <list id="1" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Calibri; font-size:11pt; color:#000000;">
+        <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Cloud compression levels regulate the volume of data sent to the Cloud.</text></li>
+        <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Texture optimization options reduce the quality of texture display. The </text><text styleclass="GUI_item" translate="true">Purge all textures</text><text styleclass="Bullet_3" translate="true"> option removes all textures in the model (solid color is used instead of textures). </text></li>
+      </list>
+    </list>
+    <para styleclass="Image Caption"><image src="revizto_optimization.png" scale="60.00%" width="565" height="404" styleclass="Image Caption"></image></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click Apply to save and apply your settings. Note that to use optimization, you must close the project in other Revizto components. </text></li>
+    </list>
+    <para styleclass="Procedure"><text styleclass="Procedure" translate="true">The </text><text styleclass="GUI_item" translate="true">Last hope optimization option</text><text styleclass="Procedure" translate="true"> reduces the model by up to 90%. It is an equivalent of the optimization option available in Revizto scene editor (Edit &gt; Lighting and Materials) and relies on the editor functionality. </text></para>
+    <para styleclass="Procedure" style="text-align:center;"><image src="last_hope_optimization_in_editor.png" scale="60.00%" width="704" height="497" styleclass="Image Caption"></image></para>
+    <para styleclass="attention"><text styleclass="attention" translate="true">Topic under construction</text></para>
+  </body>
+</topic>

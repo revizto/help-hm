@@ -92,6 +92,9 @@
     <topicref type="topic" id="430184587901783" build="ALL" modified="2017-10-10T13:53:42.425Z" icon="0" href="View-modes">
       <caption translate="true">Visual Effects</caption>
     </topicref>
+    <topicref type="topic" id="430187883994857" build="ALL" modified="2017-10-10T18:07:07.688Z" icon="0" href="Project-Optimization">
+      <caption translate="true">Project Optimization</caption>
+    </topicref>
     <topicref type="topic" id="430185441952384" build="ALL" modified="2017-10-10T14:13:25.903Z" icon="0" href="Export-from-Revizto">
       <caption translate="true">Export from Revizto</caption>
     </topicref>
