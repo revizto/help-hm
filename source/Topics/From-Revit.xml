@@ -8,7 +8,7 @@
     </header>
     <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Before Exporting</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Before exporting source files from Revit, it is recommended to create a target 3D view with settings that suite export needs. In particular, it is recommended to:</text></para>
-    <list id="32" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+    <list id="71" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Set </text><text styleclass="GUI_item" translate="true">Detail Level</text><text styleclass="Bullet_1" translate="true"> to </text><text styleclass="GUI_item" translate="true">Fine</text><text styleclass="Bullet_1" translate="true">. Note that Revizto excludes 2D items from export and at low detail level Revit displays small items (e.g. tubes) as 2D lines.</text></li>
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Make sure that Renderings and Views have different names in Revit. Otherwise, some views will not be exported.</text></li>
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Set the Phase Filter to the option that creates a view you want to have in Revisto as default. Note that if phases are exported correctly, you will be able to switch them in Revizto as well, but you default view will be based on the open open in Revit at the point of export.</text></li>
@@ -99,15 +99,16 @@
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Export sheets</text></para>
         </td>
         <td style="width:1040px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Activate the checkbox to add sheets to Revizto model. Then click Select to choose which sheets have to be exported.</text></para>
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Choose export option for each sheet: Image or Vector. The Image option means that the exported sheet will only have 3 zoom levels, each represented by an image. The Vector option has a smooth, more powerful zooming, yet, it may be unavailable for some files and requires more system resource.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Activate the checkbox to add sheets to Revizto model. Then click </text><text styleclass="GUI_item" translate="true">Select</text><text styleclass="Normal" translate="true"> to choose which sheets have to be exported.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Choose export option for each sheet: </text><text styleclass="GUI_item" translate="true">Image</text><text styleclass="Normal" translate="true"> or </text><text styleclass="GUI_item" translate="true">Vector</text><text styleclass="Normal" translate="true">. The Image option means that the exported sheet will only have 3 zoom levels, each represented by an image. The </text><text styleclass="GUI_item" translate="true">Vector</text><text styleclass="Normal" translate="true"> option has a smooth, more powerful zooming, yet, it may be unavailable for some files and requires more system resource.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">For more details on sheet export, see below.</text></para>
           <para styleclass="Note"><text styleclass="Note" style="font-weight:bold;" translate="true">Tip</text><text styleclass="Note" translate="true">: use filters to manage the list of sheets. Note that sheets can have similar names (not IDs though).</text></para>
-          <para styleclass="Normal"></para>
         </td>
       </tr>
     </table></para>
     <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"></para>
-    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Sheet Export Particularities</text></para>
-    <para styleclass="tableheading"><text styleclass="tableheading" style="font-weight:bold;" translate="true">Under construction</text></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" style="font-weight:bold;" translate="true">Sheet Export Particularities</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Image Caption"><image src="export_sheets.png" scale="100.00%" styleclass="Image Caption"></image></para>
   </body>
 </topic>
