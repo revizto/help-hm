@@ -45,6 +45,7 @@ hmContextIds["10"]="issue-lifecycle.htm";
 hmContextIds["26"]="collaborator-reports.htm";
 hmContextIds["31"]="version-control.htm";
 hmContextIds["29"]="revizto-application.htm";
+hmContextIds["35"]="model-elements-and-controls.htm";
 hmContextIds["30"]="view-modes.htm";
 hmContextIds["33"]="project-optimization.htm";
 hmContextIds["32"]="export-from-revizto.htm";
