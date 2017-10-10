@@ -70,7 +70,18 @@
     </table></para>
     <para styleclass="Bullet_1"></para>
     <list id="13" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
-      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">.</text></li>
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- I exported a model from Revit to Navisworks and then to Revizto. But I cannot see the entire model, only one element. What has happened?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">- When exporting a Revit model to Navisworks (or importing it from Navisworks), pay attention to export/import settings. Your problem is likely to have been caused by exporting the first 3D view instead of the entire project. Note that you can also export your model directly from Revit to Revizto and use Navisworks to export clashes.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Bullet_1"></para>
+    <list id="13" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"></li>
     </list>
     <para styleclass="Bullet_1" style="page-break-before:always;"></para>
   </body>
