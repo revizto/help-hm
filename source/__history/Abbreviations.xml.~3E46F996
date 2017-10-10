@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Terms and abbreviations</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Terms and abbreviations</text></para>
+    </header>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"></para>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"><table styleclass="Default2" rowcount="17" colcount="2">
+      <thead style="vertical-align:middle">
+        <td style="width:213px;">
+          <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.19; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-size:12pt; font-weight:bold; vertical-align:baseline; color:#ffffff;" translate="true">Term</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.19; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-size:12pt; font-weight:bold; vertical-align:baseline; color:#ffffff;" translate="true">Definition</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Revizto Application</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Core software component of the suite</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Revizto viewer</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto offers several viewers that have full collaboration functionality, limited project management options, but offer extended viewing, presentation and walking options, in particular, each viewer is tailored to support a specific set of gaming controls/devices (e.g. WASD, Xbox, OCULUS, Vive). </text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Revizto export scheduler</text></para>
+        </td>
+        <td style="width:1033px;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Revizto plug-in</text></para>
+        </td>
+        <td style="width:1033px;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Revizto model</text></para>
+        </td>
+        <td style="width:1033px;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Revizto scene</text></para>
+        </td>
+        <td style="width:1033px;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Revizto license</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">A fee-based license issued to a company for a specific number of users and projects. Typically it is provided for one year. To get familiar with the product, you can get a demo version which is free, though has limitations and is provided for a limited period. </text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Revizto user</text></para>
+        </td>
+        <td style="width:1033px;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Revizto license role</text></para>
+        </td>
+        <td style="width:1033px;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Revizto project</text></para>
+        </td>
+        <td style="width:1033px;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Revizto [project] access level</text></para>
+        </td>
+        <td style="width:1033px;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">License owner</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Same as SuperAdmin</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Revizto region/geography</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto cloud sharing architecture largely depends on geographical settings (team members using the same license have to choose the same geography within the program). This implementation option saves resources and ensures faster operation. Currently there are six key geographies: North America, Europe, South America, South East Asia, Australia. For China the service is offered as well, yet, it relies on different servers (due to the local legislation) </text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+        </td>
+        <td style="width:1033px;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"></para>
+  </body>
+</topic>
