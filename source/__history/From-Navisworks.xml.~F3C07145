@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Navisworks</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Navisworks</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Navisworks is not designed for creating models, it combines various sources together and detects clashes. One of its key sources is Revit. So, when you want to add a Navisworks source to your Revizto project, you may separately add the Revit model and exclude it from Navisworks exports (i.e. export it without geometry and sheets). &#160;In general, this is the recommended option, though it may be unavailable due to project particularities.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">If you want to export all data from Navisworks, it is crucial to make sure that initial export from Revit to Navisworks is performed correctly. Revit uses an addin for export to Navisworks, in Navisworks there is built-in function (go to the </text><text styleclass="GUI_item" translate="true">N</text><text styleclass="Normal" translate="true"> menu &gt; click the </text><text styleclass="GUI_item" translate="true">Options</text><text styleclass="Normal" translate="true"> button &gt; expand the</text><text styleclass="GUI_item" translate="true"> File Readers</text><text styleclass="Normal" translate="true"> item in the left panel&gt; choose </text><text styleclass="GUI_item" translate="true">Revit</text><text styleclass="Normal" translate="true">, see the image below). All in all, export/import settings are quite similar.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Make sure to:</text></para>
+    <list id="96" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">export the entire project, not the first 3D view (if exported from Revit), </text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">convert construction parts, elements, element ID&apos;s (both export/import)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Use the </text><text styleclass="GUI_item" translate="true">Shared Coordinates</text><text styleclass="Bullet_1" translate="true"> option (both export/import). </text><text styleclass="Normal" translate="true">Note that when Navisworks and Revit sources are combined within the same Revizto model, the resulting view may appear to be corrupted due to coordinates mismatch. Before exporting Navisworks source data, make sure that it uses the same set and type of coordinates as the Revit file.</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Normal" translate="true">Do not use the </text><text styleclass="GUI_item" translate="true">Convert linked Revit files</text><text styleclass="Normal" translate="true"> option. Revit projects can has numerous embedded files and including them into your export can cause software failure or very long delay. </text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Pay attention to the </text><text styleclass="GUI_item" translate="true">Faceting Factor</text><text styleclass="Normal" translate="true">. It is responsible for the way circular shapes are rendered. It is not recommended to use high values for large working projects. Although a higher factor means better view, it also results in higher system load and slower operation. Yet, you may use higher factors when creating small Revizto models designed for presentation purposes.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Also, when Revit project is initially exported to Navisworks, and then exported to Revizto via Nvisworks, you have to make sure that all data from Revit has been duly exported and added in Navisworks. </text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="export_navis_from_revit_settings.png" scale="80.00%" width="569" height="492" styleclass="img_display"></image></para>
+    <para styleclass="Note"><text styleclass="GUI_item" translate="true">Tip</text><text styleclass="Note" translate="true">: For additional options for compressing projects, see the</text><text styleclass="GUI_item" translate="true">&#32;</text><link displaytype="text" defaultstyle="true" type="topiclink" href="Project-Optimization" styleclass="GUI_item" translate="true">Project Optimization</link><text styleclass="Note" translate="true"> section below.</text></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Exporting Clashes</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Navisworks clashes are exported to Revizto as issues. Note that exporting separate clashes is not recommended. You have to make sure that clashes are conveniently and logically grouped within the source file.</text></para>
+    <para styleclass="Heading 4"><text styleclass="Heading 4" translate="true">Grouping clashes in Navisworks</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">To group clashes in Navisworks, you can either use its own functionality or the relevant feature of the Revizto plug-in. Also, third-party grouping tools are available in the market.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">To group clashes in Navisworks:</text></para>
+    <list id="97" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Create your own tests for clash detection. Note that you may want to define rules. Run your test in Navisworks to detect clashes matching your rules. It is not unlikely that you get several thousands of clashes. If not grouped, each is exported to Revizto as a separate issue which is not convenient. Therefore, grouping is recommended before exrporting.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">In Navisworks you can select clashes, right-click and add them to a new group. Then each exported clash group will represent an issue in Revizto.</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="clash_detective_grouping.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <list id="97" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">After grouping clashes, go to Revizto plug-in and click </text><text styleclass="GUI_item" translate="true">Sync Clashes</text><text styleclass="Procedure" translate="true">. Note that you have to save your Navisworks file before.</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

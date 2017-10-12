@@ -100,6 +100,18 @@
     <caption translate="true">Revizto Application</caption>
     <topicref type="topic" id="430191693580078" build="ALL" modified="2017-10-11T00:36:20.532Z" icon="0" href="Model-Elements-and-Controls">
       <caption translate="true">Model Elements and Controls</caption>
+      <topicref type="topic" id="430202417919387" build="ALL" modified="2017-10-12T06:46:54.680Z" icon="0" href="Viewpints">
+        <caption translate="true">Viewpoints</caption>
+      </topicref>
+      <topicref type="topic" id="430204003034515" build="ALL" modified="2017-10-12T06:47:05.798Z" icon="0" href="Rooms">
+        <caption translate="true">Rooms</caption>
+      </topicref>
+      <topicref type="topic" id="43022101074619" build="ALL" modified="2017-10-12T06:47:19.813Z" icon="0" href="Levels">
+        <caption translate="true">Levels</caption>
+      </topicref>
+      <topicref type="topic" id="43019285041065" build="ALL" modified="2017-10-12T06:47:58.646Z" icon="0" href="Phases">
+        <caption translate="true">Phases</caption>
+      </topicref>
     </topicref>
     <topicref type="topic" id="430184587901783" build="ALL" modified="2017-10-10T13:53:42.425Z" icon="0" href="View-modes">
       <caption translate="true">Visual Effects</caption>

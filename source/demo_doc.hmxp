@@ -194,7 +194,7 @@
       <config-value name="lcid" translate="true">en-us</config-value>
       <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
       <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000; </config-value>
-      <config-value name="autohelpstart">37</config-value>
+      <config-value name="autohelpstart">41</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
       <config-value name="searchpath">.\images\</config-value>
@@ -789,6 +789,7 @@ document.write('</frameset>');
       <helpcontext-number href="Interface-Tips" value="20170822"/>
       <helpcontext-number href="Introduction" value="1"/>
       <helpcontext-number href="Issue-LifeCycle" value="10"/>
+      <helpcontext-number href="Levels" value="40"/>
       <helpcontext-number href="License_monitoring" value="20170821"/>
       <helpcontext-number href="License-Owner" value="20170825"/>
       <helpcontext-number href="Licensing" value="20170817"/>
@@ -799,6 +800,7 @@ document.write('</frameset>');
       <helpcontext-number href="Managing-User-Profile" value="20"/>
       <helpcontext-number href="Model-Elements-and-Controls" value="35"/>
       <helpcontext-number href="My-Projects" value="21"/>
+      <helpcontext-number href="Phases" value="41"/>
       <helpcontext-number href="Project-Management" value="20170820"/>
       <helpcontext-number href="Project-Management#project_access_level" value="28"/>
       <helpcontext-number href="Project-Management2" value="23"/>
@@ -808,12 +810,14 @@ document.write('</frameset>');
       <helpcontext-number href="Revizto-Application" value="29"/>
       <helpcontext-number href="Rhinoceros-for-Windows" value="36"/>
       <helpcontext-number href="Role-Guides" value="20170824"/>
+      <helpcontext-number href="Rooms" value="39"/>
       <helpcontext-number href="SketchUp" value="37"/>
       <helpcontext-number href="sysreqs" value="11"/>
       <helpcontext-number href="Troubleshooting" value="16"/>
       <helpcontext-number href="Using-the-Web-GUI" value="22"/>
       <helpcontext-number href="Version-Control" value="31"/>
       <helpcontext-number href="View-modes" value="30"/>
+      <helpcontext-number href="Viewpints" value="38"/>
     </helpcontext-numbers>
   </config>
   <xi:include parse="xml" href="Maps/table_of_contents.xml"/>
