@@ -197,7 +197,7 @@
       <config-value name="autohelpstart">41</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
-      <config-value name="searchpath">.\images\</config-value>
+      <config-value name="searchpath">.\images\;.\Topics\</config-value>
       <config-group name="custombuilds">
         <config-value name="DEMO">Demo Build</config-value>
         <config-value name="IMPORT">IMPORT</config-value>

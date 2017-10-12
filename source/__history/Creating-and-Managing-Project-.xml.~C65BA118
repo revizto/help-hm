@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Creating and Managing Project Team</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Creating and Managing Project Team</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">By default, there are three access levels available in Revizto projects:</text></para>
+    <list id="111" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Administrate</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Edit content and collaborate</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">View and collaborate</text></li>
+    </list>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="Project-Management" anchor="project_access_level" styleclass="Normal" translate="true">Additional levels</link><text styleclass="Normal" translate="true"> can be created by the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="License-Owner" styleclass="Normal" translate="true">License Owner</link><text styleclass="Normal" translate="true"> (the SuperAdmin) or by a license level Administrator in the Web GUI.</text></para>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"><text styleclass="Normal" translate="true">Any time you invite a new user to your project, you have to assign rights to them. Note that if an invitation is issued to a person who has no team-level license, a collaborator/guest license is issued to them simultaneously. By default, project owners and administrators can invite new users, but </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Project-Management" anchor="project_access_level" styleclass="Normal" translate="true">additional access levels</link><text styleclass="Normal" translate="true"> can be created for a team.</text></para>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"><text styleclass="Normal" translate="true">To invite new users, you can either use the Web GUI or your local Revizto application. </text></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To invite a user to a project from the Web GUI:</text></para>
+    <list id="112" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Log in to your workspace.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Navigate to the </text><text styleclass="GUI_item" translate="true">Private Sharing </text><text styleclass="Procedure" translate="true">view (</text><text styleclass="GUI_item" translate="true">Manage Projects </text><text styleclass="Procedure" translate="true">&gt; choose a project).</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Enter a valid email address of a person you want to invite. Choose an access level in the </text><text styleclass="GUI_item" translate="true">Set Access Level</text><text styleclass="Procedure" translate="true"> field.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the </text><text styleclass="GUI_item" translate="true">Invite </text><text styleclass="Procedure" translate="true">button. </text></li>
+    </list>
+    <para styleclass="Procedure"><text styleclass="Procedure" translate="true">The user will then receive an invitation email from Revizto and will able to download Revizto and join the project.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="invite_users_web.png" scale="60.00%" width="593" height="348" styleclass="img_display"></image></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To invite a user from Revizto application:</text></para>
+    <list id="113" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"></li>
+    </list>
+    <para styleclass="attention"><text styleclass="attention" translate="true">UNDER CONSTRUCTION</text></para>
+  </body>
+</topic>
