@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Project Manager</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Project Manager</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Project manager is likely to be a Project owner or project Administrator of a project responsible for the project life-cycle. In Revizto it includes the following stages:</text></para>
+    <list id="0" type="ol" listtype="upper-roman" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" styleclass="Procedure"><caption translate="true"><![CDATA[Project creation.]]></caption></toggle></li>
+    </list>
+    <para styleclass="Procedure"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><snippet src="file::Creating-a-Project.xml" inline="false"/></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="0" type="ol" listtype="upper-roman" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" styleclass="Procedure"><caption translate="true"><![CDATA[Team creation. Access level management.]]></caption></toggle></li>
+    </list>
+    <para styleclass="Procedure"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><snippet src="file::Creating-and-Managing-Project-.xml" inline="false"/></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="0" type="ol" listtype="upper-roman" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Export configuration and scheduling. </text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Issue Management.</text></li>
+    </list>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>
