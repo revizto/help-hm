@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Using 3D controls to create an Issue. Example</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Using 3D controls to create an Issue. Example</text></para>
+    </header>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To create an issue in 3D:</text></para>
+    <list id="174" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Launch your model and go to the </text><text styleclass="GUI_item" translate="true">3D</text><text styleclass="Procedure" translate="true"> view (top menu option).</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Choose a viewpoint, room or object that you want to work with. For example, let us navigate to a room (living room).</text></li>
+    </list>
+    <para styleclass="Image Caption"><image src="living_room.png" scale="50.00%" width="794" height="400" styleclass="Image Caption"></image></para>
+    <list id="174" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Then let us create a section (</text><image src="section_ico.png" scale="80.00%" width="46" height="26" styleclass="Image Caption"></image><text styleclass="Normal" translate="true"> icon) here. For example, let us cut the side wall of the room using the </text><text styleclass="GUI_item" translate="true">Plane</text><text styleclass="Normal" translate="true"> mode of the section tool.</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="section_plan_example.png" scale="50.00%" width="792" height="404" styleclass="Image Caption"></image></para>
+    <list id="174" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Normal" translate="true">Then let us save the section as a view point (the viewpoint icon at the bottom of the screen).</text></li>
+      <li styleclass="Procedure"><text styleclass="Normal" translate="true">Navigate to the new view point (</text><image src="viewpoint_ico.png" scale="80.00%" width="36" height="34" styleclass="Image Caption"></image><text styleclass="Normal" translate="true"> at the top toolbar). </text></li>
+      <li styleclass="Procedure"><text styleclass="Normal" translate="true">Let us then try to create another section, using the </text><text styleclass="GUI_item" translate="true">Box</text><text styleclass="Normal" translate="true"> mode this time. Let us cut out the table and save another viewpoint (your previous viewpoint are all still available as well).</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="section_box_example.png" scale="50.00%" width="694" height="388" styleclass="Image Caption"></image></para>
+    <list id="174" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Normal" translate="true">Navigate to the newest viewpoint. Let&apos;s create an issue about the table here (</text><image src="new_issue_ico.png" scale="80.00%" width="54" height="30" styleclass="Image Caption"></image><text styleclass="Normal" translate="true">)</text><text styleclass="Normal" translate="true">. </text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="issue_example.png" scale="50.00%" width="796" height="402" styleclass="Image Caption"></image></para>
+    <list id="174" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Normal" translate="true">Assign the issue to a source author and other collaborators. </text></li>
+      <li styleclass="Procedure"><text styleclass="Normal" translate="true">Synchronize the model with the cloud.</text></li>
+    </list>
+    <para styleclass="Procedure"><text styleclass="Normal" translate="true">Now, when the content editor clicks </text><text styleclass="GUI_item" translate="true">Issue Tracker</text><text styleclass="Normal" translate="true"> in Revit Revizto plug-in, the relevant Revizto &#160;model opens with the new issue in it. By clicking on the issue sign (the callout icon) a user can navigate to the same spot in the source file (as long as it is open) in Revit or Navisworks. It is especially important for Revit, as it is there that issues are corrected and navigation is less transparent due to the preferred camera type. </text></para>
+  </body>
+</topic>

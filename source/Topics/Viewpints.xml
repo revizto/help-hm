@@ -6,6 +6,10 @@
     <header>
       <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Viewpoints</text></para>
     </header>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Enter topic text here.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Initial viewpoints are exported from source files (mainly, from Revit). You can use them to navigate in the model. Also, you can create new viewpoints for better and faster navigation or to highlight an issue location. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">You can select any viewpoint is the </text><text styleclass="GUI_item" translate="true">Home Viewpoint</text><text styleclass="Normal" translate="true">. (i.e. the one displayed when you click </text><image src="home_viewpoint_ico.png" scale="80.00%" width="121" height="22" styleclass="Image Caption"></image><text styleclass="Image Caption" translate="true">&#32;</text><text styleclass="Normal" translate="true">icon at the bottom of the screen. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Sample use of viewpoint</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">As mentioned above, you can create a viewpoint anywhere in the model. You can also create a viewpoint that uses custom color coding and sectioning settings. Then &#160;you can create an issue in it and assign it to the author of the source file. They will see your viewpoint in Revizto while the source program will also automatically display the issue using your viewpoint settings.</text></para>
+    <para styleclass="Procedure Heading"></para>
   </body>
 </topic>

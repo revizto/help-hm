@@ -112,6 +112,9 @@
       <topicref type="topic" id="43019285041065" build="ALL" modified="2017-10-12T06:47:58.646Z" icon="0" href="Phases">
         <caption translate="true">Phases</caption>
       </topicref>
+      <topicref type="topic" id="430205886921745" build="ALL" modified="2017-10-12T15:18:46.667Z" icon="0" href="Sample-issue-creation">
+        <caption translate="true">Using 3D controls to create an Issue. Example</caption>
+      </topicref>
     </topicref>
     <topicref type="topic" id="430184587901783" build="ALL" modified="2017-10-10T13:53:42.425Z" icon="0" href="View-modes">
       <caption translate="true">Visual Effects</caption>

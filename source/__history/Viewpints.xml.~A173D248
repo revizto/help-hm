@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Viewpoints</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Viewpoints</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Initial viewpoints are exported from source files (mainly, from Revit). You can use them to navigate in the model. Also, you can create new viewpoints for better and faster navigation or to highlight an issue location. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">You can select any viewpoint is the </text><text styleclass="GUI_item" translate="true">Home Viewpoint</text><text styleclass="Normal" translate="true">. (i.e. the one displayed when you click </text><image src="home_viewpoint_ico.png" scale="80.00%" width="121" height="22" styleclass="Image Caption"></image><text styleclass="Image Caption" translate="true">&#32;</text><text styleclass="Normal" translate="true">icon at the bottom of the screen. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">To</text></para>
+  </body>
+</topic>

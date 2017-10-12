@@ -52,6 +52,7 @@ hmContextIds["38"]="viewpints.htm";
 hmContextIds["39"]="rooms.htm";
 hmContextIds["40"]="levels.htm";
 hmContextIds["41"]="phases.htm";
+hmContextIds["42"]="sample-issue-creation.htm";
 hmContextIds["30"]="view-modes.htm";
 hmContextIds["33"]="project-optimization.htm";
 hmContextIds["32"]="export-from-revizto.htm";

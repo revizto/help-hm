@@ -8,7 +8,7 @@
     </header>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">There are two points where a new collaboration project can be created:</text></para>
     <list id="5" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
-      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Revizto</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Revizto Application</text></li>
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Revizto plug-in in a source program</text></li>
     </list>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">The preferred option depends on &#160;the business process. Note that to create new projects, you need at least Content Creator license role because each new project requires a license.</text></para>
