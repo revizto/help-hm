@@ -28,7 +28,7 @@
           <export-task name="Publish as HTM" format="HTM">
             <task-config-group name="settings">
               <task-config-value name="outputfile">.\html\INDEX.htm</task-config-value>
-              <task-config-value name="skin">$(HMSYS)Templates\HTML Skins\PP_DEMO_V3_Responsive_Boxed_Forest_Green.hmskin</task-config-value>
+              <task-config-value name="skin">$(HMSYS)Templates\HTML Skins\Webhelp, Two Frames Classic Skin Silver.hmskin</task-config-value>
               <task-config-value name="make3include">HTML,USER1,USER2,USER3</task-config-value>
               <task-config-value name="make3status">*</task-config-value>
             </task-config-group>
@@ -277,7 +277,7 @@
           <config-value name="mapfileformat">0</config-value>
         </config-group>
       </config-group>
-      <config-value name="project.lastexport">4</config-value>
+      <config-value name="project.lastexport">3</config-value>
     </config-group>
     <config-group name="chm">
       <config-value name="outputfile">RusGuard_Manual.chm</config-value>
@@ -726,7 +726,7 @@ document.write('</frameset>');
       <config-value name="contentnumberstyle">1.1.1.1.1.1</config-value>
       <config-value name="forcetocsync">0</config-value>
       <config-value name="headframesrc" translate="true"><![CDATA[http://www.rtcevents.com/bilt/wp-content/uploads/Revizto-logo_horizontal.png]]></config-value>
-      <config-value name="skin">$(HMSYS)Templates\HTML Skins\PP_DEMO_V3_Responsive_Boxed_Forest_Green.hmskin</config-value>
+      <config-value name="skin">$(HMSYS)Templates\HTML Skins\Webhelp, Two Frames Classic Skin Silver.hmskin</config-value>
     </config-group>
     <config-group name="ebook">
       <config-value name="outputfile">RusGuard_Manual_Help.exe</config-value>

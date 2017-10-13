@@ -2,6 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
 <topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Installation and Deployment</title>
+  <meta name="DESCRIPTION" translate="true" value="Installation of Revizto" />
   <keywords>
     <keyword translate="true">Installation</keyword>
   </keywords>

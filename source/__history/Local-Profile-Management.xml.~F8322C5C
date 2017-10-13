@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Local Profile Management</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Local Profile Management</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">You can change your profile settings locally in </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> application. Note that Notifications can only be configured in the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Using-the-Web-GUI" styleclass="Normal" translate="true">Web GUI</link><text styleclass="Normal" translate="true">.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">To edit account settings:</text></para>
+    <list id="95" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Launch </text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true"> and click on your username in the upper right corner. Choose </text><text styleclass="GUI_item" translate="true">Account Settings</text><text styleclass="Procedure" translate="true">. The </text><text styleclass="GUI_item" translate="true">Profile </text><text styleclass="Procedure" translate="true">screen opens.</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="account_settings_revizto.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <list id="95" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Use the screen options to change your name and last name, to upload a userpic. Click Save to apply your settings. Note that you cannot change your email, as it is linked to your seat </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Licensing" styleclass="Procedure" translate="true">license</link><text styleclass="Procedure" translate="true">.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click </text><text styleclass="GUI_item" translate="true">Password</text><text styleclass="Procedure" translate="true"> to switch to password settings. Make changes there, if needed (the standard procedure is implemented via a clear and transparent form).</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="local_profile_screen.png" scale="70.00%" width="625" height="408" styleclass="Image Caption"></image></para>
+  </body>
+</topic>

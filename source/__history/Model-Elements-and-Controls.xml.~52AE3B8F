@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Model Elements and Controls</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Model Elements and Controls</text></para>
+    </header>
+    <para styleclass="Normal"><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> allows you browsing the model by objects exported from source files (e.g. by levels, phases, viewpoints). You can also create your own viewpoints, add color coding and define transparency settings. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">A wide range of controls in </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> is designed to select and highlight objects in a way that is tailored to particularities of a source program in order to make sure that an issue is clear. For example, Revit offers orthogonal and perspective camera options. As most users prefer the former, issues detected inside </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> model can be unclear when loaded in Revit. But, when specific controls are applied to highlight them, Revit users can get a clear view of a each issue. </text></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Viewpoints</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Initial viewpoints are exported from source files (mainly, from Revit). You can use them to navigate in the model. Also, you can create new viewpoints for better and faster navigation or to highlight an issue location. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">You can select any viewpoint is the </text><text styleclass="GUI_item" translate="true">Home Viewpoint</text><text styleclass="Normal" translate="true">. (i.e. the one displayed when you click </text><image src="home_viewpoint_ico.png" scale="80.00%" width="121" height="22" styleclass="Image Caption"></image><text styleclass="Image Caption" translate="true">&#32;</text><text styleclass="Normal" translate="true">icon at the bottom of the screen. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Sample use of viewpoint</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">As mentioned above, you can create a viewpoint anywhere in the model. You can also create a viewpoint that uses custom color coding and sectioning settings. Then &#160;you can create an issue in it and assign it to the author of the source file. They will see your viewpoint in Revizto while the source program will also automatically display the issue using your viewpoint settings.</text><text styleclass="Heading 2" translate="true">&#32;</text></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Rooms</text></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Levels</text></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Phases </text></para>
+    <para styleclass="Heading 2"><anchor id="example_1" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">Using 3D Controls to Create Issues. Example 1</text></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To create an issue in 3D:</text></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Launch your model and go to the </text><text styleclass="GUI_item" translate="true">3D</text><text styleclass="Procedure" translate="true"> view (top menu option).</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Choose a viewpoint, room or object that you want to work with. For example, let us navigate to a room (living room).</text></li>
+    </list>
+    <para styleclass="Image Caption"><image src="living_room.png" scale="50.00%" width="794" height="400" styleclass="Image Caption"></image></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Then let us create a section (</text><image src="section_ico.png" scale="80.00%" width="46" height="26" styleclass="Image Caption"></image><text styleclass="Normal" translate="true"> icon) here. For example, let us cut the side wall of the room using the </text><text styleclass="GUI_item" translate="true">Plane</text><text styleclass="Normal" translate="true"> mode of the section tool.</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="section_plan_example.png" scale="50.00%" width="792" height="404" styleclass="Image Caption"></image></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Normal" translate="true">Then let us save the section as a view point (the viewpoint icon at the bottom of the screen).</text></li>
+      <li styleclass="Procedure"><text styleclass="Normal" translate="true">Navigate to the new view point (</text><image src="viewpoint_ico.png" scale="80.00%" width="36" height="34" styleclass="Image Caption"></image><text styleclass="Normal" translate="true"> at the top toolbar). </text></li>
+      <li styleclass="Procedure"><text styleclass="Normal" translate="true">Let us then try to create another section, using the </text><text styleclass="GUI_item" translate="true">Box</text><text styleclass="Normal" translate="true"> mode this time. Let us cut out the table and save another viewpoint (your previous viewpoint are all still available as well).</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="section_box_example.png" scale="50.00%" width="694" height="388" styleclass="Image Caption"></image></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Normal" translate="true">Navigate to the newest viewpoint. Let&apos;s create an issue about the table here (</text><image src="new_issue_ico.png" scale="80.00%" width="54" height="30" styleclass="Image Caption"></image><text styleclass="Normal" translate="true">). </text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="issue_example.png" scale="50.00%" width="796" height="402" styleclass="Image Caption"></image></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Normal" translate="true">Assign the issue to a source author and other collaborators. </text></li>
+      <li styleclass="Procedure"><text styleclass="Normal" translate="true">Synchronize the model with the cloud.</text></li>
+    </list>
+    <para styleclass="Procedure"><text styleclass="Normal" translate="true">Now, when the content editor clicks </text><text styleclass="GUI_item" translate="true">Issue Tracker</text><text styleclass="Normal" translate="true"> in Revit Revizto plug-in, the relevant Revizto &#160;model opens with the new issue in it. By clicking on the issue sign (the callout icon) a user can navigate to the same spot in the source file (as long as it is open) in Revit or Navisworks. It is especially important for Revit, as it is there that issues are corrected and navigation is less transparent due to the preferred camera type. </text></para>
+    <para styleclass="attention"><text styleclass="attention" translate="true">Topic under construction</text></para>
+  </body>
+</topic>
