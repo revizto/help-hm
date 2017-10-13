@@ -104,8 +104,8 @@
     <topicref type="topic" id="430184587901783" build="ALL" modified="2017-10-10T13:53:42.425Z" icon="0" href="View-modes">
       <caption translate="true">Visual Effects</caption>
     </topicref>
-    <topicref type="topic" id="43022864967676" build="ALL" modified="2017-10-13T04:51:12.017Z" icon="0" href="Preferences">
-      <caption translate="true">Preferences</caption>
+    <topicref type="topic" id="43022864967676" build="ALL" modified="2017-10-13T05:53:09.738Z" icon="0" href="Preferences">
+      <caption translate="true">Detailed Preferences</caption>
     </topicref>
     <topicref type="topic" id="430187883994857" build="ALL" modified="2017-10-10T18:07:07.688Z" icon="0" href="Project-Optimization">
       <caption translate="true">Project Optimization</caption>
@@ -120,7 +120,7 @@
   <topicref type="topic" id="430137438263638" build="ALL" modified="2017-10-05T13:28:24.986Z" icon="0" href="FAQ">
     <caption translate="true">FAQ</caption>
   </topicref>
-  <topicref type="topic" id="430134805534268" build="ALL" modified="2017-10-05T13:28:34.220Z" icon="0" href="Troubleshooting">
-    <caption translate="true">Troubleshooting</caption>
+  <topicref type="topic" id="430134805534268" build="ALL" modified="2017-10-13T05:40:58.817Z" icon="0" href="Troubleshooting">
+    <caption translate="true">Troubleshooting and Support</caption>
   </topicref>
 </map>

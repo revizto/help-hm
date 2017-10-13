@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Troubleshooting and Support</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Troubleshooting and Support</text></para>
+    </header>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Addressing the Support Service</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Before addressing the Support Service, please, read this section and the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="FAQ" styleclass="Normal" translate="true">FAQ</link><text styleclass="Normal" translate="true">. If nothing helps, email to your support contact. Make sure to attach Revizto logs (compressed as .zip) for the relevant period from your working folder.</text></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Known Issues and Solutions</text></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Installation Troubles</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto uses Sentinel LDK Service to implement licenses. Components of this service may conflict with some anti-malware software. If you experience problems during installation, try turning your antivirus off temporary. You can also try</text></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Corrupted model</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto model can become corrupted due to some user actions or local software errors/failures. Than upload errors may occur (see example below).</text></para>
+    <para styleclass="Image Caption"><image src="no_elements_in_sequence.jpg" scale="60.00%" width="729" height="176" styleclass="Image Caption"><title translate="true">no_elements_in_sequence.jpg</title></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">To remedy for it, we recommend to clear the model cache and to re-export a fresh version from the source software.</text></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To clear cache:</text></para>
+    <list id="219" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Make sure that the model is not open in Revizto.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Open the list of projects in Revizto.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the </text><text styleclass="GUI_item" translate="true">Edit</text><text styleclass="Procedure" translate="true"> button in the upper menu.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the yellow circle button displayed at the tile of the required project.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Choose the </text><text styleclass="GUI_item" translate="true">Clear Cache</text><text styleclass="Procedure" translate="true"> option. Confirm your action.</text></li>
+    </list>
+    <para styleclass="Image Caption"><image src="clearing_cache.png" scale="60.00%" width="616" height="480" styleclass="Image Caption"><title translate="true">clearing_cache.png</title></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">The project folder then disappears from the local working folder and you are free to create a fresh export without conflicts.</text></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Failure to download model updates</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">If users fail to check for model updates and get license invalidity messages, make sure that SSL inspection option is turned off on your firewall (or add Revizto servers to the exception list). If the problem persists, address the Support Service with your Revizto logs attached.</text></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Cannot launch ReviztoService. Application will be terminated</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">If you get the message </text><text styleclass="Code Example" translate="true">Cannot launch ReviztoService. Application will be terminated</text><text styleclass="Normal" translate="true">, try the following:</text></para>
+    <list id="220" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Launch the task manager and kill </text><text styleclass="Code Example" translate="true">ReviztoService.exe</text><text styleclass="Procedure" translate="true">, if running.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Remove the </text><text styleclass="Code Example" translate="true">.lock</text><text styleclass="Procedure" translate="true"> file in the local working folder.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Try running the application again.</text></li>
+    </list>
+  </body>
+</topic>

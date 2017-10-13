@@ -816,6 +816,7 @@ document.write('</frameset>');
       <helpcontext-number href="SketchUp" value="37"/>
       <helpcontext-number href="sysreqs" value="11"/>
       <helpcontext-number href="Troubleshooting" value="16"/>
+      <helpcontext-number href="Troubleshooting#working_folder" value="46"/>
       <helpcontext-number href="Using-the-Web-GUI" value="22"/>
       <helpcontext-number href="Version-Control" value="31"/>
       <helpcontext-number href="View-modes" value="30"/>
