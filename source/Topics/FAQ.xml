@@ -81,7 +81,19 @@
     </table></para>
     <para styleclass="Bullet_1"></para>
     <list id="13" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
-      <li styleclass="Bullet_1"></li>
+      <li styleclass="Bullet_1"><anchor id="turn_off_upd" styleclass="Bullet_1"></anchor><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[I would like to to turn off the update feature. Is it possible?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">- Yes, you can switch off the update feature. To do it, you have to go the registry and change the HKEY_CURRENT_USER\Software\Vizerra\Revizto\keyLastSkipVersion_h127002115 set the </text><text styleclass="GUI_item" translate="true">Value data</text><text styleclass="Normal" translate="true"> field to 99999 (decimal value). The option may be useful, if you want to make sure that all local users have the same version. </text></para>
+          <para styleclass="Normal" style="text-align:center;"><image src="registry_change.png" scale="60.00%" width="712" height="327" styleclass="Image Caption"></image></para>
+          <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="13" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">zx</text></li>
     </list>
     <para styleclass="Bullet_1" style="page-break-before:always;"></para>
   </body>

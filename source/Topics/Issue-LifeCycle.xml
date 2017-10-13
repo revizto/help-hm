@@ -6,11 +6,11 @@
     <header>
       <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Issue Management (Collaboration)</text></para>
     </header>
-    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Issue LifeCycle</text></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">General Issue LifeCycle</text></para>
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Issue is created:</text></li>
       <list id="1" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
-        <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">created in Revisto (or Revizto plugin in the source software) and assigned to a team member. Issue status is </text><text styleclass="GUI_item" translate="true">Open</text><text styleclass="Bullet_1" translate="true">.</text></li>
+        <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">created in Revisto (Revizto plugin in the source software) and assigned to a team member. Issue status is </text><text styleclass="GUI_item" translate="true">Open</text><text styleclass="Bullet_1" translate="true">.</text></li>
         <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Imported as a clash from Navisworks</text></li>
       </list>
     </list>
@@ -30,7 +30,7 @@
     <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Issue Settings</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Public/hidden</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Etc.</text></para>
-    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Clash Management</text></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Clash Processing</text></para>
     <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Reviewing an Issue and Commenting on it</text></para>
     <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">In Revisto/Viewers</text></para>
     <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Via Plugin</text></para>

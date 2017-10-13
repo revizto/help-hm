@@ -2,6 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
 <topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">Installation and Deployment</title>
+  <keywords>
+    <keyword translate="true">Installation</keyword>
+  </keywords>
   <body>
     <header>
       <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Installation and Deployment</text></para>
@@ -11,7 +14,7 @@
     <para styleclass="Normal"><text styleclass="Normal" translate="true">To deploy a collaboration environment, you have to first activate the team license in the web-GUI (see the Licensing section) and then proceed to local deployment. Note that to ensure valid network collaboration, you have to pay attention network settings when installing local instances of Revizto, Viewers and plug-ins.</text></para>
     <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Network requirements</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">If the company is using firewall, ports 80 and 443 have to be opened for Revizto. And the following domains must be allowed:</text></para>
-    <list id="45" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">*.revizto.com</text></li>
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">*.s3.amazonaws.com</text></li>
     </list>
@@ -25,13 +28,13 @@
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Also you can select your language and which shortcuts you want on your desktop.</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">The Wizard asks user permission to install certUtil.exe. It is safe to install this element and it is recommended to. It installs certificates that ensures smooth interaction with Revit and AutoCad (otherwise you will have to confirm that you want to use the plug-in any time you launch it).</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">From this point onwards the procedure is quite standard; just follow the wizard.</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">If a newer version of Revizto is available, notification is displayed at the launch.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">If a newer version of Revizto is available, notification is displayed at the launch (to turn off the updating feature, you have to change the registry, for more details, go to the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="FAQ" anchor="turn_off_upd" styleclass="Normal" translate="true">FAQ section</link><text styleclass="Normal" translate="true">).</text></para>
     <para styleclass="attention"><text styleclass="attention" style="font-weight:bold;" translate="true">Caution</text><text styleclass="attention" translate="true">: If you plan to install a new version of Revizto instead of an existing one, do not uninstall it manually. The installation wizard detects traces of the previous version and attempts to uninstall it, as it is a part of its logic. Failing to find an old version, the wizard fails.</text></para>
     <para styleclass="Note"><text styleclass="Note" style="font-weight:bold;" translate="true">Note</text><text styleclass="Note" translate="true">: When installing/updating Revizto, close source programs (e.g. Revit). Otherwise the installation process will stop.</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Just as any software, Revizto can be installed for the current user and for all users of the machine. For the latter option you have to launch the wizard as the local administrator.</text></para>
     <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Quiet mode installation</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto can be installed in the quiet mode (without UI) using the following keys:</text></para>
-    <list id="44" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">ALLUSERS=”1”- installation for all users on this computer (per machine). Administrator rights are required.</text></li>
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">MSIINSTALLPERUSER=”1” – installation for a current user (per user)</text></li>
     </list>

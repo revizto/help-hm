@@ -20,8 +20,8 @@
     <topicref type="topic" id="430092885596750" build="ALL" modified="2017-10-05T13:28:08.777Z" icon="0" href="Content-author">
       <caption translate="true">Content Editor</caption>
     </topicref>
-    <topicref type="topic" id="430092295050164" build="ALL" modified="2017-10-05T13:28:12.933Z" icon="0" href="Reviewer">
-      <caption translate="true">Viewer</caption>
+    <topicref type="topic" id="430092295050164" build="ALL" modified="2017-10-13T04:25:43.155Z" icon="0" href="Reviewer">
+      <caption translate="true">Viewer/Collaborator</caption>
     </topicref>
   </topicref>
   <topicref type="topic" id="430093570287213" build="ALL" modified="2017-10-01T03:34:17.088Z" icon="0" href="Licensing">
@@ -45,7 +45,7 @@
   <topicref type="topic" id="43014952613964" build="ALL" modified="2017-10-05T13:33:00.367Z" icon="0" href="Installation-and-Deployment">
     <caption translate="true">Installation and Deployment</caption>
   </topicref>
-  <topicref type="topic" id="430144948930184" build="ALL" modified="2017-10-06T09:52:40.918Z" icon="0" href="Using-the-Web-GUI">
+  <topicref type="topic" id="430144948930184" build="ALL" modified="2017-10-13T04:27:55.577Z" icon="0" href="Using-the-Web-GUI">
     <caption translate="true">Using the Web GUI</caption>
     <topicref type="topic" id="430144011018100" build="ALL" modified="2017-10-06T09:52:30.304Z" icon="0" href="My-Projects">
       <caption translate="true">My Projects</caption>
@@ -104,11 +104,17 @@
     <topicref type="topic" id="430184587901783" build="ALL" modified="2017-10-10T13:53:42.425Z" icon="0" href="View-modes">
       <caption translate="true">Visual Effects</caption>
     </topicref>
+    <topicref type="topic" id="43022864967676" build="ALL" modified="2017-10-13T04:51:12.017Z" icon="0" href="Preferences">
+      <caption translate="true">Preferences</caption>
+    </topicref>
     <topicref type="topic" id="430187883994857" build="ALL" modified="2017-10-10T18:07:07.688Z" icon="0" href="Project-Optimization">
       <caption translate="true">Project Optimization</caption>
     </topicref>
     <topicref type="topic" id="430185441952384" build="ALL" modified="2017-10-10T14:13:25.903Z" icon="0" href="Export-from-Revizto">
       <caption translate="true">Export from Revizto</caption>
+    </topicref>
+    <topicref type="topic" id="430213629385278" build="ALL" modified="2017-10-13T04:51:29.711Z" icon="0" href="Local-Profile-Management">
+      <caption translate="true">Local Profile Management</caption>
     </topicref>
   </topicref>
   <topicref type="topic" id="430137438263638" build="ALL" modified="2017-10-05T13:28:24.986Z" icon="0" href="FAQ">
