@@ -258,7 +258,7 @@
       </tr>
       <tr style="vertical-align:top">
         <td style="width:339px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Hold to rotate the view (turn head)</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Hold to rotate the view (turn head)</text></para>
         </td>
         <td style="width:897px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Right mouse button</text></para>
@@ -266,7 +266,7 @@
       </tr>
       <tr style="vertical-align:top">
         <td style="width:339px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">E</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">E</text></para>
         </td>
         <td style="width:897px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Float up</text></para>
@@ -274,7 +274,7 @@
       </tr>
       <tr style="vertical-align:top">
         <td style="width:339px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Q</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Q</text></para>
         </td>
         <td style="width:897px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Float down</text></para>
@@ -282,7 +282,7 @@
       </tr>
       <tr style="vertical-align:top">
         <td style="width:339px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Shift+W/A/S/D/Q/E</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Shift+W/A/S/D/Q/E</text></para>
         </td>
         <td style="width:897px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Move with increased speed</text></para>
@@ -290,7 +290,7 @@
       </tr>
       <tr style="vertical-align:top">
         <td style="width:339px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Double-click</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Double-click</text></para>
         </td>
         <td style="width:897px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Display properties of the selected object</text></para>
@@ -298,7 +298,7 @@
       </tr>
       <tr style="vertical-align:top">
         <td style="width:339px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Scroll</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Scroll</text></para>
         </td>
         <td style="width:897px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Zooming</text></para>
@@ -309,8 +309,15 @@
     <para styleclass="Normal" style="text-align:center;"><image src="Keyboard.png" scale="80.00%" width="640" height="240" styleclass="Image Caption"></image></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">For additional details see the </text><link displaytype="text" defaultstyle="true" type="weblink" href="https://youtu.be/PqFflJWeT_U" target="_blank" styleclass="Normal" translate="true">video tutorial</link><text styleclass="Normal" translate="true">.</text></para>
     <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Graphics</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">This view allows you to customize the quality of graphics. You can choose of one of the six modes; the recommended option is </text><text styleclass="GUI_item" translate="true">Good</text><text styleclass="Normal" translate="true"> which compromises between response speed and visualization quality.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">For each mode additional settings are available to fine-tune your visual experience. &#160;</text></para>
+    <para styleclass="Note"><text styleclass="Note" style="font-weight:bold;" translate="true">Tip</text><text styleclass="Note" translate="true">: to save the CPU capacity, switch off </text><text styleclass="GUI_item" translate="true">SSAO</text><text styleclass="Note" translate="true"> and </text><text styleclass="GUI_item" translate="true">Realtime Shadows</text><text styleclass="Note" translate="true">.</text></para>
+    <para styleclass="Image Caption"><image src="preferences_graphics.png" scale="60.00%" width="733" height="458" styleclass="Image Caption"></image></para>
     <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Camera</text></para>
-    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">This view allows you to customize camera positioning: how far you can see, how wide your field of view is, how high the camera is. The defaults match an average human height. &#160;</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="preferences_camera.png" scale="60.00%" width="731" height="426" styleclass="Image Caption"></image></para>
+    <para styleclass="Note"><text styleclass="Note" style="font-weight:bold;" translate="true">Tip</text><text styleclass="Note" translate="true">: Higher visibility distance can cause rippling shadows. To remedy for it, turn off the </text><text styleclass="Note" translate="true">Realtime Shadows</text><text styleclass="Note" translate="true"> and </text><text styleclass="Note" translate="true">SSAO</text><text styleclass="Note" translate="true"> in the </text><text styleclass="Note" translate="true">Graphics</text><text styleclass="Note" translate="true"> tab</text><text styleclass="Note" translate="true">.</text></para>
+    <para styleclass="Normal_part-navigation" style="text-align:left; text-indent:0px; margin-top:30px; margin-right:0px; margin-bottom:0px; margin-left:-15px; line-height:1.00; background-color:#ffffff; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
     <para styleclass="tableheading"><text styleclass="tableheading" translate="true">under construction</text></para>
   </body>
 </topic>
