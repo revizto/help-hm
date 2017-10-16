@@ -28,7 +28,7 @@
           <export-task name="Publish as HTM" format="HTM">
             <task-config-group name="settings">
               <task-config-value name="outputfile">.\html\INDEX.htm</task-config-value>
-              <task-config-value name="skin">$(HMSYS)Templates\HTML Skins\PP_DEMO_V3_Responsive_Boxed_Forest_Green.hmskin</task-config-value>
+              <task-config-value name="skin">$(HMSYS)Templates\HTML Skins\Webhelp, Two Frames Classic Skin Silver.hmskin</task-config-value>
               <task-config-value name="make3include">HTML,USER1,USER2,USER3</task-config-value>
               <task-config-value name="make3status">*</task-config-value>
             </task-config-group>
@@ -194,10 +194,10 @@
       <config-value name="lcid" translate="true">en-us</config-value>
       <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
       <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000; </config-value>
-      <config-value name="autohelpstart">35</config-value>
+      <config-value name="autohelpstart">44</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
-      <config-value name="searchpath">.\images\</config-value>
+      <config-value name="searchpath">.\images\;.\Topics\</config-value>
       <config-group name="custombuilds">
         <config-value name="DEMO">Demo Build</config-value>
         <config-value name="IMPORT">IMPORT</config-value>
@@ -276,7 +276,7 @@
           <config-value name="mapfileformat">0</config-value>
         </config-group>
       </config-group>
-      <config-value name="project.lastexport">4</config-value>
+      <config-value name="project.lastexport">3</config-value>
     </config-group>
     <config-group name="chm">
       <config-value name="outputfile">RusGuard_Manual.chm</config-value>
@@ -725,7 +725,7 @@ document.write('</frameset>');
       <config-value name="contentnumberstyle">1.1.1.1.1.1</config-value>
       <config-value name="forcetocsync">0</config-value>
       <config-value name="headframesrc" translate="true"><![CDATA[http://www.rtcevents.com/bilt/wp-content/uploads/Revizto-logo_horizontal.png]]></config-value>
-      <config-value name="skin">$(HMSYS)Templates\HTML Skins\PP_DEMO_V3_Responsive_Boxed_Forest_Green.hmskin</config-value>
+      <config-value name="skin">$(HMSYS)Templates\HTML Skins\Webhelp, Two Frames Classic Skin Silver.hmskin</config-value>
     </config-group>
     <config-group name="ebook">
       <config-value name="outputfile">RusGuard_Manual_Help.exe</config-value>
@@ -782,6 +782,7 @@ document.write('</frameset>');
       <helpcontext-number href="Export-from-Revizto" value="32"/>
       <helpcontext-number href="Exporting-Files-to-Revizto" value="20170823"/>
       <helpcontext-number href="FAQ" value="15"/>
+      <helpcontext-number href="FAQ#turn_off_upd" value="45"/>
       <helpcontext-number href="From-AutoCad_ArchiCad" value="18"/>
       <helpcontext-number href="From-Navisworks" value="14"/>
       <helpcontext-number href="From-Revit" value="12"/>
@@ -792,13 +793,16 @@ document.write('</frameset>');
       <helpcontext-number href="License_monitoring" value="20170821"/>
       <helpcontext-number href="License-Owner" value="20170825"/>
       <helpcontext-number href="Licensing" value="20170817"/>
+      <helpcontext-number href="Local-Profile-Management" value="44"/>
       <helpcontext-number href="Manage-Users" value="20170819"/>
       <helpcontext-number href="Manage-Users#license_roles" value="27"/>
       <helpcontext-number href="Managing-Notifications" value="19"/>
       <helpcontext-number href="Managing-Project-Access-Rights" value="34"/>
       <helpcontext-number href="Managing-User-Profile" value="20"/>
       <helpcontext-number href="Model-Elements-and-Controls" value="35"/>
+      <helpcontext-number href="Model-Elements-and-Controls#example_1" value="42"/>
       <helpcontext-number href="My-Projects" value="21"/>
+      <helpcontext-number href="Preferences" value="43"/>
       <helpcontext-number href="Project-Management" value="20170820"/>
       <helpcontext-number href="Project-Management#project_access_level" value="28"/>
       <helpcontext-number href="Project-Management2" value="23"/>
@@ -806,9 +810,12 @@ document.write('</frameset>');
       <helpcontext-number href="Project-Optimization" value="33"/>
       <helpcontext-number href="Reviewer" value="20170828"/>
       <helpcontext-number href="Revizto-Application" value="29"/>
+      <helpcontext-number href="Rhinoceros-for-Windows" value="36"/>
       <helpcontext-number href="Role-Guides" value="20170824"/>
+      <helpcontext-number href="SketchUp" value="37"/>
       <helpcontext-number href="sysreqs" value="11"/>
       <helpcontext-number href="Troubleshooting" value="16"/>
+      <helpcontext-number href="Troubleshooting#working_folder" value="46"/>
       <helpcontext-number href="Using-the-Web-GUI" value="22"/>
       <helpcontext-number href="Version-Control" value="31"/>
       <helpcontext-number href="View-modes" value="30"/>
