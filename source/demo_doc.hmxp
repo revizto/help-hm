@@ -804,6 +804,7 @@ document.write('</frameset>');
       <helpcontext-number href="Managing-User-Profile" value="20"/>
       <helpcontext-number href="Model-Elements-and-Controls" value="35"/>
       <helpcontext-number href="Model-Elements-and-Controls#example_1" value="42"/>
+      <helpcontext-number href="Model-Elements-and-Controls#viewpoints" value="50"/>
       <helpcontext-number href="My-Projects" value="21"/>
       <helpcontext-number href="Preferences" value="43"/>
       <helpcontext-number href="Project-Management" value="20170820"/>
