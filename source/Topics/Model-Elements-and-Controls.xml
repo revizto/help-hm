@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
 <topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title translate="true">Model Elements and Controls</title>
+  <title translate="true">3D Elements and Controls</title>
   <body>
     <header>
-      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Model Elements and Controls</text></para>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">3D Elements and Controls</text></para>
     </header>
     <para styleclass="Normal"><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> allows you browsing the model by objects exported from source files (e.g. by levels, phases, viewpoints). You can also create your own viewpoints, add color coding and define transparency settings. </text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">A wide range of controls in </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> is designed to select and highlight objects in a way that is tailored to particularities of a source program in order to make sure that an issue is clear. For example, Revit offers orthogonal and perspective camera options. As most users prefer the former, issues detected inside </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> model can be unclear when loaded in Revit. But, when specific controls are applied to highlight them, Revit users can get a clear view of a each issue. </text></para>
@@ -12,6 +12,7 @@
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Initial viewpoints are exported from source files (mainly, from Revit). You can use them to navigate in the model. Also, you can create new viewpoints for better and faster navigation or to highlight an issue location. </text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">You can select any viewpoint is the </text><text styleclass="GUI_item" translate="true">Home Viewpoint</text><text styleclass="Normal" translate="true">. (i.e. the one displayed when you click </text><image src="home_viewpoint_ico.png" scale="80.00%" width="121" height="22" styleclass="Image Caption"></image><text styleclass="Image Caption" translate="true">&#32;</text><text styleclass="Normal" translate="true">icon at the bottom of the screen. </text></para>
     <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Rooms</text></para>
+    <para styleclass="Heading 2"></para>
     <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Levels</text></para>
     <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Phases </text></para>
     <para styleclass="Heading 2"><anchor id="example_1" styleclass="Heading 2"><keywords><keyword translate="true">Issue example</keyword><keyword translate="true">Using section boxes</keyword></keywords></anchor><text styleclass="Heading 2" translate="true">Using 3D Controls to Create Issues. Example 1</text></para>

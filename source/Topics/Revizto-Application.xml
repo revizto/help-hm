@@ -6,6 +6,6 @@
     <header>
       <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Revizto Application</text></para>
     </header>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto is a collaboration tool that ensures interaction between several software applications. Revizto Application is only one of them, therefore this guide mainly focuses on the process, not on describing specific GUI functions. Yet, there are some functions reserved to Revizto Application and/or designed exclusively for it. These are covered below.</text></para>
+    <para styleclass="Normal"><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> is a collaboration tool that ensures interaction between several software applications. </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> application is only one of them, therefore this guide mainly focuses on the process, not on describing specific GUI functions. Yet, there are some functions reserved to </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> application and/or designed exclusively for it. These are covered below.</text></para>
   </body>
 </topic>

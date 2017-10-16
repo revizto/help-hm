@@ -6,11 +6,11 @@
     <header>
       <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Project Optimization</text></para>
     </header>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto provides several optimization options to resize large models and enable faster operation on portable devices.</text></para>
+    <para styleclass="Normal"><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> provides several optimization options to resize large models and enable faster operation on portable devices. Note that the below options are applied on the project level, you can also define </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Preferences" styleclass="Normal" translate="true">preferences at the machine level</link><text styleclass="Normal" translate="true">.</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Note that to use the option, you need project-level rights that include uploading models.</text></para>
     <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To apply optimization:</text></para>
     <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
-      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Open a project in Revizto.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Open a project in </text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true">.</text></li>
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Choose </text><text styleclass="GUI_item" translate="true">Edit</text><text styleclass="Procedure" translate="true"> &gt; </text><text styleclass="GUI_item" translate="true">Project optimization</text><text styleclass="Procedure" translate="true">.</text></li>
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Define optimization settings in the view that opens.</text></li>
       <list id="1" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Calibri; font-size:11pt; color:#000000;">

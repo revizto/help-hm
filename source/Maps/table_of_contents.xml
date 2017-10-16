@@ -98,8 +98,17 @@
   </topicref>
   <topicref type="topic" id="430185774195610" build="ALL" modified="2017-10-10T13:49:52.307Z" icon="0" href="Revizto-Application">
     <caption translate="true">Revizto Application</caption>
-    <topicref type="topic" id="430191693580078" build="ALL" modified="2017-10-11T00:36:20.532Z" icon="0" href="Model-Elements-and-Controls">
-      <caption translate="true">Model Elements and Controls</caption>
+    <topicref type="topic" id="430242831448933" build="ALL" modified="2017-10-16T09:14:57.935Z" icon="0" href="GUI-Overview">
+      <caption translate="true">GUI Overview</caption>
+    </topicref>
+    <topicref type="topic" id="430244004550145" build="ALL" modified="2017-10-16T09:26:58.741Z" icon="0" href="Browsing-modes">
+      <caption translate="true">Browsing modes</caption>
+    </topicref>
+    <topicref type="topic" id="430191693580078" build="ALL" modified="2017-10-16T09:27:22.850Z" icon="0" href="Model-Elements-and-Controls">
+      <caption translate="true">3D Elements and Controls</caption>
+    </topicref>
+    <topicref type="topic" id="430245261322439" build="ALL" modified="2017-10-16T09:27:31.865Z" icon="0" href="2D-Elements-and-Controls">
+      <caption translate="true">2D Elements and Controls</caption>
     </topicref>
     <topicref type="topic" id="430184587901783" build="ALL" modified="2017-10-10T13:53:42.425Z" icon="0" href="View-modes">
       <caption translate="true">Visual Effects</caption>
