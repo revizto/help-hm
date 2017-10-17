@@ -793,6 +793,8 @@ document.write('</frameset>');
       <helpcontext-number href="Interface-Tips" value="20170822"/>
       <helpcontext-number href="Introduction" value="1"/>
       <helpcontext-number href="Issue-LifeCycle" value="10"/>
+      <helpcontext-number href="Issue-LifeCycle#issue_settings" value="52"/>
+      <helpcontext-number href="Issue-LifeCycle#new_3d_issue" value="51"/>
       <helpcontext-number href="License_monitoring" value="20170821"/>
       <helpcontext-number href="License-Owner" value="20170825"/>
       <helpcontext-number href="Licensing" value="20170817"/>
