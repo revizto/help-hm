@@ -21,7 +21,7 @@
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Revizto Application</text></para>
         </td>
         <td style="width:1033px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Core software component of the suite</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Core software component of the suite that contains the whole project management, model creation and issue processing toolkit.</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
@@ -29,7 +29,7 @@
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Revizto viewer</text></para>
         </td>
         <td style="width:1033px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto offers several viewers that have full collaboration functionality, limited project management options, but offer extended viewing, presentation and walking options, in particular, each viewer is tailored to support a specific set of gaming and VR controls/devices (e.g. WASD, Xbox, OCULUS, Vive). </text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto offers several viewers that allow viewing 3D models, but exclude 2D views, have limited project management and collaboration options. These views, in turn, offer additional presentation and navigation options, each viewer is tailored to support a specific set of gaming and VR controls/devices (e.g. WASD, Xbox, OCULUS, Vive). </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true">&#32;</text><link displaytype="text" defaultstyle="true" type="topiclink" href="Browsing-modes" styleclass="Normal" translate="true">hot keys</link><text styleclass="Normal" translate="true"> are supported in viewers as long as relevant functionality is available. E.g. with no 2D view mode, the hot key for switching to 2D is unavailable. </text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">

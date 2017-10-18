@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Preferences</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Preferences</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">The Preferences screen has four views: General, Navigation, Graphics, Camera. Use them to customize your local instance of &#160;</text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true">. For project-level optimization options see the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Project-Optimization" styleclass="Normal" translate="true">Project Optimization</link><text styleclass="Normal" translate="true"> section.</text></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">General</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Normally, this view is the ending point of the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Installation-and-Deployment" styleclass="Normal" translate="true">installation process</link><text styleclass="Normal" translate="true">. Use it to define path to the working folder, set language preferences, measurement units and default view (i.e. the screen opened at launch).</text></para>
+    <para styleclass="Image Caption"><image src="install_preferences.png" scale="60.00%" width="653" height="480" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Navigation</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">This view allows you to customize the walk mode. By default, Revit navigation mode is used, but you have four more options. </text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="preferences_navigation.png" scale="60.00%" width="727" height="327" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Revit mode</text></para>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"><table styleclass="Default2" rowcount="6" colcount="2">
+      <tr style="vertical-align:top">
+        <td style="width:268px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline; color:#ffffff;" translate="true">Function</text></para>
+        </td>
+        <td style="width:465px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline; color:#ffffff;" translate="true">Controls</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:268px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Orbit (around scene pivot)</text></para>
+        </td>
+        <td style="width:465px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Shift + right mouse button, or Shift + click and hold scroll wheel</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:268px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Zoom to/from pivot</text></para>
+        </td>
+        <td style="width:465px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Use the scroll wheel of your mouse</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:268px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Pan</text></para>
+        </td>
+        <td style="width:465px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Click and hold scroll wheel</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:268px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Change Pivot</text></para>
+        </td>
+        <td style="width:465px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Ctrl + click</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:268px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Object Properties</text></para>
+        </td>
+        <td style="width:465px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Double click on the desired object</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">SketchUp mode</text></para>
+    <para styleclass="Normal" style="margin-top:14px; margin-left:0px; line-height:1.00; tabstops:none;"><table styleclass="Default2" rowcount="5" colcount="2">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:455px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline; color:#ffffff;" translate="true">Function</text></para>
+        </td>
+        <td style="vertical-align:middle; width:791px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline; color:#ffffff;" translate="true">Controls</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:455px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Orbit (around screen center)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:791px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Click and hold the scroll wheel</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:455px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Zoom to/from mouse cursor</text></para>
+        </td>
+        <td style="vertical-align:middle; width:791px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Use the scroll wheel of your mouse</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:455px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Pan (adaptive)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:791px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Shift + click and hold scroll wheel</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:455px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Object Properties</text></para>
+        </td>
+        <td style="vertical-align:middle; width:791px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Double click on the desired object</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Hybrid mode</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">This mode uses Autodesk Forge navigation settings. &#160;</text></para>
+    <para styleclass="Normal" style="margin-top:14px; margin-left:0px; line-height:1.00; tabstops:none;"><table styleclass="Default2" rowcount="6" colcount="2">
+      <tr style="vertical-align:top">
+        <td style="width:455px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline; color:#ffffff;" translate="true">Function</text></para>
+        </td>
+        <td style="width:791px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline; color:#ffffff;" translate="true">Controls</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:455px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Orbit (around pivot)</text></para>
+        </td>
+        <td style="width:791px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Hold right mouse button</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:455px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Zoom to/from pivot</text></para>
+        </td>
+        <td style="width:791px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Use the scroll wheel of your mouse</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:455px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Pan (Adaptive)</text></para>
+        </td>
+        <td style="width:791px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Hold the scroll wheel</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:455px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Change pivot</text></para>
+        </td>
+        <td style="width:791px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Right-click on the desired place (on surface)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:455px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Object Properties</text></para>
+        </td>
+        <td style="width:791px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Double click on the desired object</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Navisworks Walk</text></para>
+    <para styleclass="Normal" style="margin-top:14px; margin-left:0px; line-height:1.00; tabstops:none;"><table styleclass="Default2" rowcount="10" colcount="2">
+      <tr style="vertical-align:top">
+        <td style="width:453px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline; color:#ffffff;" translate="true">Function</text></para>
+        </td>
+        <td style="width:793px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline; color:#ffffff;" translate="true">Controls</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:453px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Move forward</text></para>
+        </td>
+        <td style="width:793px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Hold left mouse button + move mouse forward</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:453px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Move backward</text></para>
+        </td>
+        <td style="width:793px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Hold left mouse button + move mouse backward</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:453px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Turn left</text></para>
+        </td>
+        <td style="width:793px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Hold left mouse button + move mouse left</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:453px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Turn right</text></para>
+        </td>
+        <td style="width:793px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Hold left mouse button + move mouse right</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:453px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Increase elevation</text></para>
+        </td>
+        <td style="width:793px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Hold middle mouse button + move mouse forward</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:453px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Decrease elevation</text></para>
+        </td>
+        <td style="width:793px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Hold middle mouse button + move mouse backward</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:453px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Strafe left</text></para>
+        </td>
+        <td style="width:793px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Hold middle mouse button + move mouse left</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:453px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Strafe right</text></para>
+        </td>
+        <td style="width:793px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Hold middle mouse button + move mouse right</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:453px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline;" translate="true">Look up/down</text></para>
+        </td>
+        <td style="width:793px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; vertical-align:baseline;" translate="true">Use the scroll wheel of the mouse</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Note"><text styleclass="Note" translate="true">Note: </text><var styleclass="Note">&lt;%BRAND_NAME%&gt;</var><text styleclass="Note" translate="true"> also supports 3DConnexion devices for navigation.</text></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Game mode</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Note that for the </text><text styleclass="GUI_item" translate="true">Game</text><text styleclass="Normal" translate="true"> mode additional mouse settings are available.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="preferences_navigation_game.png" scale="60.00%" width="740" height="466" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><table styleclass="Default2" rowcount="7" colcount="2">
+      <tr style="vertical-align:top">
+        <td style="width:339px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline; color:#ffffff;" translate="true">Function</text></para>
+        </td>
+        <td style="width:897px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-weight:bold; vertical-align:baseline; color:#ffffff;" translate="true">Controls</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:339px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Hold to rotate the view (turn head)</text></para>
+        </td>
+        <td style="width:897px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Right mouse button</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:339px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">E</text></para>
+        </td>
+        <td style="width:897px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Float up</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:339px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Q</text></para>
+        </td>
+        <td style="width:897px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Float down</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:339px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Shift+W/A/S/D/Q/E</text></para>
+        </td>
+        <td style="width:897px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Move with increased speed</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:339px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Double-click</text></para>
+        </td>
+        <td style="width:897px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Display properties of the selected object</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:339px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Scroll</text></para>
+        </td>
+        <td style="width:897px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Zooming</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">In the fly mode you are flying without collisions. When walk mode is switched on, you will move with collisions and gravity. The walk mode uses controls from the game navigation mode.  </text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Keyboard.png" scale="80.00%" width="640" height="240" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">For additional details see the </text><link displaytype="text" defaultstyle="true" type="weblink" href="https://youtu.be/PqFflJWeT_U" target="_blank" styleclass="Normal" translate="true">video tutorial</link><text styleclass="Normal" translate="true">.</text></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Graphics</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">This view allows you to customize the quality of graphics. You can choose of one of the six modes; the recommended option is </text><text styleclass="GUI_item" translate="true">Good</text><text styleclass="Normal" translate="true"> which compromises between response speed and visualization quality. The default quality option is selected by the built-in algorithm that evaluates your PC at the launch. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">For each mode additional settings are available to fine-tune your visual experience.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">By turning on/off </text><text styleclass="GUI_item" translate="true">SSAO</text><text styleclass="Normal" translate="true">, </text><text styleclass="GUI_item" translate="true">Realtime Shadows</text><text styleclass="Normal" translate="true"> and </text><text styleclass="GUI_item" translate="true">Tone Mapping</text><text styleclass="Normal" translate="true"> you can regulate the quality and type of shadows in the model. Note that SSAO is more taxing on the CPU capacity and Realtime Shadows take more RAM. It is recommended to switch off both or one of them, if PC capacity is low or model is too large.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Turn on </text><text styleclass="GUI_item" translate="true">Downscale rendering resolution</text><text styleclass="Normal" translate="true"> if you are using a powerful high-resolution display with higher pixel density. Otherwise long delays are likely to occur. With this option on, </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> will choose the nearest best resolution option to promptly render views combining adequate visualization and navigation speed. </text></para>
+    <para styleclass="Image Caption"><image src="preferences_graphics.png" scale="60.00%" width="733" height="458" styleclass="Image Caption"></image></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Camera</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">This view allows you to customize camera positioning: how far you can see, how wide your field of view is, how high the camera is. The defaults match an average human height. &#160;</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="preferences_camera.png" scale="60.00%" width="731" height="426" styleclass="Image Caption"></image></para>
+    <para styleclass="Note"><text styleclass="Note" style="font-weight:bold;" translate="true">Tip</text><text styleclass="Note" translate="true">: Higher visibility distance can cause rippling shadows. To remedy for it, turn off the </text><text styleclass="GUI_item" translate="true">Realtime Shadows</text><text styleclass="Note" translate="true"> and </text><text styleclass="GUI_item" translate="true">SSAO</text><text styleclass="Note" translate="true"> in the </text><text styleclass="GUI_item" translate="true">Graphics</text><text styleclass="Note" translate="true"> tab.</text></para>
+    <para styleclass="Normal_part-navigation" style="text-align:left; text-indent:0px; margin-top:30px; margin-right:0px; margin-bottom:0px; margin-left:-15px; line-height:1.00; background-color:#ffffff; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

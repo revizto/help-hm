@@ -51,6 +51,7 @@ hmContextIds["31"]="version-control.htm";
 hmContextIds["29"]="revizto-application.htm";
 hmContextIds["47"]="gui-overview.htm";
 hmContextIds["48"]="browsing-modes.htm";
+hmContextIds["52"]="browsing-modes.htm#hot_keys";
 hmContextIds["35"]="model-elements-and-controls.htm";
 hmContextIds["50"]="model-elements-and-controls.htm#viewpoints";
 hmContextIds["42"]="model-elements-and-controls.htm#example_1";

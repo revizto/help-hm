@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Browsing and Hot Keys</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Browsing and Hot Keys</text></para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading 2"><anchor id="hot_keys" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">Hot Keys</text></para>
+    <para styleclass="Normal"><table styleclass="Default2" rowcount="20" colcount="2">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; color:#ffffff;" translate="true">Function</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; color:#ffffff;" translate="true">Key Combination</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Switch to 2D mode</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">2 OR Ctrl+E (the latter option only available from scene, not from other views like, e.g. Preferences)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Switch to 3D mode</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">3</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Switch to the Issue Tracker</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">4 OR Ctrl+I</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Open the Project gallery</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl + O</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Import a project</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl+Shift + O</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Browse by Rooms</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl + R</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Launch Section cut</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl + X</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Browse by objects</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl + B</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Launch Ruler</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl +M</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Go to the home Viewpoint</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Home icon OR Ctrl+H</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Create a Video Track</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl+T</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Browse by Viewpoints</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl+W</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Create a new issue</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl+Shift+I</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Open a Map</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">M (only available from the 3D view)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Multiple object selection</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl + click</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Teleport</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Alt+click</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Increase the Field of view</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">+</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Decrease the Field of view</text></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">-</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">(0) “zero” – Restores a default field of view</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">(tab) - hides the right vertical tool bar menu in the Issue Tracker, objects, rooms, viewpoints, camera share</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">(Esc) - Exit</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Navigation modes:</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">(F5) – Sets navigation mode to Like in Video Game</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">(F6) – Sets navigation mode to Like in Revit</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">(F7) - Sets navigation mode to Like in SketchUp</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">(F8) – Sets navigation mode to Hybrid</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">(F9) – Sets navigation mode to Navisworks Walk</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">(R) - Toggles the Fly/Walk modes (if available)</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Markup mode:</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">(P) - Pen</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">(Q) - Callout</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">(T) - Text</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">(L) - Line</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">(A) - Arrow</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">(E) - Ellipse</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">(shift+P) - Polyline</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">(R) - Rectangle</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">(space) or (V) - Edit Mode</text></para>
+    <para styleclass="attention"><text styleclass="attention" translate="true">Topic under construction, checking needed</text></para>
+  </body>
+</topic>

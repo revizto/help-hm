@@ -194,7 +194,7 @@
       <config-value name="lcid" translate="true">en-us</config-value>
       <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
       <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000; </config-value>
-      <config-value name="autohelpstart">49</config-value>
+      <config-value name="autohelpstart">52</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
       <config-value name="searchpath">.\images\;.\Topics\</config-value>
@@ -232,6 +232,7 @@
       <config-value name="vcsmanuallycheckout">0</config-value>
       <config-value name="contents">Introduction</config-value>
       <config-value name="bidimode">0</config-value>
+      <config-group name="bookmarks"/>
     </config-group>
     <config-group name="pdf">
       <config-value name="style">0</config-value>
@@ -778,6 +779,7 @@ document.write('</frameset>');
       <helpcontext-number href="Abbreviations" value="13"/>
       <helpcontext-number href="Activation" value="20170818"/>
       <helpcontext-number href="Browsing-modes" value="48"/>
+      <helpcontext-number href="Browsing-modes#hot_keys" value="52"/>
       <helpcontext-number href="Collaborator-Reports" value="26"/>
       <helpcontext-number href="Content-author" value="20170827"/>
       <helpcontext-number href="Creating-and-Managing-Project-" value="25"/>
