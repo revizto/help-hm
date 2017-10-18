@@ -8,7 +8,7 @@
     </header>
     <para styleclass="Normal"></para>
     <para styleclass="Heading 2"><anchor id="hot_keys" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">Hot Keys</text></para>
-    <para styleclass="Normal"><table styleclass="Default2" rowcount="32" colcount="2">
+    <para styleclass="Normal"><table styleclass="Default2" rowcount="40" colcount="2">
       <tr style="vertical-align:top">
         <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; color:#ffffff;" translate="true">Function</text></para>
@@ -144,7 +144,7 @@
       </tr>
       <tr style="vertical-align:top">
         <td style="width:225px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Teleport</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Teleport (i.e. choose a spot in the 3D view and go directly to it)</text></para>
         </td>
         <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Alt+click</text></para>
@@ -192,76 +192,137 @@
       </tr>
       <tr style="vertical-align:top">
         <td colspan="2" style="width:1011px;">
-          <para styleclass="GUI_item"><text styleclass="GUI_item" style="font-style:normal;" translate="true">Navigation</text></para>
+          <para styleclass="GUI_item"><text styleclass="GUI_item" style="font-style:normal;" translate="true">Navigation modes</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
         <td style="width:225px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Video game</text></para>
         </td>
         <td style="width:1011px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">F5</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
         <td style="width:225px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revit</text></para>
         </td>
         <td style="width:1011px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">F6</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
         <td style="width:225px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Sketch Up</text></para>
         </td>
         <td style="width:1011px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">F7</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
         <td style="width:225px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Hybrid</text></para>
         </td>
         <td style="width:1011px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">F8</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
         <td style="width:225px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Navisworks</text></para>
         </td>
         <td style="width:1011px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">F9</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
         <td style="width:225px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Fly/Walk mode (reverse mouse, if available)</text></para>
         </td>
         <td style="width:1011px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">R</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td colspan="2" style="width:1011px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Markup Mode</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
         <td style="width:225px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Pen</text></para>
         </td>
         <td style="width:1011px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">P</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
         <td style="width:225px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Callout</text></para>
         </td>
         <td style="width:1011px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Q</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:225px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Text</text></para>
+        </td>
+        <td style="width:1011px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">T</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:225px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Line</text></para>
+        </td>
+        <td style="width:1011px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">L</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:225px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Arrow</text></para>
+        </td>
+        <td style="width:1011px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">A</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:225px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Elllipse</text></para>
+        </td>
+        <td style="width:1011px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">E</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:225px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Polyline</text></para>
+        </td>
+        <td style="width:1011px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Shift+P</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:225px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Rectangle</text></para>
+        </td>
+        <td style="width:1011px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">R</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:225px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Edit mode</text></para>
+        </td>
+        <td style="width:1011px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Space key OR V</text></para>
         </td>
       </tr>
     </table></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">(F5) – Sets navigation mode to Like in Video Game</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">(F6) – Sets navigation mode to Like in Revit</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">(F7) - Sets navigation mode to Like in SketchUp</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">(F8) – Sets navigation mode to Hybrid</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">(F9) – Sets navigation mode to Navisworks Walk</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">(R) - Toggles the Fly/Walk modes (if available)</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Markup mode:</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">(P) - Pen</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">(Q) - Callout</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">(T) - Text</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">(L) - Line</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">(A) - Arrow</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">(E) - Ellipse</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">(shift+P) - Polyline</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">(R) - Rectangle</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">(space) or (V) - Edit Mode</text></para>
-    <para styleclass="attention"><text styleclass="attention" translate="true">Topic under construction, checking needed</text></para>
+    <para styleclass="attention"><text styleclass="attention" translate="true">Topic under construction</text></para>
   </body>
 </topic>
