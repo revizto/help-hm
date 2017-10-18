@@ -194,7 +194,7 @@
       <config-value name="lcid" translate="true">en-us</config-value>
       <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
       <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000; </config-value>
-      <config-value name="autohelpstart">52</config-value>
+      <config-value name="autohelpstart">60</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
       <config-value name="searchpath">.\images\;.\Topics\</config-value>
@@ -778,6 +778,7 @@ document.write('</frameset>');
       <helpcontext-number href="2D-Elements-and-Controls#image_overlay" value="54"/>
       <helpcontext-number href="Abbreviations" value="13"/>
       <helpcontext-number href="Activation" value="20170818"/>
+      <helpcontext-number href="Additional-Revizto-Components" value="57"/>
       <helpcontext-number href="Browsing-modes" value="48"/>
       <helpcontext-number href="Browsing-modes#hot_keys" value="52"/>
       <helpcontext-number href="Collaborator-Reports" value="26"/>
@@ -807,10 +808,12 @@ document.write('</frameset>');
       <helpcontext-number href="Managing-Notifications" value="19"/>
       <helpcontext-number href="Managing-Project-Access-Rights" value="34"/>
       <helpcontext-number href="Managing-User-Profile" value="20"/>
+      <helpcontext-number href="Map-view" value="59"/>
       <helpcontext-number href="Model-Elements-and-Controls" value="35"/>
       <helpcontext-number href="Model-Elements-and-Controls#example_1" value="42"/>
       <helpcontext-number href="Model-Elements-and-Controls#viewpoints" value="50"/>
       <helpcontext-number href="My-Projects" value="21"/>
+      <helpcontext-number href="Oculus-Viewer" value="55"/>
       <helpcontext-number href="Preferences" value="43"/>
       <helpcontext-number href="Project-Management" value="20170820"/>
       <helpcontext-number href="Project-Management#project_access_level" value="28"/>
@@ -821,6 +824,8 @@ document.write('</frameset>');
       <helpcontext-number href="Revizto-Application" value="29"/>
       <helpcontext-number href="Rhinoceros-for-Windows" value="36"/>
       <helpcontext-number href="Role-Guides" value="20170824"/>
+      <helpcontext-number href="Scene-Editor" value="60"/>
+      <helpcontext-number href="Shared-Location-iPad-Connector" value="58"/>
       <helpcontext-number href="SketchUp" value="37"/>
       <helpcontext-number href="sysreqs" value="11"/>
       <helpcontext-number href="Troubleshooting" value="16"/>
@@ -828,6 +833,7 @@ document.write('</frameset>');
       <helpcontext-number href="Using-the-Web-GUI" value="22"/>
       <helpcontext-number href="Version-Control" value="31"/>
       <helpcontext-number href="View-modes" value="30"/>
+      <helpcontext-number href="Vive-Viewer" value="56"/>
     </helpcontext-numbers>
   </config>
   <xi:include parse="xml" href="Maps/table_of_contents.xml"/>
