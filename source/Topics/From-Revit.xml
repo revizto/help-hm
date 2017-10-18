@@ -9,7 +9,7 @@
     <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Before Exporting</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Before exporting source files from Revit, it is recommended to create a target 3D view with settings that suite export needs. In particular, it is recommended to:</text></para>
     <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
-      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Set </text><text styleclass="GUI_item" translate="true">Detail Level</text><text styleclass="Bullet_1" translate="true"> to </text><text styleclass="GUI_item" translate="true">Fine</text><text styleclass="Bullet_1" translate="true">. Note that Revizto excludes 2D items from export and at low detail level Revit displays small items (e.g. tubes) as 2D lines.</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Set </text><text styleclass="GUI_item" translate="true">Detail Level</text><text styleclass="Bullet_1" translate="true"> to </text><text styleclass="GUI_item" translate="true">Fine</text><text styleclass="Bullet_1" translate="true">. Note that </text><var styleclass="Bullet_1">&lt;%BRAND_NAME%&gt;</var><text styleclass="Bullet_1" translate="true"> excludes 2D items from export and at low detail level Revit displays small items (e.g. tubes) as 2D lines.</text></li>
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Make sure that Renderings and Views have different names in Revit. Otherwise, some views will not be exported.</text></li>
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Set the Phase Filter to the option that creates a view you want to have in Revisto as default. Note that if phases are exported correctly, you will be able to switch them in Revizto as well, but you default view will be based on the open open in Revit at the point of export.</text></li>
     </list>
@@ -106,8 +106,9 @@
       </tr>
     </table></para>
     <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"></para>
-    <para styleclass="Heading 3"><text styleclass="Heading 3" style="font-weight:bold;" translate="true">Sheet Export Particularities</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">As mentioned above, you can export sheets in vector or image format. You can also use a range of filters to quicker find sheets that you want to export.</text></para>
+    <para styleclass="Heading 3"><anchor id="sheet_export_revit" styleclass="Heading 3" style="font-weight:bold;"></anchor><text styleclass="Heading 3" style="font-weight:bold;" translate="true">Sheet Export Particularities</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">As mentioned above, you can export sheets in vector or image format. the Image option is recommended for sheets that use East Asian fonts. Also, images are quicker processed when </text><link displaytype="text" defaultstyle="true" type="topiclink" href="2D-Elements-and-Controls" anchor="image_overlay" styleclass="Normal" translate="true">image overlay</link><text styleclass="Normal" translate="true"> is created. &#160;</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">You can also use a range of filters to quicker find sheets that you want to export.</text></para>
     <para styleclass="Image Caption"><image src="export_sheets.png" scale="100.00%" styleclass="Image Caption"></image></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Note that the list of available filters is not strictly defined and depends on properties available in the source file.</text></para>
     <para styleclass="Image Caption"><image src="sheet_export_another_filter_list.png" scale="100.00%" styleclass="Image Caption"></image></para>

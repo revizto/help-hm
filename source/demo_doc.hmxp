@@ -774,6 +774,7 @@ document.write('</frameset>');
     </variables>
     <helpcontext-numbers>
       <helpcontext-number href="2D-Elements-and-Controls" value="49"/>
+      <helpcontext-number href="2D-Elements-and-Controls#image_overlay" value="54"/>
       <helpcontext-number href="Abbreviations" value="13"/>
       <helpcontext-number href="Activation" value="20170818"/>
       <helpcontext-number href="Browsing-modes" value="48"/>
@@ -788,12 +789,12 @@ document.write('</frameset>');
       <helpcontext-number href="From-AutoCad_ArchiCad" value="18"/>
       <helpcontext-number href="From-Navisworks" value="14"/>
       <helpcontext-number href="From-Revit" value="12"/>
+      <helpcontext-number href="From-Revit#sheet_export_revit" value="53"/>
       <helpcontext-number href="GUI-Overview" value="47"/>
       <helpcontext-number href="Installation-and-Deployment" value="17"/>
       <helpcontext-number href="Interface-Tips" value="20170822"/>
       <helpcontext-number href="Introduction" value="1"/>
       <helpcontext-number href="Issue-LifeCycle" value="10"/>
-      <helpcontext-number href="Issue-LifeCycle#issue_settings" value="52"/>
       <helpcontext-number href="Issue-LifeCycle#new_3d_issue" value="51"/>
       <helpcontext-number href="License_monitoring" value="20170821"/>
       <helpcontext-number href="License-Owner" value="20170825"/>
