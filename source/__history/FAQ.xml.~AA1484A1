@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">FAQ</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">FAQ</text></para>
+    </header>
+    <list id="28" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- We let go a team member who owns a range of projects. How to transfer ownership?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">- You have 2 options. One is to deactivate (and then delete) this user. Project ownership will be automatically assigned to the License Owner (SuperAdmin). The other option is to manually reassign project ownership before deactivating (and deleting) the user.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="29" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- We let go the License Owner (SuperAdmin). How to transfer the license ownership?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">- Note that only the License Owner can edit their own access level. You have to make sure that before leaving the company, employee who owns and manages Revizto license transfers their rights to another person.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="30" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="3" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- My company operates in Canada and has partners in the UK. Both we and our partners have Revizto licenses. Yet, I cannot invite their users as Guests to collaborate in my projects. Why?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">- In Revizto geographies are strictly divided in order to ensure maximum operation speed. Therefore, the Guest status (free collaboration access to members of other Revisto workspaces) is reserved to users within the same geography. To invite a collaborator from a team that has a license issues for another geography, you will have to create a fee-based Collaborator or Content Creator account.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="31" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="4" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- We often get failures and errors while exporting our source files to Revizto. What to do?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">- If your working folder is located on a network location, not on a local collaborator PC, try moving it to a local disk. Revizto uses SQL Light, therefore multiple requests to a remote folder can cause failures and errors.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="32" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="5" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- We want to show the project to our colleagues/partners from another company, but they have no Revizto license. Also, we don’t want them to see our issues.]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">- You can use the Export to EXE option (the Project menu). Also, choose No in the Export Issues field to hide your issues. The resulting file will be accessible on any Windows x64 machine without Revizto.</text></para>
+          <para styleclass="Image Caption"><image src="export_to_exe.png" scale="100.00%" styleclass="Image Caption"><title translate="true">export_to_exe.png</title></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Bullet_1"></para>
+    <list id="33" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="6" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- I am currently using the French keyboard and cannot use the WASD viewer navigation option. Can I define other buttons as controls?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">- No, you cannot customize control buttons, but you can use arrows instead of WASD.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Bullet_1"></para>
+    <list id="34" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- I exported a model from Revit to Navisworks and then to Revizto. But I cannot see the entire model, only one element. What has happened?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">- When exporting a Revit model to Navisworks (or importing it from Navisworks), pay attention to export/import settings. Your problem is likely to have been caused by exporting the first 3D view instead of the entire project. Note that you can also export your model directly from Revit to Revizto and use Navisworks to export clashes.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Bullet_1"></para>
+    <list id="34" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><anchor id="turn_off_upd" styleclass="Bullet_1"></anchor><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[I would like to to turn off the update feature. Is it possible?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">- Yes, you can switch off the update feature. To do it, you have to go the registry and change the HKEY_CURRENT_USER\Software\Vizerra\Revizto\keyLastSkipVersion_h127002115 set the </text><text styleclass="GUI_item" translate="true">Value data</text><text styleclass="Normal" translate="true"> field to 99999 (decimal value). The option may be useful, if you want to make sure that all local users have the same version. </text></para>
+          <para styleclass="Normal" style="text-align:center;"><image src="registry_change.png" scale="60.00%" width="712" height="327" styleclass="Image Caption"></image></para>
+          <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="34" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- I want to customize navigation mode, but <%BRAND_NAME%> would not save my settings. Every time I restart the application, I am back to defaults. Is there a remedy for it?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Bullet_1" translate="true">- User navigation settings are stored in the registry; the path is </text><text styleclass="Normal" translate="true">H</text><text styleclass="Normal" translate="true">K</text><text styleclass="Normal" translate="true">E</text><text styleclass="Normal" translate="true">Y</text><text styleclass="Normal" translate="true">_</text><text styleclass="Normal" translate="true">C</text><text styleclass="Normal" translate="true">U</text><text styleclass="Normal" translate="true">R</text><text styleclass="Normal" translate="true">R</text><text styleclass="Normal" translate="true">E</text><text styleclass="Normal" translate="true">N</text><text styleclass="Normal" translate="true">T</text><text styleclass="Normal" translate="true">_</text><text styleclass="Normal" translate="true">U</text><text styleclass="Normal" translate="true">S</text><text styleclass="Normal" translate="true">E</text><text styleclass="Normal" translate="true">R</text><text styleclass="Normal" translate="true">/</text><text styleclass="Normal" translate="true">S</text><text styleclass="Normal" translate="true">o</text><text styleclass="Normal" translate="true">f</text><text styleclass="Normal" translate="true">t</text><text styleclass="Normal" translate="true">w</text><text styleclass="Normal" translate="true">a</text><text styleclass="Normal" translate="true">r</text><text styleclass="Normal" translate="true">e</text><text styleclass="Normal" translate="true">/</text><text styleclass="Normal" translate="true">V</text><text styleclass="Normal" translate="true">i</text><text styleclass="Normal" translate="true">z</text><text styleclass="Normal" translate="true">e</text><text styleclass="Normal" translate="true">r</text><text styleclass="Normal" translate="true">r</text><text styleclass="Normal" translate="true">a</text><text styleclass="Normal" translate="true">/</text><text styleclass="Normal" translate="true">R</text><text styleclass="Normal" translate="true">e</text><text styleclass="Normal" translate="true">v</text><text styleclass="Normal" translate="true">i</text><text styleclass="Normal" translate="true">z</text><text styleclass="Normal" translate="true">t</text><text styleclass="Normal" translate="true">o. Normally, settings do not reset on their own. Yet, issues can occur if </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> &#160;has no rights to save data in the registry location on your PC. Try removing the </text><text styleclass="Normal" translate="true">f</text><text styleclass="Normal" translate="true">o</text><text styleclass="Normal" translate="true">l</text><text styleclass="Normal" translate="true">d</text><text styleclass="Normal" translate="true">e</text><text styleclass="Normal" translate="true">r</text><text styleclass="Normal" translate="true">&#32;</text><text styleclass="Normal" translate="true">i</text><text styleclass="Normal" translate="true">n</text><text styleclass="Normal" translate="true">&#32;</text><text styleclass="Normal" translate="true">t</text><text styleclass="Normal" translate="true">h</text><text styleclass="Normal" translate="true">e</text><text styleclass="Normal" translate="true">&#32;</text><text styleclass="Normal" translate="true">r</text><text styleclass="Normal" translate="true">e</text><text styleclass="Normal" translate="true">g</text><text styleclass="Normal" translate="true">i</text><text styleclass="Normal" translate="true">s</text><text styleclass="Normal" translate="true">t</text><text styleclass="Normal" translate="true">r</text><text styleclass="Normal" translate="true">y</text><text styleclass="Normal" translate="true">&#32;</text><text styleclass="Normal" translate="true">a</text><text styleclass="Normal" translate="true">n</text><text styleclass="Normal" translate="true">d relaunching </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true">. It is supposed to create the folder with default values and necessary rights to store user-defined settings. </text><text styleclass="Normal" translate="true">&#32;</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="34" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">df</text></li>
+    </list>
+    <para styleclass="Bullet_1" style="page-break-before:always;"></para>
+  </body>
+</topic>
