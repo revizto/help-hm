@@ -811,6 +811,7 @@ document.write('</frameset>');
       <helpcontext-number href="Map-view" value="59"/>
       <helpcontext-number href="Model-Elements-and-Controls" value="35"/>
       <helpcontext-number href="Model-Elements-and-Controls#example_1" value="42"/>
+      <helpcontext-number href="Model-Elements-and-Controls#section" value="61"/>
       <helpcontext-number href="Model-Elements-and-Controls#viewpoints" value="50"/>
       <helpcontext-number href="My-Projects" value="21"/>
       <helpcontext-number href="Oculus-Viewer" value="55"/>

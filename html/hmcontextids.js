@@ -54,6 +54,7 @@ hmContextIds["48"]="browsing-modes.htm";
 hmContextIds["52"]="browsing-modes.htm#hot_keys";
 hmContextIds["35"]="model-elements-and-controls.htm";
 hmContextIds["50"]="model-elements-and-controls.htm#viewpoints";
+hmContextIds["61"]="model-elements-and-controls.htm#section";
 hmContextIds["42"]="model-elements-and-controls.htm#example_1";
 hmContextIds["49"]="2d-elements-and-controls.htm";
 hmContextIds["54"]="2d-elements-and-controls.htm#image_overlay";
