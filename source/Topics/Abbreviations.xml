@@ -6,6 +6,7 @@
     <header>
       <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Terms and abbreviations</text></para>
     </header>
+    <para styleclass="attention"><text styleclass="attention" translate="true"> Under construction</text></para>
     <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"></para>
     <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"><table styleclass="Default2" rowcount="14" colcount="2">
       <thead style="vertical-align:middle">
@@ -98,6 +99,7 @@
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Revizto [project] access level</text></para>
         </td>
         <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Access level of a project participant. There are default level settings, but these can be changed both at the license level (new access levels will be available in all projects; requires SuperAdmin/Admin license role) and at the project level (requires Administrator project level access or equivalent). </text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
@@ -113,7 +115,7 @@
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Revizto region/geography</text></para>
         </td>
         <td style="width:1033px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto cloud sharing architecture largely depends on geographical settings (team members using the same license have to choose the same geography within the program). This implementation option saves resources and ensures faster operation. Currently there are six key geographies: North America, Europe, South America, South East Asia, Australia. For China the service is offered as well, yet, it relies on different servers (due to the local legislation) </text></para>
+          <para styleclass="Normal"><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> cloud sharing architecture largely depends on geographical settings (team members using the same license have to choose the same geography within the program). This implementation option saves resources and ensures faster operation. Currently there are six key geographies: North America, Europe, South America, South East Asia, Australia. For China the service is offered as well, yet, it relies on different servers (due to the local legislation) </text></para>
         </td>
       </tr>
     </table></para>

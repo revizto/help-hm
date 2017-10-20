@@ -72,6 +72,7 @@ hmContextIds["57"]="additional-revizto-components.htm";
 hmContextIds["56"]="vive-viewer.htm";
 hmContextIds["55"]="oculus-viewer.htm";
 hmContextIds["58"]="shared-location-ipad-connector.htm";
+hmContextIds["65"]="revizto-console.htm";
 hmContextIds["15"]="faq.htm";
 hmContextIds["45"]="faq.htm#turn_off_upd";
 hmContextIds["16"]="troubleshooting.htm";

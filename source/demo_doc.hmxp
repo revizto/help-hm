@@ -194,7 +194,7 @@
       <config-value name="lcid" translate="true">en-us</config-value>
       <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
       <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000; </config-value>
-      <config-value name="autohelpstart">60</config-value>
+      <config-value name="autohelpstart">65</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
       <config-value name="searchpath">.\images\;.\Topics\</config-value>
@@ -826,6 +826,7 @@ document.write('</frameset>');
       <helpcontext-number href="Project-Optimization" value="33"/>
       <helpcontext-number href="Reviewer" value="20170828"/>
       <helpcontext-number href="Revizto-Application" value="29"/>
+      <helpcontext-number href="Revizto-Console" value="65"/>
       <helpcontext-number href="Rhinoceros-for-Windows" value="36"/>
       <helpcontext-number href="Role-Guides" value="20170824"/>
       <helpcontext-number href="Scene-Editor" value="60"/>
