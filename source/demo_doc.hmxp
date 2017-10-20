@@ -816,6 +816,9 @@ document.write('</frameset>');
       <helpcontext-number href="My-Projects" value="21"/>
       <helpcontext-number href="Oculus-Viewer" value="55"/>
       <helpcontext-number href="Preferences" value="43"/>
+      <helpcontext-number href="Preferences#camera" value="64"/>
+      <helpcontext-number href="Preferences#graphics" value="62"/>
+      <helpcontext-number href="Preferences#navigation" value="63"/>
       <helpcontext-number href="Project-Management" value="20170820"/>
       <helpcontext-number href="Project-Management#project_access_level" value="28"/>
       <helpcontext-number href="Project-Management2" value="23"/>
