@@ -8,7 +8,7 @@
     </header>
     <para styleclass="attention"><text styleclass="attention" translate="true"> Under construction</text></para>
     <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"></para>
-    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"><table styleclass="Default2" rowcount="14" colcount="2">
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"><table styleclass="Default2" rowcount="15" colcount="2">
       <thead style="vertical-align:middle">
         <td style="width:213px;">
           <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.19; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-size:12pt; font-weight:bold; vertical-align:baseline; color:#ffffff;" translate="true">Term</text></para>
@@ -77,6 +77,14 @@
         </td>
         <td style="width:1033px;">
           <para styleclass="Normal"><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> user having a license role and an account at www.revizto.com</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Active user</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">User who accessed project by opening them in </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> within a specific period of time. Users become inactive after a certain period of idleness. </text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
