@@ -788,7 +788,9 @@ document.write('</frameset>');
       <helpcontext-number href="Creating-a-Project" value="24"/>
       <helpcontext-number href="Export-from-Revizto" value="32"/>
       <helpcontext-number href="Exporting-Files-to-Revizto" value="20170823"/>
+      <helpcontext-number href="Exporting-Files-to-Revizto#export_scheduler" value="68"/>
       <helpcontext-number href="FAQ" value="15"/>
+      <helpcontext-number href="FAQ#appending" value="69"/>
       <helpcontext-number href="FAQ#turn_off_upd" value="45"/>
       <helpcontext-number href="From-AutoCad_ArchiCad" value="18"/>
       <helpcontext-number href="From-Navisworks" value="14"/>
