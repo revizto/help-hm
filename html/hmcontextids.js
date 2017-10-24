@@ -58,6 +58,7 @@ hmContextIds["61"]="model-elements-and-controls.htm#section";
 hmContextIds["42"]="model-elements-and-controls.htm#example_1";
 hmContextIds["49"]="2d-elements-and-controls.htm";
 hmContextIds["54"]="2d-elements-and-controls.htm#image_overlay";
+hmContextIds["66"]="2d-elements-and-controls.htm#versioning";
 hmContextIds["59"]="map-view.htm";
 hmContextIds["30"]="view-modes.htm";
 hmContextIds["43"]="preferences.htm";

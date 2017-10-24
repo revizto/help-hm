@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">2D Elements and Controls</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">2D Elements and Controls</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">TBD</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading 2"><anchor id="image_overlay" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">Image overlay</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">You can overlay any 2D sheet or any image onto the 3D model. </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="attention"><text styleclass="attention" translate="true">Topic under construction</text></para>
+  </body>
+</topic>
