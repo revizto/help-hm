@@ -824,6 +824,7 @@ document.write('</frameset>');
       <helpcontext-number href="Preferences#graphics" value="62"/>
       <helpcontext-number href="Preferences#navigation" value="63"/>
       <helpcontext-number href="Project-Management" value="20170820"/>
+      <helpcontext-number href="Project-Management#edit_or_append" value="71"/>
       <helpcontext-number href="Project-Management#project_access_level" value="28"/>
       <helpcontext-number href="Project-Management2" value="23"/>
       <helpcontext-number href="Project-Manager" value="20170826"/>
