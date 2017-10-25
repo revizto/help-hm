@@ -35,6 +35,7 @@ hmContextIds["21"]="my-projects.htm";
 hmContextIds["20"]="managing-user-profile.htm";
 hmContextIds["19"]="managing-notifications.htm";
 hmContextIds["20170823"]="exporting-files-to-revizto.htm";
+hmContextIds["70"]="exporting-files-to-revizto.htm#general";
 hmContextIds["68"]="exporting-files-to-revizto.htm#export_scheduler";
 hmContextIds["12"]="from-revit.htm";
 hmContextIds["53"]="from-revit.htm#sheet_export_revit";

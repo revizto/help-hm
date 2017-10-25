@@ -242,7 +242,7 @@ p, p.p_Normal, div.p_Normal /* Normal */
 .p_Heading2 /* Heading 2 */
 {
  font-size: 14pt;
- margin: 0px 0px 5px 10px;
+ margin: 5px 0px 5px 10px;
 }
 .p_Heading3 /* Heading 3 */
 {
