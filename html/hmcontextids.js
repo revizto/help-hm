@@ -41,6 +41,7 @@ hmContextIds["68"]="exporting-files-to-revizto.htm#export_scheduler";
 hmContextIds["12"]="from-revit.htm";
 hmContextIds["53"]="from-revit.htm#sheet_export_revit";
 hmContextIds["14"]="from-navisworks.htm";
+hmContextIds["72"]="from-navisworks.htm#clashes";
 hmContextIds["18"]="from-autocad_archicad.htm";
 hmContextIds["36"]="rhinoceros-for-windows.htm";
 hmContextIds["37"]="sketchup.htm";
