@@ -45,6 +45,7 @@ hmContextIds["72"]="from-navisworks.htm#clashes";
 hmContextIds["18"]="from-autocad_archicad.htm";
 hmContextIds["36"]="rhinoceros-for-windows.htm";
 hmContextIds["37"]="sketchup.htm";
+hmContextIds["73"]="civil-3d.htm";
 hmContextIds["23"]="project-management2.htm";
 hmContextIds["24"]="creating-a-project.htm";
 hmContextIds["25"]="creating-and-managing-project-.htm";
