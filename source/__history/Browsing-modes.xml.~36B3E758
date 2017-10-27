@@ -15,10 +15,10 @@
     <para styleclass="Heading 2"><anchor id="hot_keys" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">Hot Keys</text></para>
     <para styleclass="Normal"><table styleclass="Default2" rowcount="40" colcount="2">
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; color:#ffffff;" translate="true">Function</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; color:#ffffff;" translate="true">Key Combination</text></para>
         </td>
       </tr>
@@ -28,170 +28,170 @@
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Switch to 2D mode</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">2 OR Ctrl+E (the latter option only available from scene, not from other views like, e.g. Preferences)</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Switch to 3D mode</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">3</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Switch to the Issue Tracker</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">4 OR Ctrl+I</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Open the Project gallery</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl + O</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Import a project</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl+Shift + O</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Browse by Rooms</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl + R</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Launch Section cut</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl + X</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Browse by objects</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl + B</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Launch Ruler</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl +M</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Go to the home Viewpoint</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Home icon OR Ctrl+H</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Create a Video Track</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl+T</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Browse by Viewpoints</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl+W</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Create a new issue</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl+Shift+I</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Open a Map</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">M (only available from the 3D view)</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Multiple object selection</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Ctrl + click</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Teleport (i.e. choose a spot in the 3D view and go directly to it)</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Alt+click</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Increase the Field of view</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">+</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Decrease the Field of view</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">-</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Restore default Field of view</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">0</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Hide the right toolbar in &#160;tracker, object, rooms, viewpoints, camera share modes</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Tab</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Quit</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Esc</text></para>
         </td>
       </tr>
@@ -201,50 +201,50 @@
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Video game</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">F5</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Revit</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">F6</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Sketch Up</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">F7</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Hybrid</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">F8</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Navisworks</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">F9</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Fly/Walk mode (reverse mouse, if available)</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">R</text></para>
         </td>
       </tr>
@@ -254,74 +254,74 @@
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Pen</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">P</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Callout</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Q</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Text</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">T</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Line</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">L</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Arrow</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">A</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Elllipse</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">E</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Polyline</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Shift+P</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Rectangle</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">R</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
-        <td style="width:485px;">
+        <td style="width:225px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Edit mode</text></para>
         </td>
-        <td style="width:751px;">
+        <td style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Space key OR V</text></para>
         </td>
       </tr>
