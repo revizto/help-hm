@@ -11,19 +11,19 @@
     </header>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">By default </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> plug-in is not available in a newly installed Rhinoceros instance. You have to install it. </text></para>
     <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To install the export plug-in:</text></para>
-    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+    <list id="25" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Launch Rhinoceros, go to the </text><text styleclass="GUI_item" translate="true">File</text><text styleclass="Procedure" translate="true"> menu and choose </text><text styleclass="GUI_item" translate="true">Properties</text><text styleclass="Procedure" translate="true">.</text></li>
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Navigate to </text><text styleclass="GUI_item" translate="true">Plugins</text><text styleclass="Procedure" translate="true"> in the left navigation bar.</text></li>
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click </text><text styleclass="GUI_item" translate="true">Install</text><text styleclass="Procedure" translate="true">. The standard Windows file selection dialogue opens.</text></li>
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Go to the </text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true"> installation folder (</text><text styleclass="Normal" translate="true">C:\Program Files\Vizerra LLC\Revizto4\Bin</text><text styleclass="Procedure" translate="true">) and choose &#160;</text><text styleclass="Code Example" translate="true">RhinoReviztoExport.rhp</text><text styleclass="Procedure" translate="true">.</text></li>
     </list>
     <para styleclass="Normal" style="text-align:center;"><image src="rhino_install.png" scale="100.00%" styleclass="Image Caption"></image></para>
-    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+    <list id="25" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click </text><text styleclass="GUI_item" translate="true">OK</text><text styleclass="Procedure" translate="true">.</text></li>
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the options icon at the top of the right bar of the Rhinoceros GUI.</text></li>
     </list>
     <para styleclass="Normal" style="text-align:center;"><image src="rhino_options.png" scale="100.00%" styleclass="Image Caption"></image></para>
-    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+    <list id="25" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Choose </text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true"> in the list that opens. The </text><text styleclass="GUI_item" translate="true">Export to Revizto</text><text styleclass="Procedure" translate="true"> link appears in a separate bar tab.</text></li>
     </list>
     <para styleclass="Normal" style="text-align:center;"><image src="rhino_export.png" scale="100.00%" styleclass="img_display"></image></para>
@@ -31,5 +31,7 @@
     <para styleclass="Normal"><text styleclass="Normal" translate="true">The very export procedure is similar to the general one. Note that you can only choose whether or not to export materials and choose a &#160;view. </text></para>
     <para styleclass="Normal" style="text-align:center;"></para>
     <para styleclass="Normal" style="text-align:center;"><image src="rhino_export_dialogue.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">The view selection list contains three options: Front, Perspective, Right, Top. These correspond to Rhinoceros default view modes. One view mode is always active (i.e. used for editing) and it is selected as the home viewpoint for export. You can manually define your preferences.</text></para>
+    <para styleclass="Image Caption"><image src="rhino_default.png" scale="60.00%" width="600" height="413" styleclass="Image Caption"></image></para>
   </body>
 </topic>
