@@ -29,14 +29,6 @@
       </tr>
       <tr style="vertical-align:top">
         <td style="width:485px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Full screen mode</text></para>
-        </td>
-        <td style="width:751px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">ALT+ENTER (same to quit the full screen mode)</text></para>
-        </td>
-      </tr>
-      <tr style="vertical-align:top">
-        <td style="width:485px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Switch to 2D mode</text></para>
         </td>
         <td style="width:751px;">
@@ -331,6 +323,14 @@
         </td>
         <td style="width:751px;">
           <para styleclass="Normal"><text styleclass="Normal" translate="true">Space key OR V</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:485px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Full screen mode</text></para>
+        </td>
+        <td style="width:751px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">ALT+ENTER (same to quit the full screen mode)</text></para>
         </td>
       </tr>
     </table></para>

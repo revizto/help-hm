@@ -13,7 +13,7 @@
     <para styleclass="attention"><text styleclass="attention" translate="true">section under construction</text></para>
     <para styleclass="Normal"></para>
     <para styleclass="Heading 2"><anchor id="hot_keys" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">Hot Keys</text></para>
-    <para styleclass="Normal"><table styleclass="Default2" rowcount="41" colcount="2">
+    <para styleclass="Normal"><table styleclass="Default2" rowcount="40" colcount="2">
       <tr style="vertical-align:top">
         <td style="width:485px;">
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; color:#ffffff;" translate="true">Function</text></para>
@@ -25,14 +25,6 @@
       <tr style="vertical-align:top">
         <td colspan="2" style="width:1011px;">
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">General</text></para>
-        </td>
-      </tr>
-      <tr style="vertical-align:top">
-        <td style="width:485px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Full screen mode</text></para>
-        </td>
-        <td style="width:751px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">ALT+ENTER (same to quit the full screen mode)</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
