@@ -2,6 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
 <topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title translate="true">AutoCad/ArchiCad</title>
+  <keywords>
+    <keyword translate="true">Archicad</keyword>
+    <keyword translate="true">Autocad</keyword>
+  </keywords>
   <body>
     <header>
       <para styleclass="Heading1"><text styleclass="Heading1" translate="true">AutoCad/ArchiCad</text></para>
