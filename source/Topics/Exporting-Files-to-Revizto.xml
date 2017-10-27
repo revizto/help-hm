@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
 <topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title translate="true">Source Export to Revizto</title>
+  <title translate="true">Source Export to Revizto. Synchronization</title>
   <keywords>
     <keyword translate="true">Export Schedule</keyword>
     <keyword translate="true">Scheduler</keyword>
     <keyword translate="true">Source Export</keyword>
+    <keyword translate="true">Synchronization</keyword>
   </keywords>
   <body>
     <header>
@@ -83,6 +84,6 @@
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Note that when your project has already been shared the </text><text styleclass="GUI_item" translate="true">Automatically upload this project on the cloud after each change</text><text styleclass="Normal" translate="true"> checkbox becomes available. Activate it to use this option.</text></para>
     <para styleclass="Image Caption"><image src="synch_sched.png" scale="60.00%" width="616" height="480" styleclass="Image Caption"><title translate="true">synch_sched.png</title></image></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Synchronization can also be scheduled from </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> plug-in; if both scheduling options are used, the latest configuration is applied.</text></para>
-    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">For more details on synchronization, see also the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Creating-a-Project" styleclass="Normal" translate="true">Creating a Project</link><text styleclass="Normal" translate="true"> section.</text></para>
   </body>
 </topic>

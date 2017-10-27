@@ -5,8 +5,8 @@
     <topicref type="topic" id="412533931291485" build="ALL" modified="2017-10-01T03:29:14.990Z" icon="0" href="sysreqs">
       <caption translate="true">Technical requirements</caption>
     </topicref>
-    <topicref type="topic" id="412533943714332" build="ALL" modified="2017-10-06T09:59:06.717Z" icon="0" href="Abbreviations">
-      <caption translate="true">Terms and abbreviations</caption>
+    <topicref type="topic" id="412533943714332" build="ALL" modified="2017-10-27T15:47:42.872Z" icon="0" href="Abbreviations">
+      <caption translate="true">Glossary</caption>
     </topicref>
   </topicref>
   <topicref type="topic" id="430090748001303" build="ALL" modified="2017-10-01T03:53:03.238Z" icon="0" href="Role-Guides">
@@ -57,8 +57,8 @@
       <caption translate="true">Managing Notifications</caption>
     </topicref>
   </topicref>
-  <topicref type="topic" id="430092289959695" build="ALL" modified="2017-10-11T00:43:48.065Z" icon="0" href="Exporting-Files-to-Revizto">
-    <caption translate="true">Source Export to Revizto</caption>
+  <topicref type="topic" id="430092289959695" build="ALL" modified="2017-10-27T15:41:07.627Z" icon="0" href="Exporting-Files-to-Revizto">
+    <caption translate="true">Source Export to Revizto. Synchronization</caption>
     <topicref type="topic" id="430137083871120" build="ALL" modified="2017-10-11T00:44:03.439Z" icon="0" href="From-Revit">
       <caption translate="true">Revit</caption>
     </topicref>
