@@ -16,7 +16,7 @@
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Make sure that Renderings and Views have different names in Revit. Otherwise, some views will not be exported.</text></li>
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Set the Phase Filter to the option that creates a view you want to have in Revisto as default. Note that if phases are exported correctly, you will be able to switch them in Revizto as well, but you default view will be based on the open open in Revit at the point of export.</text></li>
     </list>
-    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Export options. Detailed</text></para>
+    <para styleclass="Heading 2"><anchor id="revit_options" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">Export options. Detailed</text></para>
     <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"></para>
     <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"><table styleclass="Default2" rowcount="10" colcount="2">
       <thead style="vertical-align:middle">
@@ -128,6 +128,6 @@
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Confirm that you want to export only the selected item. </text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true"> will export the selected item and sheets related to it. &#160;</text></li>
     </list>
     <para styleclass="Normal" style="text-align:center;"><image src="revit_confirm_selection.png" scale="100.00%" styleclass="Image Caption"></image></para>
-    <para styleclass="warning"><text styleclass="warning" translate="true">Warning: do not use the option to update an existing project containing the whole view. It only exports the selected element creating a model from it. </text></para>
+    <para styleclass="warning"><text styleclass="warning" style="font-weight:bold;" translate="true">Warning</text><text styleclass="warning" translate="true">: do not use the option to update an existing project containing the whole view. It only exports the selected element creating a model from it. </text></para>
   </body>
 </topic>

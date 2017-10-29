@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">SketchUp</title>
+  <keywords>
+    <keyword translate="true">SketchUp</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">SketchUp</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">By default </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> plug-in is available from the main menu of the program (</text><text styleclass="GUI_item" translate="true">Extensions</text><text styleclass="Normal" translate="true"> &gt; </text><var styleclass="GUI_item">&lt;%BRAND_NAME%&gt;</var><text styleclass="GUI_item" translate="true"> 4</text><text styleclass="Normal" translate="true">). Yet, at the first launch SketchUp suggests creating a toolbar icon. You can use any navigation option you prefer.</text></para>
+    <para styleclass="Image Caption"><image src="sketchup_tb.png" scale="60.00%" width="584" height="26" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Basically, the only function of the plug-in is export which has no particularities and fits the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Exporting-Files-to-Revizto" anchor="general" styleclass="Normal" translate="true">general procedure</link><text styleclass="Normal" translate="true">. Note that SketchUp allows exporting only 3D with materials. </text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="sketchup_export.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Note that SketchUp generates levels from the native entity type called scenes. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">You can use all </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Issue-LifeCycle" styleclass="Normal" translate="true">collaboration options</link><text styleclass="Normal" translate="true"> in projects based on SketchUp files, but, unlike AutoDesk software, you cannot simultaneously navigate to an issue point in the source program by selecting the issue in </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true">.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">SketchUp allows exporting selected items.</text></para>
+    <para styleclass="attention"><text styleclass="attention" translate="true">under construction</text></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
