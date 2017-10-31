@@ -794,6 +794,8 @@ document.write('</frameset>');
       <helpcontext-number href="FAQ#appending" value="69"/>
       <helpcontext-number href="FAQ#turn_off_upd" value="45"/>
       <helpcontext-number href="From-AutoCad_ArchiCad" value="18"/>
+      <helpcontext-number href="From-AutoCad_ArchiCad#archicad" value="80"/>
+      <helpcontext-number href="From-AutoCad_ArchiCad#autocad" value="79"/>
       <helpcontext-number href="From-Navisworks" value="14"/>
       <helpcontext-number href="From-Navisworks#clashes" value="72"/>
       <helpcontext-number href="From-Revit" value="12"/>
