@@ -194,7 +194,7 @@
       <config-value name="lcid" translate="true">en-us</config-value>
       <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
       <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000; </config-value>
-      <config-value name="autohelpstart">74</config-value>
+      <config-value name="autohelpstart">81</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
       <config-value name="searchpath">.\images\;.\Topics\</config-value>
@@ -802,6 +802,7 @@ document.write('</frameset>');
       <helpcontext-number href="From-Revit#revit_options" value="74"/>
       <helpcontext-number href="From-Revit#sheet_export_revit" value="53"/>
       <helpcontext-number href="GUI-Overview" value="47"/>
+      <helpcontext-number href="Import-from-IFC-and-FBX" value="81"/>
       <helpcontext-number href="Installation-and-Deployment" value="17"/>
       <helpcontext-number href="Installation-and-Deployment#proxy" value="67"/>
       <helpcontext-number href="Interface-Tips" value="20170822"/>

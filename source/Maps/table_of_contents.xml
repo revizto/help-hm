@@ -77,6 +77,9 @@
     <topicref type="topic" id="4300038670640" build="ALL" modified="2017-10-11T00:44:41.532Z" icon="0" href="SketchUp">
       <caption translate="true">SketchUp</caption>
     </topicref>
+    <topicref type="topic" id="430401215894496" build="ALL" modified="2017-10-31T23:08:54.005Z" icon="0" href="Import-from-IFC-and-FBX">
+      <caption translate="true">Import from IFC and FBX</caption>
+    </topicref>
   </topicref>
   <topicref type="topic" id="430144698487057" build="ALL" modified="2017-10-06T11:38:50.123Z" icon="0" href="Project-Management2">
     <caption translate="true">Project Management</caption>
