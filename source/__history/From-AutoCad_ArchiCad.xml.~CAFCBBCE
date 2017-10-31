@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">AutoCad/ArchiCad</title>
+  <keywords>
+    <keyword translate="true">Archicad</keyword>
+    <keyword translate="true">Autocad</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">AutoCad/ArchiCad</text></para>
+    </header>
+    <para styleclass="Heading 2"><anchor id="autocad" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">AutoCAD</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">All in all, the overall export procedure is similar to the general one, but there are things to keep in mind.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="export_to_autocad.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">AutoCAD allows working both with separate files and projects; you can simultaneously have an open project and an open file outside this project. Note that in this case the export plug-in exports all open documents to </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true">. You have either to close redundant elements before starting export, or exclude them manually from the export. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Before exporting a 2D drawing from AutoCAD make sure to switch to the </text><text styleclass="GUI_item" translate="true">Paper space</text><text styleclass="Normal" translate="true"> mode (the bottom menu of AutoCAD). Otherwise </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> may fail to properly process exported data.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="model_or_paper_space.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">When defining your export options, make sure to click the </text><text styleclass="GUI_item" translate="true">Select</text><text styleclass="Normal" translate="true"> button of the </text><text styleclass="GUI_item" translate="true">Export Sheets</text><text styleclass="Normal" translate="true"> checkbox (see the image above) even if you are going to export all the sheets to check whether sheets are properly added to the export. Sometimes errors occur and sheets are not added to the export by default. </text></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Heading 2"><anchor id="archicad" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">ArchiCAD</text></para>
+    <para styleclass="attention"><text styleclass="attention" translate="true">under construction</text></para>
+  </body>
+</topic>
