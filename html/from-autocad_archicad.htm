@@ -7,7 +7,7 @@
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
    
    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-   <meta name="description" content="AutoCAD All in all, the overall export procedure is similar to the general one, but there are things to keep in mind. &nbsp;AutoCAD allows working both with separate files and projec" />
+   <meta name="description" content="AutoCAD All in all, the overall export procedure is similar to the general one, but there are things to keep in mind. If Revizto plug-in is not displayed in AutoCAD 18 after..." />
    <meta name="picture" content="" />
    <link type="text/css" href="default.css" rel="stylesheet" />
    <style type="text/css">
@@ -43,14 +43,17 @@
 <table style="width:100%;border:none;border-spacing:0px"><tr style="vertical-align:top"><td style="text-align:left;padding:5px">
 <p class="p_Heading2"><a id="autocad" class="hmanchor"></a><span class="f_Heading2">AutoCAD</span></p>
 <p class="p_Normal">All in all, the overall export procedure is similar to the general one, but there are things to keep in mind.</p>
+<p class="p_Normal">If Revizto plug-in is not displayed in AutoCAD 18 after installation:</p>
+<p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 20px; margin: 0px 0px 5px 29px;"><span style="font-size:11pt; font-family: 'Calibri';color:#000000;display:inline-block;width:20px;margin-left:-20px">1.</span><span class="f_Procedure">Go to the main menu and choose </span><span class="f_GUI_item">Manage</span><span class="f_Procedure"> &gt; </span><span class="f_GUI_item">User Interface</span><span class="f_Procedure"> &gt; </span><span class="f_GUI_item">Customize</span><span class="f_Procedure">. </span></p><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 20px; margin: 0px 0px 5px 29px;"><span style="font-size:11pt; font-family: 'Calibri';color:#000000;display:inline-block;width:20px;margin-left:-20px">2.</span><span class="f_Procedure">Right-click  </span><span class="f_GUI_item">REVIZTOEXPORT4</span><span class="f_Procedure"> in the </span><span class="f_GUI_item">Partial Customization Files</span><span class="f_Procedure"> section and choose the first option: </span><span class="f_GUI_item">Unload REVIZTO4.CUIX</span><span class="f_Procedure">. </span></p><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 20px; margin: 0px 0px 5px 29px;"><span style="font-size:11pt; font-family: 'Calibri';color:#000000;display:inline-block;width:20px;margin-left:-20px">3.</span><span class="f_Procedure">Click </span><span class="f_GUI_item">Apply</span><span class="f_Procedure"> and </span><span class="f_GUI_item">OK</span><span class="f_Procedure">.</span></p><p class="p_Normal" style="text-align: center;"><img width="663" height="511" style="margin:0px auto 0px auto;width:663px;height:511px;border:none" src="revizto_plugin_in_autocad.png"/></p>
+<p class="p_Normal">AutoCAD offers less export options than Revit or ArchiCAD. </p>
 <p class="p_Normal" style="text-align: center;"><img width="387" height="496" style="margin:0px auto 0px auto;width:387px;height:496px;border:none" src="export_to_autocad.png"/></p>
 <p class="p_Normal">AutoCAD allows working both with separate files and projects (sheet sets, <span class="f_CodeExample">.dst</span> files); you can simultaneously have an open project and an open file outside this project. Note that in this case the export plug-in exports all open documents to Revizto. You have either to close redundant elements before starting export, or exclude them manually from the export. </p>
 <p class="p_Normal">Before exporting a 2D drawing from AutoCAD make sure to switch to the <span class="f_GUI_item">Paper space</span> mode (the bottom menu of AutoCAD). Otherwise Revizto may fail to properly process exported data.</p>
 <p class="p_Normal" style="text-align: center;"><img width="537" height="137" style="margin:0px auto 0px auto;width:537px;height:137px;border:none" src="model_or_paper_space.png"/></p>
 <p class="p_Normal">When defining your export options, make sure to click the <span class="f_GUI_item">Select</span> button of the <span class="f_GUI_item">Export Sheets</span> checkbox (see the image above) even if you are going to export all the sheets to check whether sheets are properly added to the export. Sometimes errors occur and sheets are not added to the export by default. </p>
-<p class="p_Normal" style="text-align: center;">&nbsp;</p>
+<p class="p_Note"><span class="f_Note">Note: If trying to link a new scene from AutoCAD to an existing Revizto model, make sure the model being merged is also in shared coordinates or your AutoCAD model may not line up once in Revizto.</span></p>
 <p class="p_Heading2"><a id="archicad" class="hmanchor"></a><span class="f_Heading2">ArchiCAD</span></p>
-<p class="p_attention"><span class="f_attention">under construction</span></p>
+<p class="p_Normal"> Revizto is not automatically installed in most versions of ArchiCAD (due to GUI localization particularities). Installation procedure is similar to that given for AutoCAD above. </p>
 
 </td></tr></table>
 
