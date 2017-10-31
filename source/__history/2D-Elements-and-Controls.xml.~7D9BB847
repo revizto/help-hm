@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">2D Elements and Controls</title>
+  <keywords>
+    <keyword translate="true">Sheets</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">2D Elements and Controls</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">In the 2D view you can manage sheets both exported with the source geometry and added later.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">By default the view displays the list of appended sheets which can be stored in folders or loosely. If there are new issues visible on a sheet, the number of issues appears by the name of the sheet as well.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="sheet_list.png" scale="60.00%" width="739" height="480" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">You can:</text></para>
+    <list id="4" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Tag the selected sheet </text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Rename the selected sheet or folder</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">View previous revisions and make them current (i.e. rollback versions)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Open the selected sheet to view to create/manage issues </text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Create a 3D overlay (i.e. match a 2D sheet to a 3D model)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Add more sheets/drawings/graphical files to your 2D library</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Jump to any point in the 3D model that is visible on a sheet (</text><text styleclass="Bullet_1" style="font-style:italic;" translate="true">teleport</text><text styleclass="Bullet_1" translate="true">, see also </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Browsing-modes" anchor="hot_keys" styleclass="Bullet_1" translate="true">Browsing and Hot Keys</link><text styleclass="Bullet_1" translate="true">)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Export sheets from </text><var styleclass="Bullet_1">&lt;%BRAND_NAME%&gt;</var><text styleclass="Bullet_1" translate="true">.</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">For more details on issue management see the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Issue-LifeCycle" styleclass="Normal" translate="true">Issue Management (Collaboration)</link><text styleclass="Normal" translate="true"> section. Note that issue pins in 2D indicate whether an issue was originally created in 2D or 3D. When click on a 3D pin, the relevant issue opens in 3D issue tracker.</text></para>
+    <para styleclass="Normal" style="text-align:center; page-break-after:avoid;"><image src="2s_general.png" scale="60.00%" width="842" height="480" styleclass="Image Caption"></image></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Importing/Exporting sheets</text></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To add a new sheet: </text></para>
+    <list id="5" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Go to the list of 2D sheets attached to the model.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the import icon at the top toolbar (</text><image src="import_icon.png" scale="80.00%" width="38" height="32" styleclass="Image Caption"></image><text styleclass="Procedure" translate="true">). Choose a file you want to import (supported formats are </text><text styleclass="Code Example" translate="true">.pdf</text><text styleclass="Procedure" translate="true">, .</text><text styleclass="Code Example" translate="true">dwfx</text><text styleclass="Procedure" translate="true">)</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Your file becomes available in the 2D library. Note that to share it with other team members, you have to synchronize the model. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">The export icon (</text><image src="Icon_Export.png" scale="50.00%" width="34" height="34" styleclass="Image Caption"></image><text styleclass="Normal" translate="true">) allows exporting one or multiple sheets as </text><text styleclass="Code Example" translate="true">.png</text><text styleclass="Normal" translate="true"> files.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="export_sheets_proc.png" scale="60.00%" width="678" height="328" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading 2"><anchor id="image_overlay" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">Setting up 3D Overlay</text></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To set up a 3D overlay:</text></para>
+    <list id="6" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Open a sheet (import it first, if needed).</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the </text><text styleclass="GUI_item" translate="true">Set up 3D overlay</text><text styleclass="Procedure" translate="true"> button.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Remove existing overlays, if needed.</text></li>
+    </list>
+    <para styleclass="Note"><text styleclass="Note" style="font-weight:bold;" translate="true">Tip</text><text styleclass="Note" translate="true">: While you cannot create multiple overlays from the same sheet, you can later create viewpoints and issues from overlayed scenes and use them for navigation.</text></para>
+    <list id="6" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Use the crop tool to select the sheet area for mapping (it is useful to exclude technical sheet areas like signatures from overlay).</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="overlay_1.png" scale="60.00%" width="678" height="480" styleclass="Image Caption"></image></para>
+    <list id="6" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click </text><text styleclass="GUI_item" translate="true">Done</text><text styleclass="Procedure" translate="true">. You are automatically navigated to the section cut tool of 3D view. </text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Create a </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Model-Elements-and-Controls" anchor="section" styleclass="Procedure" translate="true">section cut</link><text styleclass="Procedure" translate="true">. Click </text><text styleclass="GUI_item" translate="true">Done</text><text styleclass="Procedure" translate="true">. The cropped sheet area is displayed at the top of your setion cut.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Use the two yellow pins to map the sheet onto the section cut (note that there are hits on moving the sheet). Click </text><text styleclass="GUI_item" translate="true">Done</text><text styleclass="Procedure" translate="true">.</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="overlay_2.png" scale="60.00%" width="678" height="401" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">The icon appears on the sheet indicating that there is an overlay (</text><image src="Icon_2D_sheets_section_cut_view.png" scale="60.00%" width="36" height="36" styleclass="Image Caption"></image><text styleclass="Normal" translate="true">). Click it, to navigate to the relevant 3D scene. Note that you cannot edit an existing overlay, only remove it and create a new one. </text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="overlay_3.png" scale="60.00%" width="678" height="480" styleclass="Image Caption"></image></para>
+    <para styleclass="Heading 2"><anchor id="versioning" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">Sheet Versioning</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">A user whose project-level access includes editing 2D, can revert &#160;a sheet to a previous revision. A roll back has no impact on issues, but, for example, removes all tags. </text></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To rollback a sheet:</text></para>
+    <list id="7" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Choose a sheet in the general list.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the </text><text styleclass="GUI_item" translate="true">Show previous revisions</text><text styleclass="Procedure" translate="true"> button at the right panel (expand it, if hidden).</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Choose the necessary revision in the list and click the </text><text styleclass="GUI_item" translate="true">Make current</text><text styleclass="Procedure" translate="true"> button at the bottom.</text></li>
+    </list>
+    <para styleclass="Procedure"><text styleclass="Procedure" translate="true">The </text><text styleclass="GUI_item" translate="true">View</text><text styleclass="Procedure" translate="true"> button at the bottom opens the selected revision.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="sheet_revisions.png" scale="60.00%" width="692" height="238" styleclass="Image Caption"></image></para>
+    <para styleclass="attention"><text styleclass="attention" translate="true">Under construction</text></para>
+  </body>
+</topic>
