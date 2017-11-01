@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">License Monitoring</title>
+  <keywords>
+    <keyword translate="true">License monitoring</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">License Monitoring</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">This feature allows license administrators to monitor whether </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> is adopted well by the team, how actively it is used. It also allows checking the need for Plan extension.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">The</text><text styleclass="GUI_item" translate="true"> Manage Users</text><text styleclass="Normal" translate="true"> and </text><text styleclass="GUI_item" translate="true">Manage Projects </text><text styleclass="Normal" translate="true">screens allow users to build activity charts for, respectively, user and project activity. Both are constantly updated and display dynamics for 24 hours.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">The User activity chart displays the number of users that were active in the current &#160;</text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> license within the required period. Also, you can filter users by their license role.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">An Excel version contains full user data (name, email, role, last activity time, total duration in the </text><text styleclass="GUI_item" translate="true">Active</text><text styleclass="Normal" translate="true"> status, tags, number of projects and their names). The chart is also included.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">The</text><text styleclass="GUI_item" translate="true"> Project activity</text><text styleclass="Normal" translate="true"> chart displays the number of projects managed in </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> within the required period. Also, you can filter projects by status (</text><text styleclass="GUI_item" translate="true">Active</text><text styleclass="Normal" translate="true">/</text><text styleclass="GUI_item" translate="true">Inactive</text><text styleclass="Normal" translate="true">).</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">An Excel version contains the total number of members and their names, project owner, project tags, time of the last activity within the project. The &#160;chart is also included.</text></para>
+    <para styleclass="Note"><text styleclass="Note" style="font-weight:bold;" translate="true">Tip</text><text styleclass="Note" translate="true">: To build a chart for activity of specific users within a specific project, tag those users and create a preset.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">The </text><text styleclass="GUI_item" translate="true">License Dashboard</text><text styleclass="Normal" translate="true"> tab shows how many project and user licenses are now used.</text></para>
+    <para styleclass="Image Caption"><image src="lc_act_chart.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Activity charts for separate users/projects are built in a similar way with relevant filtration options.</text></para>
+  </body>
+</topic>

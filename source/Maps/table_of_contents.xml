@@ -101,6 +101,9 @@
     <topicref type="topic" id="430183724311347" build="ALL" modified="2017-10-27T06:34:38.804Z" icon="0" href="Version-Control">
       <caption translate="true">Project Versioning</caption>
     </topicref>
+    <topicref type="topic" id="430408294602678" build="ALL" modified="2017-11-01T21:29:57.712Z" icon="0" href="Copying-a-Project">
+      <caption translate="true">Copying a Project</caption>
+    </topicref>
   </topicref>
   <topicref type="topic" id="430185774195610" build="ALL" modified="2017-10-10T13:49:52.307Z" icon="0" href="Revizto-Application">
     <caption translate="true">Revizto Application</caption>
