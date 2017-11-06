@@ -74,6 +74,7 @@
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">remove one or several issues</text></li>
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">attach files to issues (in the chat dialogue)</text></li>
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">use web-camera in the chat dialogue</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">access the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Collaborator-Reports" styleclass="Bullet_1" translate="true">reporting feature of the web-GUI</link><text styleclass="Bullet_1" translate="true"> (under condition that the project is shared via the Cloud) (</text><image src="Icon_Reports.png" scale="50.00%" width="34" height="34" styleclass="Image Caption"></image><text styleclass="Bullet_1" translate="true"> icon)</text></li>
     </list>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Availability of specific features depends on </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Managing-Project-Access-Rights" styleclass="Normal" translate="true">project level rights</link><text styleclass="Normal" translate="true"> of the current user. </text></para>
     <para styleclass="Normal"></para>
