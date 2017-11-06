@@ -194,7 +194,7 @@
       <config-value name="lcid" translate="true">en-us</config-value>
       <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
       <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000; </config-value>
-      <config-value name="autohelpstart">82</config-value>
+      <config-value name="autohelpstart">83</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
       <config-value name="searchpath">.\images\;.\Topics\</config-value>
@@ -829,6 +829,7 @@ document.write('</frameset>');
       <helpcontext-number href="Model-Elements-and-Controls#viewpoints" value="50"/>
       <helpcontext-number href="My-Projects" value="21"/>
       <helpcontext-number href="Oculus-Viewer" value="55"/>
+      <helpcontext-number href="Offline-Use" value="83"/>
       <helpcontext-number href="Preferences" value="43"/>
       <helpcontext-number href="Preferences#camera" value="64"/>
       <helpcontext-number href="Preferences#graphics" value="62"/>

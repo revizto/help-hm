@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Copying a Project</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Copying a Project</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">To make an identical copy of your project, use the </text><text styleclass="GUI_item" translate="true">Save as</text><text styleclass="Normal" translate="true"> item of the </text><text styleclass="GUI_item" translate="true">Project</text><text styleclass="Normal" translate="true"> menu. </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> creates a local copy of the project that contains all its settings and issues, but it remains local and you will not be able to create a team before sharing it. Hence no license is used until you share the copy. </text></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

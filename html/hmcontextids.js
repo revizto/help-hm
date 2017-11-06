@@ -59,6 +59,7 @@ hmContextIds["51"]="issue-lifecycle.htm#new_3d_issue";
 hmContextIds["26"]="collaborator-reports.htm";
 hmContextIds["31"]="version-control.htm";
 hmContextIds["82"]="copying-a-project.htm";
+hmContextIds["83"]="offline-use.htm";
 hmContextIds["29"]="revizto-application.htm";
 hmContextIds["47"]="gui-overview.htm";
 hmContextIds["48"]="browsing-modes.htm";
