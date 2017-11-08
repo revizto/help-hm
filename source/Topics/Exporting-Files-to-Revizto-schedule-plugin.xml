@@ -1,0 +1,18 @@
+﻿<topic template="">
+  <body>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Creating a Schedule in </text><var styleclass="Heading 3">&lt;%BRAND_NAME%&gt;</var><text styleclass="Heading 3" translate="true"> Plug-in</text></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To create an export schedule:</text></para>
+    <list id="12" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Open the plugin in the relevant source program.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the </text><text styleclass="GUI_item" translate="true">Export Scheduler</text><text styleclass="Procedure" translate="true"> button. The schedule builder loads in a pop-up.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Redefine export options and relink the source, if needed.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Create the export schedule. You can choose several days of the week and define time (the same for all days).</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Note that if the project has been earlier shared and uploaded to the cloud, the Upload to the cloud checkbox appears in the form. Activate it to synchronize your project at each export.</text></li>
+    </list>
+    <para styleclass="Procedure"><text styleclass="Procedure" translate="true">Note that if synchronization settings are also defined in </text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true">, they are updated according to the latest modification (the reverse will be true).</text></para>
+    <list id="13" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="6" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click </text><text styleclass="GUI_item" translate="true">OK</text><text styleclass="Procedure" translate="true"> to save you settings. The new schedule is applied to the project and becomes available in the Export Scheduler Application that contains information on all export schedules for a license.</text></li>
+    </list>
+    <para styleclass="Image Caption"><image src="schedule_1.png" scale="100.00%" styleclass="Image Caption"><title translate="true">schedule_1.png</title></image></para>
+  </body>
+</topic>
