@@ -9,7 +9,16 @@
     <header>
       <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Content Editor</text></para>
     </header>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">TBD</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Content editor is someone working with source software. Typically, editors are responsible for exporting their changes and processing issues related to their area of responsibility. As far as </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> is concerned, the general content management workflow is the following.</text></para>
+    <list id="55" type="ol" listtype="upper-roman" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Source model (or a part of it) created in the source software. </text></li>
+      <li styleclass="Procedure"><link displaytype="text" defaultstyle="true" type="topiclink" href="Project-Manager" styleclass="Procedure" translate="true">Project manager</link><text styleclass="Procedure" translate="true"> creates a project in </text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true"> and invites content editors to it (</text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true"> licenses may be provided to them at the same point). </text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Content editor </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Exporting-Files-to-Revizto" styleclass="Procedure" translate="true">exports</link><text styleclass="Procedure" translate="true"> the source to the created project. The selected export method (appending or overwriting) depends on the project rules.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">If needed, the content editor creates an </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Exporting-Files-to-Revizto" anchor="export_scheduling" styleclass="Procedure" translate="true">export schedule</link><text styleclass="Procedure" translate="true">. </text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">The content editor uses the Issue tracker to take part in </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Issue-LifeCycle" styleclass="Procedure" translate="true">collaboration</link><text styleclass="Procedure" translate="true"> (processes issues assigned to them, watches available issues, etc.).</text></li>
+    </list>
+    <para styleclass="Procedure"></para>
+    <para styleclass="attention"><text styleclass="attention" translate="true">under construction</text></para>
     <para styleclass="Normal" style="page-break-before:always;"></para>
   </body>
 </topic>
