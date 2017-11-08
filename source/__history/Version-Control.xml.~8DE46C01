@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Project Versioning</title>
+  <keywords>
+    <keyword translate="true">Versioning</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Project Versioning</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Users with </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Managing-Project-Access-Rights" styleclass="Normal" translate="true">project access rights</link><text styleclass="Normal" translate="true"> (by default, Administrate and Edit content and collaborate right sets) &#160;that include reverting it to older versions have access to the relevant function.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">To revert a project to an older version:</text></para>
+    <list id="62" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">In the main menu choose </text><text styleclass="GUI_item" translate="true">Project</text><text styleclass="Procedure" translate="true"> &gt; </text><text styleclass="GUI_item" translate="true">Revisions</text><text styleclass="Procedure" translate="true">. </text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true"> navigates to the list of revisions for the open project (name of the current project is displayed in the top left corner of the application screen). By default the latest (current) version is selected and highlighted. The application suggests opening it. &#160;You can review the list of previous versions and open any of them.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Select the version you want to review/restore in the list.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the</text><text styleclass="GUI_item" translate="true"> Open Revision</text><text styleclass="Procedure" translate="true"> button at the bottom of the screen to the default view. The selected version is loaded in the view mode (i.e. you can use all 3D and 2D features, but cannot create issues, synchronize or share the project; options are similar to those available to owners of archived projects). </text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the </text><text styleclass="GUI_item" translate="true">Make Current</text><text styleclass="Procedure" translate="true"> button at the bottom of the screen to revert the project to the selected version. </text></li>
+    </list>
+    <para styleclass="Procedure"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="project_revisions.png" scale="60.00%" width="713" height="317" styleclass="Image Caption"></image></para>
+  </body>
+</topic>

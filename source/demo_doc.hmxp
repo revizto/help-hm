@@ -775,6 +775,7 @@ document.write('</frameset>');
     <helpcontext-numbers>
       <helpcontext-number href="2D-Elements-and-Controls" value="49"/>
       <helpcontext-number href="2D-Elements-and-Controls#image_overlay" value="54"/>
+      <helpcontext-number href="2D-Elements-and-Controls#importing_sheets" value="84"/>
       <helpcontext-number href="2D-Elements-and-Controls#versioning" value="66"/>
       <helpcontext-number href="Abbreviations" value="13"/>
       <helpcontext-number href="Activation" value="20170818"/>
