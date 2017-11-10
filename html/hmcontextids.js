@@ -56,7 +56,6 @@ hmContextIds["24"]="creating-a-project.htm";
 hmContextIds["25"]="creating-and-managing-project-.htm";
 hmContextIds["34"]="managing-project-access-rights.htm";
 hmContextIds["10"]="issue-lifecycle.htm";
-hmContextIds["51"]="issue-lifecycle.htm#new_3d_issue";
 hmContextIds["26"]="collaborator-reports.htm";
 hmContextIds["31"]="version-control.htm";
 hmContextIds["82"]="copying-a-project.htm";

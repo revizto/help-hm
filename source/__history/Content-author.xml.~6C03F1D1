@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Content Editor</title>
+  <keywords>
+    <keyword translate="true">Content Editor</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Content Editor</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Content editor is someone working with source software. Typically, editors are responsible for exporting their changes and processing issues related to their area of responsibility. As far as </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> is concerned, the general content management workflow is the following.</text></para>
+    <list id="2" type="ol" listtype="upper-roman" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Source model (or a part of it) created in the source software. </text></li>
+      <li styleclass="Procedure"><link displaytype="text" defaultstyle="true" type="topiclink" href="Project-Manager" styleclass="Procedure" translate="true">Project manager</link><text styleclass="Procedure" translate="true"> creates a project in </text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true"> and invites content editors to it (</text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true"> licenses may be provided to them at the same point). </text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Content editor </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Exporting-Files-to-Revizto" styleclass="Procedure" translate="true">exports</link><text styleclass="Procedure" translate="true"> the source to the created project. The selected export method (appending or overwriting) depends on the project rules.</text></li>
+    </list>
+    <para styleclass="Procedure"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Procedure"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Procedure"><caption translate="true"><![CDATA[Expand to see the general export procedure. Navigate to relevant sections for more details]]></caption></toggle></para>
+    <para styleclass="Procedure"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><snippet src="Exporting-Files-to-Revizto_general" inline="false"/></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="2" type="ol" listtype="upper-roman" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">If needed, the content editor creates an </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Exporting-Files-to-Revizto" anchor="export_scheduling" styleclass="Procedure" translate="true">export schedule</link><text styleclass="Procedure" translate="true">. </text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">The content editor uses the Issue tracker to take part in </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Issue-LifeCycle" styleclass="Procedure" translate="true">collaboration</link><text styleclass="Procedure" translate="true"> (processes issues assigned to them, watches available issues, etc.).</text></li>
+    </list>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#216;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Wingdings; font-size:11pt; color:#000000;">
+      <list id="3" level="1" type="ul" listtype="bullet" formatstring="&#216;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Wingdings; font-size:11pt; color:#000000;">
+        <list id="3" level="2" type="ul" listtype="bullet" formatstring="&#216;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Wingdings; font-size:11pt; color:#000000;">
+          <li styleclass="Bullet_3"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_3"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_3"><caption translate="true"><![CDATA[Expand for the general issue creation procedure]]></caption></toggle></li>
+        </list>
+      </list>
+    </list>
+    <para styleclass="Bullet_3"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><snippet src="Issue-LifeCycle-report_issue" inline="false"/></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Bullet_3"></para>
+    <para styleclass="Procedure"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Procedure"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Procedure"><caption translate="true"><![CDATA[Expand for Guidelines on Scheduling Export in Plugin]]></caption></toggle></para>
+    <para styleclass="Procedure"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><snippet src="Exporting-Files-to-Revizto-schedule-plugin" inline="false"/></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="2" type="ol" listtype="upper-roman" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">TBD</text></li>
+    </list>
+    <para styleclass="Procedure"></para>
+    <para styleclass="attention"><text styleclass="attention" translate="true">under construction</text></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>
