@@ -194,7 +194,7 @@
       <config-value name="lcid" translate="true">en-us</config-value>
       <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
       <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000; </config-value>
-      <config-value name="autohelpstart">83</config-value>
+      <config-value name="autohelpstart">86</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
       <config-value name="searchpath">.\images\;.\Topics\</config-value>
@@ -232,6 +232,7 @@
       <config-value name="vcsmanuallycheckout">0</config-value>
       <config-value name="contents">Introduction</config-value>
       <config-value name="bidimode">0</config-value>
+      <config-group name="bookmarks"/>
     </config-group>
     <config-group name="pdf">
       <config-value name="style">0</config-value>
@@ -276,7 +277,7 @@
           <config-value name="mapfileformat">0</config-value>
         </config-group>
       </config-group>
-      <config-value name="project.lastexport">3</config-value>
+      <config-value name="project.lastexport">4</config-value>
     </config-group>
     <config-group name="chm">
       <config-value name="outputfile">RusGuard_Manual.chm</config-value>
@@ -830,7 +831,6 @@ document.write('</frameset>');
       <helpcontext-number href="Model-Elements-and-Controls#video" value="77"/>
       <helpcontext-number href="Model-Elements-and-Controls#viewpoints" value="50"/>
       <helpcontext-number href="My-Projects" value="21"/>
-      <helpcontext-number href="Oculus-Viewer" value="55"/>
       <helpcontext-number href="Offline-Use" value="83"/>
       <helpcontext-number href="Preferences" value="43"/>
       <helpcontext-number href="Preferences#camera" value="64"/>
@@ -856,7 +856,7 @@ document.write('</frameset>');
       <helpcontext-number href="Using-the-Web-GUI" value="22"/>
       <helpcontext-number href="Version-Control" value="31"/>
       <helpcontext-number href="View-modes" value="30"/>
-      <helpcontext-number href="Vive-Viewer" value="56"/>
+      <helpcontext-number href="VR-Options" value="86"/>
     </helpcontext-numbers>
   </config>
   <xi:include parse="xml" href="Maps/table_of_contents.xml"/>

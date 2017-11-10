@@ -141,20 +141,17 @@
       <caption translate="true">Scene Editor</caption>
     </topicref>
   </topicref>
-  <topicref type="topic" id="430270226225512" build="ALL" modified="2017-10-18T21:22:05.446Z" icon="0" href="Additional-Revizto-Components">
+  <topicref type="topic" id="430270226225512" build="ALL" modified="2017-11-10T05:02:36.649Z" icon="0" href="Additional-Revizto-Components">
     <caption translate="true">Additional Revizto Components</caption>
-    <topicref type="topic" id="430267017171688" build="ALL" modified="2017-10-18T21:21:45.155Z" icon="0" href="Vive-Viewer">
-      <caption translate="true">Vive Viewer</caption>
-    </topicref>
-    <topicref type="topic" id="430270280291574" build="ALL" modified="2017-10-18T21:21:31.861Z" icon="0" href="Oculus-Viewer">
-      <caption translate="true">Oculus Viewer</caption>
-    </topicref>
     <topicref type="topic" id="430269811446656" build="ALL" modified="2017-10-18T21:22:34.952Z" icon="0" href="Shared-Location-iPad-Connector">
       <caption translate="true">Shared Location iPad Connector</caption>
     </topicref>
     <topicref type="topic" id="430280841265085" build="ALL" modified="2017-10-20T06:18:58.511Z" icon="0" href="Revizto-Console">
       <caption translate="true">Revizto Console</caption>
     </topicref>
+  </topicref>
+  <topicref type="topic" id="430491923563315" build="ALL" modified="2017-11-10T05:02:46.670Z" icon="0" href="VR-Options">
+    <caption translate="true">VR Options</caption>
   </topicref>
   <topicref type="topic" id="430137438263638" build="ALL" modified="2017-10-05T13:28:24.986Z" icon="0" href="FAQ">
     <caption translate="true">FAQ</caption>
