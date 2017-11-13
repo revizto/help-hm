@@ -6,7 +6,6 @@
     <header>
       <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Additional Revizto Components</text></para>
     </header>
-    <para styleclass="Normal"><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> offers four additional components: two VR viewers, a console and an iPad application.</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">TBD</text></para>
+    <para styleclass="Normal"><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> offers four additional components: the console and an iPad application.</text></para>
   </body>
 </topic>
