@@ -9,7 +9,8 @@
     <header>
       <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Scene Editor</text></para>
     </header>
-    <para styleclass="attention"><text styleclass="attention" translate="true">Under construction</text></para>
+    <para styleclass="Normal"><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> has an integrated editor based on the Unity engine functionality. To access it, choose </text><text styleclass="GUI_item" translate="true">Edit</text><text styleclass="Normal" translate="true"> &gt; </text><text styleclass="GUI_item" translate="true">Lighting and Materials</text><text styleclass="Normal" translate="true"> in the main menu.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Note that the editor is not considered </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> core functionality, and we offer limited support to it due to low demand and priority. </text></para>
     <para styleclass="Normal" style="page-break-before:always;"></para>
   </body>
 </topic>

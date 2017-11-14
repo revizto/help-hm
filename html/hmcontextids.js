@@ -87,7 +87,6 @@ hmContextIds["32"]="export-from-revizto.htm";
 hmContextIds["44"]="local-profile-management.htm";
 hmContextIds["60"]="scene-editor.htm";
 hmContextIds["57"]="additional-revizto-components.htm";
-hmContextIds["58"]="shared-location-ipad-connector.htm";
 hmContextIds["65"]="revizto-console.htm";
 hmContextIds["86"]="vr-options.htm";
 hmContextIds["15"]="faq.htm";

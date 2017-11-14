@@ -864,6 +864,7 @@ document.write('</frameset>');
   <project-files>
     <file href="Topics/*.xml" build="ALL" filetype="topic">
       <file-mod href="Civil-3D.xml"/>
+      <file-mod href="Shared-Location-iPad-Connector.xml"/>
     </file>
     <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
   </project-files>

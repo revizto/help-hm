@@ -27,7 +27,7 @@
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Just as any software, Revizto can be installed for the current user and for all users of the machine. For the latter option you have to launch the wizard as the local administrator.</text></para>
     <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Quiet mode installation</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Revizto can be installed in the quiet mode (without UI) using the following keys:</text></para>
-    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+    <list id="4" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">ALLUSERS=”1”- installation for all users on this computer (per machine). Administrator rights are required.</text></li>
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">MSIINSTALLPERUSER=”1” – installation for a current user (per user)</text></li>
     </list>
@@ -43,7 +43,7 @@
     <para styleclass="Normal"><text styleclass="Normal" translate="true">For more details on Preferences, please, refer to the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Preferences" styleclass="Normal" translate="true">Detailed preferences</link><text styleclass="Normal" translate="true"> section.</text></para>
     <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Portable Devices</text></para>
     <para styleclass="Heading 2"><anchor id="proxy" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">Proxy Settings</text></para>
-    <para styleclass="tableheading"><text styleclass="tableheading" translate="true">Info needed</text></para>
+    <para styleclass="Normal"></para>
     <para styleclass="Heading 3"></para>
   </body>
 </topic>
