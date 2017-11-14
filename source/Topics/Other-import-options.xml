@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Other import options</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Other import options</text></para>
+    </header>
+    <para styleclass="Normal"><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> supports the BIM collaboration initiative that promotes </text><text styleclass="Code Example" translate="true">.ifc</text><text styleclass="Normal" translate="true"> and </text><text styleclass="Code Example" translate="true">.bcfzip</text><text styleclass="Normal" translate="true"> formats.</text></para>
+    <para styleclass="Normal"><text styleclass="Code Example" translate="true">.ifc</text><text styleclass="Normal" translate="true"> is designed to export source 3D scenes (e.g. from Revit and other Autodesk software) and is described above, </text><text styleclass="Code Example" translate="true">.bcf</text><text styleclass="Normal" translate="true"> stores issues. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">You can </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Issue-LifeCycle" anchor="issue_export" styleclass="Normal" translate="true">export/import &lt;%BRAND_NAME%&gt; issues</link><text styleclass="Normal" translate="true"> as </text><text styleclass="Code Example" translate="true">.bcf</text><text styleclass="Normal" translate="true"> from the </text><text styleclass="GUI_item" translate="true">Issue Tracker</text><text styleclass="Normal" translate="true"> view.</text></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

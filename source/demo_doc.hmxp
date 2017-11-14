@@ -194,7 +194,7 @@
       <config-value name="lcid" translate="true">en-us</config-value>
       <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
       <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000; </config-value>
-      <config-value name="autohelpstart">86</config-value>
+      <config-value name="autohelpstart">88</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
       <config-value name="searchpath">.\images\;.\Topics\</config-value>
@@ -812,6 +812,7 @@ document.write('</frameset>');
       <helpcontext-number href="Interface-Tips" value="20170822"/>
       <helpcontext-number href="Introduction" value="1"/>
       <helpcontext-number href="Issue-LifeCycle" value="10"/>
+      <helpcontext-number href="Issue-LifeCycle#issue_export" value="87"/>
       <helpcontext-number href="License_monitoring" value="20170821"/>
       <helpcontext-number href="License-Owner" value="20170825"/>
       <helpcontext-number href="Licensing" value="20170817"/>
@@ -831,6 +832,7 @@ document.write('</frameset>');
       <helpcontext-number href="Model-Elements-and-Controls#viewpoints" value="50"/>
       <helpcontext-number href="My-Projects" value="21"/>
       <helpcontext-number href="Offline-Use" value="83"/>
+      <helpcontext-number href="Other-import-options" value="88"/>
       <helpcontext-number href="Preferences" value="43"/>
       <helpcontext-number href="Preferences#camera" value="64"/>
       <helpcontext-number href="Preferences#graphics" value="62"/>
@@ -860,7 +862,9 @@ document.write('</frameset>');
   </config>
   <xi:include parse="xml" href="Maps/table_of_contents.xml"/>
   <project-files>
-    <file href="Topics/*.xml" build="ALL" filetype="topic"/>
+    <file href="Topics/*.xml" build="ALL" filetype="topic">
+      <file-mod href="Civil-3D.xml"/>
+    </file>
     <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
   </project-files>
 </helpproject>
