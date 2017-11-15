@@ -5,12 +5,12 @@
     <topicref type="topic" id="412533931291485" build="ALL" modified="2017-10-01T03:29:14.990Z" icon="0" href="sysreqs">
       <caption translate="true">Technical requirements</caption>
     </topicref>
-    <topicref type="topic" id="412533943714332" build="ALL" modified="2017-10-27T15:47:42.872Z" icon="0" href="Abbreviations">
+    <topicref type="topic" id="412533943714332" build="ALL" modified="2017-11-14T12:21:24.192Z" icon="0" href="Abbreviations">
       <caption translate="true">Glossary</caption>
     </topicref>
   </topicref>
-  <topicref type="topic" id="430090748001303" build="ALL" modified="2017-10-01T03:53:03.238Z" icon="0" href="Role-Guides">
-    <caption translate="true">Role Guides</caption>
+  <topicref type="topic" id="430090748001303" build="ALL" modified="2017-11-14T11:34:25.689Z" icon="0" href="Role-Guides">
+    <caption translate="true">Workflow &amp; Role Guides</caption>
     <topicref type="topic" id="430090155077075" build="ALL" modified="2017-10-23T08:18:28.694Z" icon="0" href="License-Owner">
       <caption translate="true">License Administrator</caption>
     </topicref>
@@ -68,14 +68,20 @@
     <topicref type="topic" id="430144747157305" build="ALL" modified="2017-10-11T00:44:14.856Z" icon="0" href="From-AutoCad_ArchiCad">
       <caption translate="true">AutoCad/ArchiCad</caption>
     </topicref>
+    <topicref type="topic" id="430343056439313" modified="2017-11-14T11:29:58.171Z" icon="0" href="Civil-3D">
+      <caption translate="true">Civil 3D</caption>
+    </topicref>
     <topicref type="topic" id="43019934814738" build="ALL" modified="2017-10-11T00:44:28.849Z" icon="0" href="Rhinoceros-for-Windows">
       <caption translate="true">Rhinoceros for Windows</caption>
     </topicref>
     <topicref type="topic" id="4300038670640" build="ALL" modified="2017-10-11T00:44:41.532Z" icon="0" href="SketchUp">
       <caption translate="true">SketchUp</caption>
     </topicref>
-    <topicref type="topic" id="430343056439313" build="ALL" modified="2017-10-26T06:43:38.105Z" icon="0" href="Civil-3D">
-      <caption translate="true">Civil 3D</caption>
+    <topicref type="topic" id="430401215894496" build="ALL" modified="2017-10-31T23:08:54.005Z" icon="0" href="Import-from-IFC-and-FBX">
+      <caption translate="true">Import from IFC and FBX</caption>
+    </topicref>
+    <topicref type="topic" id="430535561272097" build="ALL" modified="2017-11-14T11:28:24.758Z" icon="0" href="Other-import-options">
+      <caption translate="true">Other import options</caption>
     </topicref>
   </topicref>
   <topicref type="topic" id="430144698487057" build="ALL" modified="2017-10-06T11:38:50.123Z" icon="0" href="Project-Management2">
@@ -98,6 +104,12 @@
     <topicref type="topic" id="430183724311347" build="ALL" modified="2017-10-27T06:34:38.804Z" icon="0" href="Version-Control">
       <caption translate="true">Project Versioning</caption>
     </topicref>
+    <topicref type="topic" id="430408294602678" build="ALL" modified="2017-11-01T21:29:57.712Z" icon="0" href="Copying-a-Project">
+      <caption translate="true">Copying a Project</caption>
+    </topicref>
+    <topicref type="topic" id="430458449932060" build="ALL" modified="2017-11-06T21:49:05.743Z" icon="0" href="Offline-Use">
+      <caption translate="true">Offline Use</caption>
+    </topicref>
   </topicref>
   <topicref type="topic" id="430185774195610" build="ALL" modified="2017-10-10T13:49:52.307Z" icon="0" href="Revizto-Application">
     <caption translate="true">Revizto Application</caption>
@@ -107,11 +119,11 @@
     <topicref type="topic" id="430244004550145" build="ALL" modified="2017-10-18T10:54:44.694Z" icon="0" href="Browsing-modes">
       <caption translate="true">Browsing and Hot Keys</caption>
     </topicref>
-    <topicref type="topic" id="430191693580078" build="ALL" modified="2017-10-16T09:27:22.850Z" icon="0" href="Model-Elements-and-Controls">
-      <caption translate="true">3D Elements and Controls</caption>
+    <topicref type="topic" id="430191693580078" build="ALL" modified="2017-11-08T06:51:39.921Z" icon="0" href="Model-Elements-and-Controls">
+      <caption translate="true">3D Elements, Controls and Options</caption>
     </topicref>
-    <topicref type="topic" id="430245261322439" build="ALL" modified="2017-10-16T09:27:31.865Z" icon="0" href="2D-Elements-and-Controls">
-      <caption translate="true">2D Elements and Controls</caption>
+    <topicref type="topic" id="430245261322439" build="ALL" modified="2017-11-08T06:51:51.477Z" icon="0" href="2D-Elements-and-Controls">
+      <caption translate="true">2D Elements, Controls, Options</caption>
     </topicref>
     <topicref type="topic" id="430184587901783" build="ALL" modified="2017-10-10T13:53:42.425Z" icon="0" href="View-modes">
       <caption translate="true">Visual Effects</caption>
@@ -132,20 +144,17 @@
       <caption translate="true">Scene Editor</caption>
     </topicref>
   </topicref>
-  <topicref type="topic" id="430270226225512" build="ALL" modified="2017-10-18T21:22:05.446Z" icon="0" href="Additional-Revizto-Components">
+  <topicref type="topic" id="430270226225512" build="ALL" modified="2017-11-10T05:02:36.649Z" icon="0" href="Additional-Revizto-Components">
     <caption translate="true">Additional Revizto Components</caption>
-    <topicref type="topic" id="430267017171688" build="ALL" modified="2017-10-18T21:21:45.155Z" icon="0" href="Vive-Viewer">
-      <caption translate="true">Vive Viewer</caption>
-    </topicref>
-    <topicref type="topic" id="430270280291574" build="ALL" modified="2017-10-18T21:21:31.861Z" icon="0" href="Oculus-Viewer">
-      <caption translate="true">Oculus Viewer</caption>
-    </topicref>
-    <topicref type="topic" id="430269811446656" build="ALL" modified="2017-10-18T21:22:34.952Z" icon="0" href="Shared-Location-iPad-Connector">
+    <topicref type="topic" id="430269811446656" modified="2017-11-14T12:05:51.290Z" icon="0" href="Shared-Location-iPad-Connector">
       <caption translate="true">Shared Location iPad Connector</caption>
     </topicref>
     <topicref type="topic" id="430280841265085" build="ALL" modified="2017-10-20T06:18:58.511Z" icon="0" href="Revizto-Console">
       <caption translate="true">Revizto Console</caption>
     </topicref>
+  </topicref>
+  <topicref type="topic" id="430491923563315" build="ALL" modified="2017-11-10T05:02:46.670Z" icon="0" href="VR-Options">
+    <caption translate="true">VR Options</caption>
   </topicref>
   <topicref type="topic" id="430137438263638" build="ALL" modified="2017-10-05T13:28:24.986Z" icon="0" href="FAQ">
     <caption translate="true">FAQ</caption>
