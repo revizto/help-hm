@@ -194,7 +194,7 @@
       <config-value name="lcid" translate="true">en-us</config-value>
       <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
       <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000; </config-value>
-      <config-value name="autohelpstart">82</config-value>
+      <config-value name="autohelpstart">88</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
       <config-value name="searchpath">.\images\;.\Topics\</config-value>
@@ -232,6 +232,7 @@
       <config-value name="vcsmanuallycheckout">0</config-value>
       <config-value name="contents">Introduction</config-value>
       <config-value name="bidimode">0</config-value>
+      <config-group name="bookmarks"/>
     </config-group>
     <config-group name="pdf">
       <config-value name="style">0</config-value>
@@ -276,7 +277,7 @@
           <config-value name="mapfileformat">0</config-value>
         </config-group>
       </config-group>
-      <config-value name="project.lastexport">3</config-value>
+      <config-value name="project.lastexport">4</config-value>
     </config-group>
     <config-group name="chm">
       <config-value name="outputfile">RusGuard_Manual.chm</config-value>
@@ -775,6 +776,7 @@ document.write('</frameset>');
     <helpcontext-numbers>
       <helpcontext-number href="2D-Elements-and-Controls" value="49"/>
       <helpcontext-number href="2D-Elements-and-Controls#image_overlay" value="54"/>
+      <helpcontext-number href="2D-Elements-and-Controls#importing_sheets" value="84"/>
       <helpcontext-number href="2D-Elements-and-Controls#versioning" value="66"/>
       <helpcontext-number href="Abbreviations" value="13"/>
       <helpcontext-number href="Activation" value="20170818"/>
@@ -790,6 +792,7 @@ document.write('</frameset>');
       <helpcontext-number href="Export-from-Revizto" value="32"/>
       <helpcontext-number href="Exporting-Files-to-Revizto" value="20170823"/>
       <helpcontext-number href="Exporting-Files-to-Revizto#export_scheduler" value="68"/>
+      <helpcontext-number href="Exporting-Files-to-Revizto#export_scheduling" value="85"/>
       <helpcontext-number href="Exporting-Files-to-Revizto#general" value="70"/>
       <helpcontext-number href="FAQ" value="15"/>
       <helpcontext-number href="FAQ#appending" value="69"/>
@@ -809,7 +812,7 @@ document.write('</frameset>');
       <helpcontext-number href="Interface-Tips" value="20170822"/>
       <helpcontext-number href="Introduction" value="1"/>
       <helpcontext-number href="Issue-LifeCycle" value="10"/>
-      <helpcontext-number href="Issue-LifeCycle#new_3d_issue" value="51"/>
+      <helpcontext-number href="Issue-LifeCycle#issue_export" value="87"/>
       <helpcontext-number href="License_monitoring" value="20170821"/>
       <helpcontext-number href="License-Owner" value="20170825"/>
       <helpcontext-number href="Licensing" value="20170817"/>
@@ -828,12 +831,14 @@ document.write('</frameset>');
       <helpcontext-number href="Model-Elements-and-Controls#video" value="77"/>
       <helpcontext-number href="Model-Elements-and-Controls#viewpoints" value="50"/>
       <helpcontext-number href="My-Projects" value="21"/>
-      <helpcontext-number href="Oculus-Viewer" value="55"/>
+      <helpcontext-number href="Offline-Use" value="83"/>
+      <helpcontext-number href="Other-import-options" value="88"/>
       <helpcontext-number href="Preferences" value="43"/>
       <helpcontext-number href="Preferences#camera" value="64"/>
       <helpcontext-number href="Preferences#graphics" value="62"/>
       <helpcontext-number href="Preferences#navigation" value="63"/>
       <helpcontext-number href="Project-Management" value="20170820"/>
+      <helpcontext-number href="Project-Management#archiving_deleting" value="89"/>
       <helpcontext-number href="Project-Management#edit_or_append" value="71"/>
       <helpcontext-number href="Project-Management#project_access_level" value="28"/>
       <helpcontext-number href="Project-Management2" value="23"/>
@@ -853,12 +858,15 @@ document.write('</frameset>');
       <helpcontext-number href="Using-the-Web-GUI" value="22"/>
       <helpcontext-number href="Version-Control" value="31"/>
       <helpcontext-number href="View-modes" value="30"/>
-      <helpcontext-number href="Vive-Viewer" value="56"/>
+      <helpcontext-number href="VR-Options" value="86"/>
     </helpcontext-numbers>
   </config>
   <xi:include parse="xml" href="Maps/table_of_contents.xml"/>
   <project-files>
-    <file href="Topics/*.xml" build="ALL" filetype="topic"/>
+    <file href="Topics/*.xml" build="ALL" filetype="topic">
+      <file-mod href="Civil-3D.xml"/>
+      <file-mod href="Shared-Location-iPad-Connector.xml"/>
+    </file>
     <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
   </project-files>
 </helpproject>

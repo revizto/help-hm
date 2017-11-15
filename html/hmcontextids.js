@@ -25,6 +25,7 @@ hmContextIds["20170818"]="activation.htm";
 hmContextIds["20170819"]="manage-users.htm";
 hmContextIds["27"]="manage-users.htm#license_roles";
 hmContextIds["20170820"]="project-management.htm";
+hmContextIds["89"]="project-management.htm#archiving_deleting";
 hmContextIds["28"]="project-management.htm#project_access_level";
 hmContextIds["71"]="project-management.htm#edit_or_append";
 hmContextIds["20170821"]="license_monitoring.htm";
