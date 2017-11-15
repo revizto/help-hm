@@ -232,7 +232,6 @@
       <config-value name="vcsmanuallycheckout">0</config-value>
       <config-value name="contents">Introduction</config-value>
       <config-value name="bidimode">0</config-value>
-      <config-group name="bookmarks"/>
     </config-group>
     <config-group name="pdf">
       <config-value name="style">0</config-value>
