@@ -59,6 +59,7 @@ hmContextIds["34"]="managing-project-access-rights.htm";
 hmContextIds["10"]="issue-lifecycle.htm";
 hmContextIds["87"]="issue-lifecycle.htm#issue_export";
 hmContextIds["26"]="collaborator-reports.htm";
+hmContextIds["90"]="collaborator-reports.htm#note_on_timestamps";
 hmContextIds["31"]="version-control.htm";
 hmContextIds["82"]="copying-a-project.htm";
 hmContextIds["83"]="offline-use.htm";
