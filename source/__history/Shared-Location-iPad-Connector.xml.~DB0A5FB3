@@ -6,6 +6,7 @@
     <header>
       <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Shared Location iPad Connector</text></para>
     </header>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">The application allows updating &#160;</text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> projects stored on iPad. Note that you have to install iTunes to use the application. &#160;</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">The application allows updating &#160;</text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> projects stored on iPad. Note that you have to install iTunes to use the application. </text></para>
+    <para styleclass="Normal"></para>
   </body>
 </topic>

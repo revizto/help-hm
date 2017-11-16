@@ -194,7 +194,7 @@
       <config-value name="lcid" translate="true">en-us</config-value>
       <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
       <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000; </config-value>
-      <config-value name="autohelpstart">83</config-value>
+      <config-value name="autohelpstart">88</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
       <config-value name="searchpath">.\images\;.\Topics\</config-value>
@@ -276,7 +276,7 @@
           <config-value name="mapfileformat">0</config-value>
         </config-group>
       </config-group>
-      <config-value name="project.lastexport">3</config-value>
+      <config-value name="project.lastexport">4</config-value>
     </config-group>
     <config-group name="chm">
       <config-value name="outputfile">RusGuard_Manual.chm</config-value>
@@ -784,6 +784,7 @@ document.write('</frameset>');
       <helpcontext-number href="Browsing-modes#hot_keys" value="52"/>
       <helpcontext-number href="Civil-3D" value="73"/>
       <helpcontext-number href="Collaborator-Reports" value="26"/>
+      <helpcontext-number href="Collaborator-Reports#note_on_timestamps" value="90"/>
       <helpcontext-number href="Content-author" value="20170827"/>
       <helpcontext-number href="Copying-a-Project" value="82"/>
       <helpcontext-number href="Creating-and-Managing-Project-" value="25"/>
@@ -811,7 +812,7 @@ document.write('</frameset>');
       <helpcontext-number href="Interface-Tips" value="20170822"/>
       <helpcontext-number href="Introduction" value="1"/>
       <helpcontext-number href="Issue-LifeCycle" value="10"/>
-      <helpcontext-number href="Issue-LifeCycle#new_3d_issue" value="51"/>
+      <helpcontext-number href="Issue-LifeCycle#issue_export" value="87"/>
       <helpcontext-number href="License_monitoring" value="20170821"/>
       <helpcontext-number href="License-Owner" value="20170825"/>
       <helpcontext-number href="Licensing" value="20170817"/>
@@ -830,13 +831,14 @@ document.write('</frameset>');
       <helpcontext-number href="Model-Elements-and-Controls#video" value="77"/>
       <helpcontext-number href="Model-Elements-and-Controls#viewpoints" value="50"/>
       <helpcontext-number href="My-Projects" value="21"/>
-      <helpcontext-number href="Oculus-Viewer" value="55"/>
       <helpcontext-number href="Offline-Use" value="83"/>
+      <helpcontext-number href="Other-import-options" value="88"/>
       <helpcontext-number href="Preferences" value="43"/>
       <helpcontext-number href="Preferences#camera" value="64"/>
       <helpcontext-number href="Preferences#graphics" value="62"/>
       <helpcontext-number href="Preferences#navigation" value="63"/>
       <helpcontext-number href="Project-Management" value="20170820"/>
+      <helpcontext-number href="Project-Management#archiving_deleting" value="89"/>
       <helpcontext-number href="Project-Management#edit_or_append" value="71"/>
       <helpcontext-number href="Project-Management#project_access_level" value="28"/>
       <helpcontext-number href="Project-Management2" value="23"/>
@@ -856,12 +858,14 @@ document.write('</frameset>');
       <helpcontext-number href="Using-the-Web-GUI" value="22"/>
       <helpcontext-number href="Version-Control" value="31"/>
       <helpcontext-number href="View-modes" value="30"/>
-      <helpcontext-number href="Vive-Viewer" value="56"/>
+      <helpcontext-number href="VR-Options" value="86"/>
     </helpcontext-numbers>
   </config>
   <xi:include parse="xml" href="Maps/table_of_contents.xml"/>
   <project-files>
-    <file href="Topics/*.xml" build="ALL" filetype="topic"/>
+    <file href="Topics/*.xml" build="ALL" filetype="topic">
+      <file-mod href="Civil-3D.xml"/>
+    </file>
     <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
   </project-files>
 </helpproject>
