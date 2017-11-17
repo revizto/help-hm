@@ -54,6 +54,7 @@ hmContextIds["81"]="import-from-ifc-and-fbx.htm";
 hmContextIds["88"]="other-import-options.htm";
 hmContextIds["23"]="project-management2.htm";
 hmContextIds["24"]="creating-a-project.htm";
+hmContextIds["91"]="creating-a-project.htm#cloud";
 hmContextIds["25"]="creating-and-managing-project-.htm";
 hmContextIds["34"]="managing-project-access-rights.htm";
 hmContextIds["10"]="issue-lifecycle.htm";
