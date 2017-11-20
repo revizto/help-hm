@@ -14,6 +14,7 @@ function hmGetContextId(query) {
 
 hmContextIds["1"]="introduction.htm";
 hmContextIds["11"]="sysreqs.htm";
+hmContextIds["92"]="sysreqs.htm#net_reqs";
 hmContextIds["13"]="abbreviations.htm";
 hmContextIds["20170824"]="role-guides.htm";
 hmContextIds["20170825"]="license-owner.htm";

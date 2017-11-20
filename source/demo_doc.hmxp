@@ -854,6 +854,7 @@ document.write('</frameset>');
       <helpcontext-number href="Shared-Location-iPad-Connector" value="58"/>
       <helpcontext-number href="SketchUp" value="37"/>
       <helpcontext-number href="sysreqs" value="11"/>
+      <helpcontext-number href="sysreqs#net_reqs" value="92"/>
       <helpcontext-number href="Troubleshooting" value="16"/>
       <helpcontext-number href="Troubleshooting#working_folder" value="46"/>
       <helpcontext-number href="Using-the-Web-GUI" value="22"/>

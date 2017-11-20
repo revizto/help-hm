@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">AutoCad/ArchiCad</title>
+  <keywords>
+    <keyword translate="true">Archicad</keyword>
+    <keyword translate="true">Autocad</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">AutoCad/ArchiCad</text></para>
+    </header>
+    <para styleclass="Heading 2"><anchor id="autocad" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">AutoCAD</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">All in all, the overall export procedure is similar to the general one, but there are things to keep in mind.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">If </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true">&#32;</text><text styleclass="Normal" translate="true">plug-in is not displayed in AutoCAD 18 after installation:</text></para>
+    <list id="65" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Go to the main menu and choose </text><text styleclass="GUI_item" translate="true">Manage</text><text styleclass="Procedure" translate="true">&#32;</text><text styleclass="Procedure" translate="true">&gt; </text><text styleclass="GUI_item" translate="true">User Interface</text><text styleclass="Procedure" translate="true">&#32;</text><text styleclass="Procedure" translate="true">&gt; </text><text styleclass="GUI_item" translate="true">Customize</text><text styleclass="Procedure" translate="true">. </text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Right-click &#160;</text><text styleclass="GUI_item" translate="true">REVIZTOEXPORT4</text><text styleclass="Procedure" translate="true">&#32;</text><text styleclass="Procedure" translate="true">in the </text><text styleclass="GUI_item" translate="true">Partial Customization Files</text><text styleclass="Procedure" translate="true"> section and choose the first option: </text><text styleclass="GUI_item" translate="true">Unload REVIZTO4.CUIX</text><text styleclass="Procedure" translate="true">. </text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click </text><text styleclass="GUI_item" translate="true">Apply</text><text styleclass="Procedure" translate="true"> and </text><text styleclass="GUI_item" translate="true">OK</text><text styleclass="Procedure" translate="true">.</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="revizto_plugin_in_autocad.png" scale="60.00%" width="663" height="511" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">AutoCAD offers less export options than Revit or ArchiCAD. </text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="export_to_autocad.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">AutoCAD allows working both with separate files and projects (sheet sets, </text><text styleclass="Code Example" translate="true">.dst</text><text styleclass="Normal" translate="true"> files); you can simultaneously have an open project and an open file outside this project. Note that in this case the export plug-in exports all open documents to </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true">. You have either to close redundant elements before starting export, or exclude them manually from the export. </text></para>
+    <para styleclass="Normal"><conditional-text type="IF" value="DEMO"/><text styleclass="Normal" translate="true">When exporting a 3D file, make sure to choose </text><text styleclass="GUI_item" translate="true">3D Representations</text><text styleclass="Normal" translate="true"> in AutoCAD to have it exported properly.</text><conditional-text type="END"/></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Before exporting a 2D drawing from AutoCAD make sure to switch to the </text><text styleclass="GUI_item" translate="true">Paper space</text><text styleclass="Normal" translate="true"> mode (the bottom menu of AutoCAD). Otherwise </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> may fail to properly process exported data.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="model_or_paper_space.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">When defining your export options, make sure to click the </text><text styleclass="GUI_item" translate="true">Select</text><text styleclass="Normal" translate="true"> button of the </text><text styleclass="GUI_item" translate="true">Export Sheets</text><text styleclass="Normal" translate="true"> checkbox (see the image above) even if you are going to export all the sheets to check whether sheets are properly added to the export. Sometimes errors occur and sheets are not added to the export by default. </text></para>
+    <para styleclass="Note"><text styleclass="Note" translate="true">Note: If trying to link a new scene from AutoCAD to an existing </text><var styleclass="Note">&lt;%BRAND_NAME%&gt;</var><text styleclass="Note" translate="true"> model, make sure the model being merged is also in shared coordinates or your AutoCAD model may not line up once in </text><var styleclass="Note">&lt;%BRAND_NAME%&gt;</var><text styleclass="Note" translate="true">.</text></para>
+    <para styleclass="Heading 2"><anchor id="archicad" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">ArchiCAD</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">&#32;</text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> is not automatically installed in most versions of ArchiCAD (due to GUI localization particularities). Installation procedure is similar to that given for AutoCAD above. </text></para>
+  </body>
+</topic>
