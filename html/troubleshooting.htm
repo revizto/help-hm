@@ -78,6 +78,11 @@
 <p class="p_Heading2"><span class="f_Heading2">Navisworks Clashes fail to Export</span></p>
 <p class="p_Normal">Make sure that you are not using the Reviewed status in Navisworks for issues that still may need some processing. According to current export rules (not available to users for change), this status is exported to Revizto as Closed.</p>
 <p class="p_Normal">&nbsp;</p>
+<p class="p_Normal">Uploading Projects with Sheets beyond Server Upload Capacity</p>
+<p class="p_Normal">When you try to synchronize a project having more sheets that our cloud server can upload in one session you are likely to get an error message (see the image below).</p>
+<div class="p_Normal" style="text-align: center;"><div style="margin:0px auto 0px auto;width:643px"><img alt="The project has more sheets than the server can upload in a session" title="The project has more sheets than the server can upload in a session" width="643" height="158" style="width:643px;height:158px;border:none" src="redirect_error.jpg"/><p style="text-align:center"><span class="f_ImageCaption">The project has more sheets than the server can upload in a session</span></p></div></div>
+<p class="p_Normal">Fortunately, there is a way out. Create a new empty project and upload it to the Cloud, than link source file (e.g. from Revit) to this project, export the model. Retry uploading data to the cloud. In this case Revizto can save intermediate results at the cloud and synchronization is facilitated.</p>
+<p class="p_Normal">&nbsp;</p>
 <p class="p_Normal">&nbsp;</p>
 
 </td></tr></table>
