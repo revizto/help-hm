@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Offline Use</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Offline Use</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">If you need to work offline on the shared project, or to make sure all sheets and issues are up to date, &#160;download full cache from the Cloud/Shared location. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">To download full cache:</text></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">In the main menu open Project &gt; Open. Then Click on the </text><text styleclass="GUI_item" translate="true">Edit</text><text styleclass="Procedure" translate="true"> button in the toolbar.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the </text><image src="Project_edit_button.png" scale="100.00%" styleclass="Image Caption"></image><text styleclass="Normal" translate="true">&#32;</text><text styleclass="Procedure" translate="true">icon on the tile of the project you want to work with offline. </text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Choose the </text><text styleclass="GUI_item" translate="true">Load full cache</text><text styleclass="Procedure" translate="true"> option. &#160;</text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true"> displays the task progress and then reverts to the project list (edit mode closed).</text></li>
+    </list>
+    <para styleclass="Procedure"></para>
+    <para styleclass="Image Caption"><image src="load_full_cache.png" scale="60.00%" width="668" height="225" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

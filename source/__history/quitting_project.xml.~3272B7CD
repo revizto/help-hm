@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Quitting a project</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Quitting a project</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">To quit a project team:</text></para>
+    <list id="71" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">In the main menu open </text><text styleclass="GUI_item" translate="true">Project</text><text styleclass="Procedure" translate="true"> &gt; </text><text styleclass="GUI_item" translate="true">Open</text><text styleclass="Procedure" translate="true">. Then Click on the </text><text styleclass="GUI_item" translate="true">Edit</text><text styleclass="Procedure" translate="true"> button in the toolbar.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the </text><image src="Project_edit_button.png" scale="100.00%" styleclass="Image Caption"></image><text styleclass="Normal" translate="true">&#32;</text><text styleclass="Procedure" translate="true">icon on the tile of the project you want to work with offline. </text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Choose the</text><text styleclass="GUI_item" translate="true"> Unsubscribe</text><text styleclass="Procedure" translate="true"> option and confirm your action.</text></li>
+    </list>
+    <para styleclass="Procedure"><text styleclass="Procedure" translate="true">Note that to get back on the project team you will have to re-invited by a project member with sufficient rights. </text></para>
+    <para styleclass="Procedure" style="text-align:center;"><image src="unsubscribing.png" scale="100.00%" styleclass="Image Caption"><caption translate="true"><![CDATA[Unsubscribing option]]></caption></image></para>
+  </body>
+</topic>

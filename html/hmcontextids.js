@@ -64,6 +64,7 @@ hmContextIds["87"]="issue-lifecycle.htm#issue_export";
 hmContextIds["26"]="collaborator-reports.htm";
 hmContextIds["90"]="collaborator-reports.htm#note_on_timestamps";
 hmContextIds["31"]="version-control.htm";
+hmContextIds["94"]="quitting_project.htm";
 hmContextIds["82"]="copying-a-project.htm";
 hmContextIds["83"]="offline-use.htm";
 hmContextIds["29"]="revizto-application.htm";
