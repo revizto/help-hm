@@ -5,12 +5,12 @@
     <topicref type="topic" id="412533931291485" build="ALL" modified="2017-10-01T03:29:14.990Z" icon="0" href="sysreqs">
       <caption translate="true">Technical requirements</caption>
     </topicref>
-    <topicref type="topic" id="412533943714332" build="ALL" modified="2017-10-27T15:47:42.872Z" icon="0" href="Abbreviations">
+    <topicref type="topic" id="412533943714332" build="ALL" modified="2017-11-14T12:21:24.192Z" icon="0" href="Abbreviations">
       <caption translate="true">Glossary</caption>
     </topicref>
   </topicref>
-  <topicref type="topic" id="430090748001303" build="ALL" modified="2017-10-01T03:53:03.238Z" icon="0" href="Role-Guides">
-    <caption translate="true">Role Guides</caption>
+  <topicref type="topic" id="430090748001303" build="ALL" modified="2017-11-14T11:34:25.689Z" icon="0" href="Role-Guides">
+    <caption translate="true">Workflow &amp; Role Guides</caption>
     <topicref type="topic" id="430090155077075" build="ALL" modified="2017-10-23T08:18:28.694Z" icon="0" href="License-Owner">
       <caption translate="true">License Administrator</caption>
     </topicref>
@@ -65,10 +65,10 @@
     <topicref type="topic" id="430136537361845" build="ALL" modified="2017-10-11T00:44:08.828Z" icon="0" href="From-Navisworks">
       <caption translate="true">Navisworks</caption>
     </topicref>
-    <topicref type="topic" id="430144747157305" build="ALL" modified="2017-10-11T00:44:14.856Z" icon="0" href="From-AutoCad_ArchiCad">
-      <caption translate="true">AutoCad/ArchiCad</caption>
+    <topicref type="topic" id="430144747157305" build="ALL" modified="2017-11-28T15:18:19.901Z" icon="0" href="From-AutoCad_ArchiCad">
+      <caption translate="true">AutoCad/ArchiCad/Civil3D</caption>
     </topicref>
-    <topicref type="topic" id="430343056439313" build="ALL" modified="2017-10-26T06:43:38.105Z" icon="0" href="Civil-3D">
+    <topicref type="topic" id="430343056439313" modified="2017-11-15T18:26:13.603Z" icon="0" href="Civil-3D">
       <caption translate="true">Civil 3D</caption>
     </topicref>
     <topicref type="topic" id="43019934814738" build="ALL" modified="2017-10-11T00:44:28.849Z" icon="0" href="Rhinoceros-for-Windows">
@@ -79,6 +79,9 @@
     </topicref>
     <topicref type="topic" id="430401215894496" build="ALL" modified="2017-10-31T23:08:54.005Z" icon="0" href="Import-from-IFC-and-FBX">
       <caption translate="true">Import from IFC and FBX</caption>
+    </topicref>
+    <topicref type="topic" id="430535561272097" build="ALL" modified="2017-11-14T11:28:24.758Z" icon="0" href="Other-import-options">
+      <caption translate="true">Other import options</caption>
     </topicref>
   </topicref>
   <topicref type="topic" id="430144698487057" build="ALL" modified="2017-10-06T11:38:50.123Z" icon="0" href="Project-Management2">
@@ -100,6 +103,9 @@
     </topicref>
     <topicref type="topic" id="430183724311347" build="ALL" modified="2017-10-27T06:34:38.804Z" icon="0" href="Version-Control">
       <caption translate="true">Project Versioning</caption>
+    </topicref>
+    <topicref type="topic" id="430614014346872" build="ALL" modified="2017-11-22T11:45:39.179Z" icon="0" href="quitting_project">
+      <caption translate="true">Quitting a project</caption>
     </topicref>
     <topicref type="topic" id="430408294602678" build="ALL" modified="2017-11-01T21:29:57.712Z" icon="0" href="Copying-a-Project">
       <caption translate="true">Copying a Project</caption>
@@ -143,7 +149,7 @@
   </topicref>
   <topicref type="topic" id="430270226225512" build="ALL" modified="2017-11-10T05:02:36.649Z" icon="0" href="Additional-Revizto-Components">
     <caption translate="true">Additional Revizto Components</caption>
-    <topicref type="topic" id="430269811446656" build="ALL" modified="2017-10-18T21:22:34.952Z" icon="0" href="Shared-Location-iPad-Connector">
+    <topicref type="topic" id="430269811446656" build="ALL" modified="2017-11-16T08:55:02.580Z" icon="0" href="Shared-Location-iPad-Connector">
       <caption translate="true">Shared Location iPad Connector</caption>
     </topicref>
     <topicref type="topic" id="430280841265085" build="ALL" modified="2017-10-20T06:18:58.511Z" icon="0" href="Revizto-Console">

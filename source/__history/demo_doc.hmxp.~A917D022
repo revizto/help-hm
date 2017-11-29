@@ -194,7 +194,7 @@
       <config-value name="lcid" translate="true">en-us</config-value>
       <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
       <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000; </config-value>
-      <config-value name="autohelpstart">88</config-value>
+      <config-value name="autohelpstart">94</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
       <config-value name="searchpath">.\images\;.\Topics\</config-value>
@@ -783,18 +783,20 @@ document.write('</frameset>');
       <helpcontext-number href="Additional-Revizto-Components" value="57"/>
       <helpcontext-number href="Browsing-modes" value="48"/>
       <helpcontext-number href="Browsing-modes#hot_keys" value="52"/>
-      <helpcontext-number href="Civil-3D" value="73"/>
+      <helpcontext-number href="Browsing-modes#tagging_issues" value="95"/>
       <helpcontext-number href="Collaborator-Reports" value="26"/>
       <helpcontext-number href="Collaborator-Reports#note_on_timestamps" value="90"/>
       <helpcontext-number href="Content-author" value="20170827"/>
       <helpcontext-number href="Copying-a-Project" value="82"/>
       <helpcontext-number href="Creating-and-Managing-Project-" value="25"/>
       <helpcontext-number href="Creating-a-Project" value="24"/>
+      <helpcontext-number href="Creating-a-Project#cloud" value="91"/>
       <helpcontext-number href="Export-from-Revizto" value="32"/>
       <helpcontext-number href="Exporting-Files-to-Revizto" value="20170823"/>
       <helpcontext-number href="Exporting-Files-to-Revizto#export_scheduler" value="68"/>
       <helpcontext-number href="Exporting-Files-to-Revizto#export_scheduling" value="85"/>
       <helpcontext-number href="Exporting-Files-to-Revizto#general" value="70"/>
+      <helpcontext-number href="Exporting-Files-to-Revizto#sync" value="93"/>
       <helpcontext-number href="FAQ" value="15"/>
       <helpcontext-number href="FAQ#appending" value="69"/>
       <helpcontext-number href="FAQ#turn_off_upd" value="45"/>
@@ -845,6 +847,7 @@ document.write('</frameset>');
       <helpcontext-number href="Project-Management2" value="23"/>
       <helpcontext-number href="Project-Manager" value="20170826"/>
       <helpcontext-number href="Project-Optimization" value="33"/>
+      <helpcontext-number href="quitting_project" value="94"/>
       <helpcontext-number href="Reviewer" value="20170828"/>
       <helpcontext-number href="Revizto-Application" value="29"/>
       <helpcontext-number href="Revizto-Console" value="65"/>
@@ -854,6 +857,7 @@ document.write('</frameset>');
       <helpcontext-number href="Shared-Location-iPad-Connector" value="58"/>
       <helpcontext-number href="SketchUp" value="37"/>
       <helpcontext-number href="sysreqs" value="11"/>
+      <helpcontext-number href="sysreqs#net_reqs" value="92"/>
       <helpcontext-number href="Troubleshooting" value="16"/>
       <helpcontext-number href="Troubleshooting#working_folder" value="46"/>
       <helpcontext-number href="Using-the-Web-GUI" value="22"/>
@@ -864,10 +868,7 @@ document.write('</frameset>');
   </config>
   <xi:include parse="xml" href="Maps/table_of_contents.xml"/>
   <project-files>
-    <file href="Topics/*.xml" build="ALL" filetype="topic">
-      <file-mod href="Civil-3D.xml"/>
-      <file-mod href="Shared-Location-iPad-Connector.xml"/>
-    </file>
+    <file href="Topics/*.xml" build="ALL" filetype="topic"/>
     <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
   </project-files>
 </helpproject>

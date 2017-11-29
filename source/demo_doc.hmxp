@@ -783,7 +783,6 @@ document.write('</frameset>');
       <helpcontext-number href="Browsing-modes" value="48"/>
       <helpcontext-number href="Browsing-modes#hot_keys" value="52"/>
       <helpcontext-number href="Browsing-modes#tagging_issues" value="95"/>
-      <helpcontext-number href="Civil-3D" value="73"/>
       <helpcontext-number href="Collaborator-Reports" value="26"/>
       <helpcontext-number href="Collaborator-Reports#note_on_timestamps" value="90"/>
       <helpcontext-number href="Content-author" value="20170827"/>
@@ -868,9 +867,7 @@ document.write('</frameset>');
   </config>
   <xi:include parse="xml" href="Maps/table_of_contents.xml"/>
   <project-files>
-    <file href="Topics/*.xml" build="ALL" filetype="topic">
-      <file-mod href="Civil-3D.xml"/>
-    </file>
+    <file href="Topics/*.xml" build="ALL" filetype="topic"/>
     <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
   </project-files>
 </helpproject>

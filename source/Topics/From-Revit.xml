@@ -11,7 +11,7 @@
     </header>
     <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Before Exporting</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Before exporting source files from Revit, it is recommended to create a target 3D view with settings that suite export needs. In particular, it is recommended to:</text></para>
-    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+    <list id="68" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Set </text><text styleclass="GUI_item" translate="true">Detail Level</text><text styleclass="Bullet_1" translate="true"> to </text><text styleclass="GUI_item" translate="true">Fine</text><text styleclass="Bullet_1" translate="true">. Note that </text><var styleclass="Bullet_1">&lt;%BRAND_NAME%&gt;</var><text styleclass="Bullet_1" translate="true"> excludes 2D items from export and at low detail level Revit displays small items (e.g. tubes) as 2D lines.</text></li>
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Make sure that Renderings and Views have different names in Revit. Otherwise, some views will not be exported.</text></li>
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Set the Phase Filter to the option that creates a view you want to have in Revisto as default. Note that if phases are exported correctly, you will be able to switch them in Revizto as well, but you default view will be based on the open open in Revit at the point of export.</text></li>
@@ -83,7 +83,7 @@
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Export rooms</text></para>
         </td>
         <td style="width:945px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Activate the checkbox to export Revit rooms and use them to navigate within the resulting Revizto model.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Activate the checkbox to export Revit rooms and use them to navigate within the resulting </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> model.</text></para>
         </td>
       </tr>
       <tr style="vertical-align:middle">
@@ -119,18 +119,21 @@
     <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Exporting Selection</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Revit allows exporting a selected item, not the whole view.</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">To export selection:</text></para>
-    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+    <list id="69" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Select an object in Revit, right-click on it to open the context menu.</text></li>
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Choose the </text><text styleclass="GUI_item" translate="true">Repeat [Export to </text><var styleclass="GUI_item">&lt;%BRAND_NAME%&gt;</var><text styleclass="GUI_item" translate="true">]</text><text styleclass="Procedure" translate="true"> item. </text></li>
     </list>
     <para styleclass="Normal" style="text-align:center;"><image src="revit_export_tip.png" scale="100.00%" styleclass="Image Caption"></image></para>
-    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+    <list id="69" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Confirm that you want to export only the selected item. </text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true"> will export the selected item and sheets related to it. &#160;</text></li>
     </list>
     <para styleclass="Normal" style="text-align:center;"><image src="revit_confirm_selection.png" scale="100.00%" styleclass="Image Caption"></image></para>
     <para styleclass="warning"><text styleclass="warning" style="font-weight:bold;" translate="true">Warning</text><text styleclass="warning" translate="true">: do not use the option to update an existing project containing the whole view. It only exports the selected element creating a model from it. </text></para>
     <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Exporting Sheets with Similar GUID&apos;s</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Users may need to create multiple copies of the same Revit scene in the framework of their BIM projects (e.g. the same building model can be copied to create a street block). In this case sheets with similar GUID&apos;s appear. When such scenes are appended to the same </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> project, sheets are exported anew with suffixes added to their names. Yet, if you do not want to have identical sheets in your projects, you can activate the </text><text styleclass="GUI_item" translate="true">Merge same sheets from different files</text><text styleclass="Normal" translate="true"> option before export.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Users may need to create multiple copies of the same Revit scene in the framework of their BIM projects (e.g. the same building model can be copied to create a street block). In this case sheets with similar GUID&apos;s appear. When such scenes are appended to the same </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> project, &#160;namesake sheets are exported anew with suffixes added to their names. Yet, if you do not want to have identical sheets in your projects, you can activate the </text><text styleclass="GUI_item" translate="true">Merge same sheets from different files</text><text styleclass="Normal" translate="true"> option before export.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Parallel Export</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Parallel Export feature is being implemented in the latest versions of </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true">&#32;</text><text styleclass="Normal" translate="true">to accelerate sheet export. It allows exporting sheets simultaneously vs. exporting them one by one. </text></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"><conditional-text type="IFNOT" value="PDF"/><video src="https://www.youtube.com/v/RsMTqyQ33N4?rel=0" width="640px" height="360px" autostart="false" loop="false" showcontrols="true" playbutton="false" flashversion="6" previewimage="" scale="-100.00%" styleclass="Image Caption"><caption translate="true"><![CDATA[Export tutorial]]></caption></video><conditional-text type="END"/></para>
   </body>
