@@ -858,6 +858,7 @@ document.write('</frameset>');
       <helpcontext-number href="sysreqs" value="11"/>
       <helpcontext-number href="sysreqs#net_reqs" value="92"/>
       <helpcontext-number href="Troubleshooting" value="16"/>
+      <helpcontext-number href="Troubleshooting#video_issues" value="96"/>
       <helpcontext-number href="Troubleshooting#working_folder" value="46"/>
       <helpcontext-number href="Using-the-Web-GUI" value="22"/>
       <helpcontext-number href="Version-Control" value="31"/>

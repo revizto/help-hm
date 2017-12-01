@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">VR Options</title>
+  <keywords>
+    <keyword translate="true">Oculus</keyword>
+    <keyword translate="true">Vive</keyword>
+    <keyword translate="true">VR</keyword>
+    <keyword translate="true">Xbox</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">VR Options</text></para>
+    </header>
+    <para styleclass="Normal"><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> provides two VR viewers tailored to Oculus and Vive VR headsets. Basically, VR viewers are built into the core </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> application via Unity engine and a range of proprietary integration scripts, but for improved usability and QoE we offer separate launch shortcuts for them. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">When using any of the VR options, you can switch from wearing the headset to keyboard. Make sure you only use one display when in VR mode (there is no support for multiple displays now). </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">After the project is loaded, &#160;you will see the instruction screen for navigation with two or three tabs depending on which controllers are connected to the PC. Use a mouse to switch between tabs. You can open the navigation screen at any time via the F1 key.</text></para>
+    <para styleclass="Note"><text styleclass="Note" style="font-weight:bold;" translate="true">Tip</text><text styleclass="Note" translate="true">: One of the largest benefits to using </text><var styleclass="Note">&lt;%BRAND_NAME%&gt;</var><text styleclass="Note" translate="true"> VR is that you’re always walking through the actual model geometry. As the model is updated the </text><var styleclass="Note">&lt;%BRAND_NAME%&gt;</var><text styleclass="Note" translate="true"> VR model is updated with the changes in coordination of the design. Most VR systems require manual and time consuming work reducing polygon count by fusing pretty images to the geometry. This polygon reduction enables users to reach 90 frames a second that allows smooth end user experience on less capable hardware. When the model is updated this process starts over.</text></para>
+    <para styleclass="Note"><text styleclass="Note" translate="true">With </text><var styleclass="Note">&lt;%BRAND_NAME%&gt;</var><text styleclass="Note" translate="true"> we keep your polygons, object metadata, geometry, redlines and issue conversations in VR to allow you to make real project decision. Unlike most VR platforms </text><var styleclass="Note">&lt;%BRAND_NAME%&gt;</var><text styleclass="Note" translate="true"> lets users to walk anywhere in the model instead of being forced to teleport like google street view.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Now that you understand why the VR model can be larger, here is a workflow if your hardware is not getting you the smooth 90 frames a second:</text></para>
+    <list id="7" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Isolate/ section box just the desired area of your project that you would like to walk through. Most people are not interested in walking through every room on every floor.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Save this section box as a new viewpoint in the project. You can repeat step 1 as many times as needed.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Now open up your </text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true"> HTC or Oculus Viewer and launch the project. Afterwards, open a viewpoint with a section box in which you would like to walk through. This will allow your machine to dedicate all of its resources to the portion of the model you actually care about in VR. Here you can also switch between different viewpoints.</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Navigation using the HTC Vive controller:</text></para>
+    <para styleclass="Image Caption"><image src="VR_Vive.png" scale="80.00%" width="670" height="420" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Navigation using the Oculus touch controller:</text></para>
+    <para styleclass="Image Caption"><image src="VR_Oculus.png" scale="60.00%" width="562" height="371" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Navigation using the xBox controller:</text></para>
+    <para styleclass="Image Caption"><image src="VR_xBox.png" scale="80.00%" width="661" height="409" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Navigation using the keyboard and the mouse:</text></para>
+    <para styleclass="Image Caption"><image src="VR_keyboard.png" scale="60.00%" width="530" height="301" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">If you need to interact with objects you should hide the menu. You have the following options to do it:</text></para>
+    <list id="8" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">HTC Vive controller</text></li>
+    </list>
+    <para styleclass="Image Caption"><image src="VR_Vive_hide_menu.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <list id="9" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">xBox controller</text></li>
+    </list>
+    <para styleclass="Image Caption"><image src="VR_xBox_hide_menu.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <list id="10" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Keyboard</text></li>
+    </list>
+    <para styleclass="Image Caption"><image src="VR_keyboard_hide_menu.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">To get information about an object or open an issue:</text></para>
+    <list id="11" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Point out a necessary place in the scene using the Vive controller and use the right button:</text></li>
+    </list>
+    <para styleclass="Image Caption"><image src="VR_Vive_object_info.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <list id="12" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Without the Vive controller you should turn your head to place necessary object or issue at the center of the screen. Afterwards use a blue button on the xBox controller or the left mouse button:</text></li>
+    </list>
+    <para styleclass="Normal_big-image" style="text-align:center; text-indent:0px; margin-top:14px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.25; background-color:#ffffff; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="VR_xBox_object_info.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal_big-image" style="text-align:center; text-indent:0px; margin-top:14px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.25; background-color:#ffffff; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="VR_mouse_object_info.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">System requirements for VR:</text></para>
+    <list id="13" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">GPU: VR Ready cards recommended for Oculus or Vive (depending on your device).</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">RAM: min 8GB, recommended 16GB or more.</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">OS: Windows 10.</text></li>
+    </list>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Camera Sharing</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Camera sharing for VR replicates the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Model-Elements-and-Controls" anchor="cam_share" styleclass="Normal" translate="true">standard &lt;%BRAND_NAME%&gt; functionality</link><text styleclass="Normal" translate="true">. When a session is initiated, one person (the leader) can control the movement, while other people connected to the session follow (in VR or not). If a user wears a VR headset, their camera location is changing, but the viewing direction is left free (but the direction of the leader&apos;s camera is marked). </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Generally, an experienced user is selected as the leader on a standard PC application, while a novice follows them in a VR headset (in the same physical room). In that way novices do not have to navigate to view the model.</text></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="weblink" href="https://youtu.be/BqfKutfdoEk" target="_blank" styleclass="Normal" translate="true">Watch the VR camera sharing tutorial</link></para>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; page-break-before:always; tabstops:none;"></para>
+  </body>
+</topic>

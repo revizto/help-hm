@@ -22,7 +22,7 @@
     </list>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Note that, for adequate GUI display, </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> requires resolution of at least &#160;1024 x 768 with the next step being as large as 2048 x 1536 (take it into account when defining your visual </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Preferences" styleclass="Normal" translate="true">preferences</link><text styleclass="Normal" translate="true">).</text></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal" style="text-align:center;"><image src="revizto_gui.png" scale="60.00%" width="960" height="516" styleclass="Image Caption"></image></para>
+    <para styleclass="img_display"><image src="revizto_gui.png" scale="60.00%" width="960" height="516" styleclass="img_display"></image></para>
     <para styleclass="Normal"></para>
   </body>
 </topic>

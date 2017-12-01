@@ -18,7 +18,7 @@
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the </text><text styleclass="GUI_item" translate="true">Make Current</text><text styleclass="Procedure" translate="true"> button at the bottom of the screen to revert the project to the selected version. </text></li>
     </list>
     <para styleclass="Procedure"></para>
-    <para styleclass="Normal" style="text-align:center;"><image src="project_revisions.png" scale="60.00%" width="713" height="317" styleclass="Image Caption"></image></para>
+    <para styleclass="img_display"><image src="project_revisions.png" scale="60.00%" width="713" height="317" styleclass="img_display"></image></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Basically, in this case, an older version is shared as if it was new and replaces the current one. We expect no conflicts between processed working copies of the project.</text></para>
   </body>
 </topic>

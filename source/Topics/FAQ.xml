@@ -56,7 +56,7 @@
       <tr style="vertical-align:top">
         <td>
           <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">- You can use the Export to EXE option (the </text><text styleclass="GUI_item" translate="true">Project</text><text styleclass="Bullet_1" translate="true"> menu). Also, choose No in the Export Issues field to hide your issues. The resulting file will be accessible on any Windows x64 machine without Revizto.</text></para>
-          <para styleclass="Image Caption"><image src="export_to_exe.png" scale="100.00%" styleclass="Image Caption"><title translate="true">export_to_exe.png</title></image></para>
+          <para styleclass="img_display"><image src="export_to_exe.png" scale="100.00%" styleclass="img_display"><title translate="true">export_to_exe.png</title></image></para>
         </td>
       </tr>
     </table></para>

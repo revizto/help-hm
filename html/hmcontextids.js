@@ -102,3 +102,4 @@ hmContextIds["45"]="faq.htm#turn_off_upd";
 hmContextIds["69"]="faq.htm#appending";
 hmContextIds["16"]="troubleshooting.htm";
 hmContextIds["46"]="troubleshooting.htm#working_folder";
+hmContextIds["96"]="troubleshooting.htm#video_issues";
