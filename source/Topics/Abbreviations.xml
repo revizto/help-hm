@@ -7,7 +7,7 @@
       <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Glossary</text></para>
     </header>
     <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"></para>
-    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"><table styleclass="Default2" rowcount="16" colcount="2">
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"><table styleclass="Default2" rowcount="17" colcount="2">
       <thead style="vertical-align:middle">
         <td style="width:213px;">
           <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.19; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-size:12pt; font-weight:bold; vertical-align:baseline; color:#ffffff;" translate="true">Term</text></para>
@@ -135,6 +135,14 @@
         </td>
         <td style="width:1033px;">
           <para styleclass="Normal"><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> model is regularly synchronized with the cloud (or other shared storage location) to make sure that all users are on the same page, i.e. have the same view, sheets and same set of issues with their respective statuses and attached information. &#160;Synchronization can be scheduled.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Shared location</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Project deployment option when sensitive model data (3D and 2D) is not synchronized with the Cloud. Yet, metadata and issue are still uploaded to the Cloud to ensure collaboration. For more details </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Creating-a-Project" anchor="storage_selection" styleclass="Normal" translate="true">see here</link><text styleclass="Normal" translate="true">.</text></para>
         </td>
       </tr>
     </table></para>

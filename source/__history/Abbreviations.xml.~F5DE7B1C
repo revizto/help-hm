@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Glossary</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Glossary</text></para>
+    </header>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"></para>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"><table styleclass="Default2" rowcount="17" colcount="2">
+      <thead style="vertical-align:middle">
+        <td style="width:213px;">
+          <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.19; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-size:12pt; font-weight:bold; vertical-align:baseline; color:#ffffff;" translate="true">Term</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.19; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-size:12pt; font-weight:bold; vertical-align:baseline; color:#ffffff;" translate="true">Definition</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><var styleclass="Normal" style="font-weight:bold;">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" style="font-weight:bold;" translate="true"> Application</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Core software component of the suite that contains the whole project management, model creation and issue processing toolkit.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><var styleclass="Normal" style="font-weight:bold;">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" style="font-weight:bold;" translate="true"> VR viewer</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> offers different options to view 3D, in particular, we </text><link displaytype="text" defaultstyle="true" type="topiclink" href="VR-Options" styleclass="Normal" translate="true">support VR</link><text styleclass="Normal" translate="true">. This option excludes 2D views, has limited project management and collaboration options. In turn, it offers additional presentation and navigation options, each viewer is tailored to support a specific set of gaming and VR controls/devices (e.g. WASD, Xbox, OCULUS &amp; Vive headsets). </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true">&#32;</text><link displaytype="text" defaultstyle="true" type="topiclink" href="Browsing-modes" styleclass="Normal" translate="true">hot keys</link><text styleclass="Normal" translate="true"> are supported in viewers, as long as relevant functionality is available. E.g. with no 2D view mode, the hot key for switching to 2D is unavailable. </text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">VR viewers are not separate applications, but for convenience separate desktop shortcuts are usually created for them. </text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><var styleclass="Normal" style="font-weight:bold;">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" style="font-weight:bold;" translate="true"> export scheduler</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Software component designed to manage source export schedules created earlier in the project. </text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><var styleclass="Normal" style="font-weight:bold;">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" style="font-weight:bold;" translate="true"> plug-in</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Plug-ins installed automatically or manually to source software. You can use plug-ins to export source models, schedule exports and launch issue tracking functionality.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><var styleclass="Normal" style="font-weight:bold;">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" style="font-weight:bold;" translate="true"> model</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">A set of files generated by </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> to represent the source data (3D graphics, sheets, clashes) in a single viewable package. Model cannot be edited and used as a source, but it offers collaboration options. Issues created from the model become available to source users (depending on rights and notification settings).</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><var styleclass="Normal" style="font-weight:bold;">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" style="font-weight:bold;" translate="true"> scene</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">3D view generated by </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> and displayed in the application (VR viewer)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><var styleclass="Normal" style="font-weight:bold;">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" style="font-weight:bold;" translate="true"> license</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">A fee-based license issued to a company for a specific number of users and projects. Typically it is provided for one year. To get familiar with the product, you can get a demo version which is free, though has limitations and is provided for a limited period. </text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><var styleclass="Normal" style="font-weight:bold;">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" style="font-weight:bold;" translate="true"> user</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> user having a license role and an account at www.revizto.com</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Active user</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">User who accessed project by opening them in </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> within a specific period of time. Users become inactive after a certain period of idleness. </text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><var styleclass="Normal" style="font-weight:bold;">&lt;%BRAND_NAME%&gt;</var><link displaytype="text" defaultstyle="true" type="topiclink" href="Manage-Users" anchor="license_roles" styleclass="Normal" style="font-weight:bold;" translate="true"> license role</link></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Level of access to </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> license (rights to add project and users). For more details, follow the hyperlink.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><var styleclass="Normal" style="font-weight:bold;">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" style="font-weight:bold;" translate="true">&#32;</text><link displaytype="text" defaultstyle="true" type="topiclink" href="Project-Management2" styleclass="Normal" style="font-weight:bold;" translate="true">project</link></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">A bunch of files storing 3D graphics, 2D sheets and issues (clashes) imported from source BIM software and converted into a unified package viewable in </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> to report and discuss issues and have them highlighted in source files. </text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><var styleclass="Normal" style="font-weight:bold;">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" style="font-weight:bold;" translate="true"> [project] access level</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="Managing-Project-Access-Rights" styleclass="Normal" translate="true">Access level of a project member</link><text styleclass="Normal" translate="true">. There are default level settings, but these can be changed both at the license level (new access levels will be available in all projects; requires SuperAdmin/Admin license role) and at the project level (requires Administrator project level access or equivalent). </text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">License owner</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Same as SuperAdmin, see the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Manage-Users" styleclass="Normal" translate="true">Managing Users</link><text styleclass="Normal" translate="true"> section.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Region/geography</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> cloud sharing architecture largely depends on geographical settings (team members using the same license have to choose the same geography within the program). This implementation option saves resources and ensures faster operation. Currently there are six key geographies: North America, Europe, South America, South East Asia, Australia. For China the service is offered as well, yet, it relies on different servers (due to the local legislation) </text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Synchronization</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> model is regularly synchronized with the cloud (or other shared storage location) to make sure that all users are on the same page, i.e. have the same view, sheets and same set of issues with their respective statuses and attached information. &#160;Synchronization can be scheduled.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:213px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Shared location</text></para>
+        </td>
+        <td style="width:1033px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Project deployment option when sensitive model data (3D and 2D) is not synchronized with the Cloud. Yet, metadata and issue are still uploaded to the Cloud to ensure collaboration. For more details see here.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; page-break-before:always; tabstops:none;"></para>
+  </body>
+</topic>

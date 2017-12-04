@@ -57,30 +57,6 @@
       <caption translate="true">Managing Notifications</caption>
     </topicref>
   </topicref>
-  <topicref type="topic" id="430092289959695" build="ALL" modified="2017-10-27T15:41:07.627Z" icon="0" href="Exporting-Files-to-Revizto">
-    <caption translate="true">Source Export to Revizto. Synchronization</caption>
-    <topicref type="topic" id="430137083871120" build="ALL" modified="2017-10-11T00:44:03.439Z" icon="0" href="From-Revit">
-      <caption translate="true">Revit</caption>
-    </topicref>
-    <topicref type="topic" id="430136537361845" build="ALL" modified="2017-10-11T00:44:08.828Z" icon="0" href="From-Navisworks">
-      <caption translate="true">Navisworks</caption>
-    </topicref>
-    <topicref type="topic" id="430144747157305" build="ALL" modified="2017-11-28T15:18:19.901Z" icon="0" href="From-AutoCad_ArchiCad">
-      <caption translate="true">AutoCad/ArchiCad/Civil3D</caption>
-    </topicref>
-    <topicref type="topic" id="43019934814738" build="ALL" modified="2017-10-11T00:44:28.849Z" icon="0" href="Rhinoceros-for-Windows">
-      <caption translate="true">Rhinoceros for Windows</caption>
-    </topicref>
-    <topicref type="topic" id="4300038670640" build="ALL" modified="2017-10-11T00:44:41.532Z" icon="0" href="SketchUp">
-      <caption translate="true">SketchUp</caption>
-    </topicref>
-    <topicref type="topic" id="430401215894496" build="ALL" modified="2017-10-31T23:08:54.005Z" icon="0" href="Import-from-IFC-and-FBX">
-      <caption translate="true">Import from IFC and FBX</caption>
-    </topicref>
-    <topicref type="topic" id="430535561272097" build="ALL" modified="2017-11-14T11:28:24.758Z" icon="0" href="Other-import-options">
-      <caption translate="true">Other import options</caption>
-    </topicref>
-  </topicref>
   <topicref type="topic" id="430144698487057" build="ALL" modified="2017-10-06T11:38:50.123Z" icon="0" href="Project-Management2">
     <caption translate="true">Project Management</caption>
     <topicref type="topic" id="430145626347429" build="ALL" modified="2017-10-06T11:39:42.425Z" icon="0" href="Creating-a-Project">
@@ -109,6 +85,30 @@
     </topicref>
     <topicref type="topic" id="430458449932060" build="ALL" modified="2017-11-06T21:49:05.743Z" icon="0" href="Offline-Use">
       <caption translate="true">Offline Use</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430092289959695" build="ALL" modified="2017-10-27T15:41:07.627Z" icon="0" href="Exporting-Files-to-Revizto">
+    <caption translate="true">Source Export to Revizto. Synchronization</caption>
+    <topicref type="topic" id="430137083871120" build="ALL" modified="2017-10-11T00:44:03.439Z" icon="0" href="From-Revit">
+      <caption translate="true">Revit</caption>
+    </topicref>
+    <topicref type="topic" id="430136537361845" build="ALL" modified="2017-10-11T00:44:08.828Z" icon="0" href="From-Navisworks">
+      <caption translate="true">Navisworks</caption>
+    </topicref>
+    <topicref type="topic" id="430144747157305" build="ALL" modified="2017-11-28T15:18:19.901Z" icon="0" href="From-AutoCad_ArchiCad">
+      <caption translate="true">AutoCad/ArchiCad/Civil3D</caption>
+    </topicref>
+    <topicref type="topic" id="43019934814738" build="ALL" modified="2017-10-11T00:44:28.849Z" icon="0" href="Rhinoceros-for-Windows">
+      <caption translate="true">Rhinoceros for Windows</caption>
+    </topicref>
+    <topicref type="topic" id="4300038670640" build="ALL" modified="2017-10-11T00:44:41.532Z" icon="0" href="SketchUp">
+      <caption translate="true">SketchUp</caption>
+    </topicref>
+    <topicref type="topic" id="430401215894496" build="ALL" modified="2017-10-31T23:08:54.005Z" icon="0" href="Import-from-IFC-and-FBX">
+      <caption translate="true">Import from IFC and FBX</caption>
+    </topicref>
+    <topicref type="topic" id="430535561272097" build="ALL" modified="2017-11-14T11:28:24.758Z" icon="0" href="Other-import-options">
+      <caption translate="true">Other import options</caption>
     </topicref>
   </topicref>
   <topicref type="topic" id="430185774195610" build="ALL" modified="2017-10-10T13:49:52.307Z" icon="0" href="Revizto-Application">
