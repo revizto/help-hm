@@ -7,7 +7,7 @@
         <export-tasks>
           <export-task name="Publish as PDF" format="PDF">
             <task-config-group name="settings">
-              <task-config-value name="outputfile">manual.pdf</task-config-value>
+              <task-config-value name="outputfile">faq_tsh.pdf</task-config-value>
               <task-config-value name="template">Classic_manual_short.mnl</task-config-value>
               <task-config-value name="highlighthotspots">0</task-config-value>
               <task-config-value name="exportcomments">0</task-config-value>
@@ -35,7 +35,7 @@
           </export-task>
           <export-task name="Publish as RTF" format="RTF">
             <task-config-group name="settings">
-              <task-config-value name="outputfile">.\Manual\RusGuard_Manual_manual.rtf</task-config-value>
+              <task-config-value name="outputfile">.\Manual\RusGuard_Manual_manual.docx</task-config-value>
               <task-config-value name="make5include">USER1,USER2,USER3</task-config-value>
               <task-config-value name="make5status">*</task-config-value>
             </task-config-group>
@@ -241,7 +241,7 @@
       <config-value name="insertseealso">1</config-value>
       <config-value name="linkcolor">16711680</config-value>
       <config-value name="ignoreblank">1</config-value>
-      <config-value name="outputfile">manual.pdf</config-value>
+      <config-value name="outputfile">faq_tsh.pdf</config-value>
       <config-value name="template">Classic_manual_short.mnl</config-value>
       <config-value name="compression">1</config-value>
       <config-value name="jpegquality">0</config-value>
@@ -276,7 +276,7 @@
           <config-value name="mapfileformat">0</config-value>
         </config-group>
       </config-group>
-      <config-value name="project.lastexport">4</config-value>
+      <config-value name="project.lastexport">5</config-value>
     </config-group>
     <config-group name="chm">
       <config-value name="outputfile">RusGuard_Manual.chm</config-value>
@@ -285,7 +285,7 @@
       <config-value name="skin">$(HMSYS)Templates\HTML Skins\CHM Skin, Light Grey Header, Feature Images.hmskin</config-value>
     </config-group>
     <config-group name="rtf">
-      <config-value name="outputfile">.\Manual\RusGuard_Manual_manual.rtf</config-value>
+      <config-value name="outputfile">.\Manual\RusGuard_Manual_manual.docx</config-value>
       <config-value name="papersize">A4 210 x 297 mm</config-value>
       <config-value name="pageorientation">Portrait</config-value>
       <config-value name="topmargin">720</config-value>
