@@ -44,7 +44,6 @@
     <para styleclass="Heading 2"><anchor id="proxy" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">Proxy Settings</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">If your company uses proxy server, you have to define its settings in </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true">. In log in window click the </text><text styleclass="GUI_item" translate="true">Proxy server settings</text><text styleclass="Normal" translate="true"> button in the right top coner of the screen and fill in all required information. </text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">See also </text><link displaytype="text" defaultstyle="true" type="topiclink" href="sysreqs" anchor="net_reqs" styleclass="Normal" translate="true">network requirements</link><text styleclass="Normal" translate="true">.</text></para>
-    <para styleclass="Normal"><conditional-text type="IFNOT" value="PDF"/><video src="https://www.youtube.com/v/0KtbXMvTL2I?rel=0" width="640px" height="360px" autostart="false" loop="false" showcontrols="true" playbutton="true" flashversion="6" previewimage="" scale="-100.00%" styleclass="Image Caption"><caption translate="true"><![CDATA[Installation Tutorial]]></caption></video><conditional-text type="END"/></para>
     <para styleclass="Heading 3"></para>
   </body>
 </topic>

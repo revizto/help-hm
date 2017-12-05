@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
 <topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title translate="true">Using the Web GUI</title>
+  <title translate="true">Using the Web Workspace</title>
   <body>
     <header>
-      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Using the Web GUI</text></para>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Using the Web Workspace</text></para>
     </header>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Each user (team member) has access to the web GUI where, depending on the access level, they can view or edit workspace and project settings, manage their personal profiles (account settings are available in Revizto as well).</text></para>
     <para styleclass="Note"><text styleclass="Note" translate="true">Note on regional settings: you cannot change your region. Any Revizto license is strictly linked to one of the specific geographies. You can change your language settings any time from the web GUI or in Revizto preferences.</text></para>

@@ -38,15 +38,15 @@
     <topicref type="topic" id="430089867500719" build="ALL" modified="2017-10-01T03:37:51.930Z" icon="0" href="License_monitoring">
       <caption translate="true">License Monitoring</caption>
     </topicref>
-    <topicref type="topic" id="430091924514971" build="ALL" modified="2017-10-05T13:32:18.205Z" icon="0" href="Interface-Tips">
-      <caption translate="true">Web Interface Tips</caption>
+    <topicref type="topic" id="430091924514971" build="ALL" modified="2017-12-05T04:46:53.156Z" icon="0" href="Interface-Tips">
+      <caption translate="true">Web GUI Tips</caption>
     </topicref>
   </topicref>
   <topicref type="topic" id="43014952613964" build="ALL" modified="2017-10-05T13:33:00.367Z" icon="0" href="Installation-and-Deployment">
     <caption translate="true">Installation and Deployment</caption>
   </topicref>
-  <topicref type="topic" id="430144948930184" build="ALL" modified="2017-10-13T04:27:55.577Z" icon="0" href="Using-the-Web-GUI">
-    <caption translate="true">Using the Web GUI</caption>
+  <topicref type="topic" id="430144948930184" build="ALL" modified="2017-12-05T04:46:47.157Z" icon="0" href="Using-the-Web-GUI">
+    <caption translate="true">Using the Web Workspace</caption>
     <topicref type="topic" id="430144011018100" build="ALL" modified="2017-10-06T09:52:30.304Z" icon="0" href="My-Projects">
       <caption translate="true">My Projects</caption>
     </topicref>
