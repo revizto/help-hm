@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Creating and Managing Project Team</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Creating and Managing Project Team</text></para>
+    </header>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To invite a user to a project from the Web GUI:</text></para>
+    <list id="12" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Log in to your workspace.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Navigate to the </text><text styleclass="GUI_item" translate="true">Private Sharing </text><text styleclass="Procedure" translate="true">view (</text><text styleclass="GUI_item" translate="true">Manage Projects </text><text styleclass="Procedure" translate="true">&gt; choose a project).</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Enter a valid email address of a person you want to invite. Choose an access level in the </text><text styleclass="GUI_item" translate="true">Set Access Level</text><text styleclass="Procedure" translate="true"> field.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the </text><text styleclass="GUI_item" translate="true">Invite </text><text styleclass="Procedure" translate="true">button. </text></li>
+    </list>
+    <para styleclass="Procedure"><text styleclass="Procedure" translate="true">The user will then receive an invitation email from Revizto and will able to download Revizto and join the project.</text></para>
+    <para styleclass="img_display"><image src="invite_users_web.png" scale="60.00%" width="593" height="348" styleclass="img_display"></image></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To invite a user from </text><var styleclass="Procedure Heading">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure Heading" translate="true"> application:</text></para>
+    <list id="13" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Open your project in </text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true">. Navigate to the </text><text styleclass="GUI_item" translate="true">Share</text><text styleclass="Procedure" translate="true"> menu.</text></li>
+    </list>
+    <para styleclass="img_display"><image src="invite_users_local.png" scale="60.00%" width="647" height="297" styleclass="img_display"></image></para>
+    <list id="13" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Enter email of the person you want to invite to the project into the entry field. You can enter multiple email addresses, if you plan to give several users the same </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Managing-Project-Access-Rights" styleclass="Procedure" translate="true">access level</link><text styleclass="Procedure" translate="true">.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Choose project access level for the user in the </text><text styleclass="GUI_item" translate="true">Set Access Level</text><text styleclass="Procedure" translate="true"> list. Note that you can create custom access level, if you have administrator rights (see </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Managing-Project-Access-Rights" styleclass="Procedure" translate="true">Managing Project Access Rights</link><text styleclass="Procedure" translate="true">).</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click </text><text styleclass="GUI_item" translate="true">Invite</text><text styleclass="Procedure" translate="true">. The invited users will receive email notifications to join the projects. Note that if new project members are not in your current </text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true"> team, they will automatically get Collaborator or Guest </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Manage-Users" anchor="license_roles" styleclass="Procedure" translate="true">license role</link><text styleclass="Procedure" translate="true">.</text></li>
+    </list>
+  </body>
+</topic>

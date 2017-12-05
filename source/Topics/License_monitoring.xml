@@ -17,7 +17,7 @@
     <para styleclass="Normal"><text styleclass="Normal" translate="true">An Excel version contains the total number of members and their names, project owner, project tags, time of the last activity within the project. The &#160;chart is also included.</text></para>
     <para styleclass="Note"><text styleclass="Note" style="font-weight:bold;" translate="true">Tip</text><text styleclass="Note" translate="true">: To build a chart for activity of specific users within a specific project, tag those users and create a preset.</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">The </text><text styleclass="GUI_item" translate="true">License Dashboard</text><text styleclass="Normal" translate="true"> tab shows how many project and user licenses are now used.</text></para>
-    <para styleclass="Image Caption"><image src="lc_act_chart.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="img_display"><image src="lc_act_chart.png" scale="100.00%" styleclass="img_display"></image></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Activity charts for separate users/projects are built in a similar way with relevant filtration options.</text></para>
   </body>
 </topic>
