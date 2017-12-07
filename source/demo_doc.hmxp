@@ -796,7 +796,6 @@ document.write('</frameset>');
       <helpcontext-number href="Exporting-Files-to-Revizto#export_scheduler" value="68"/>
       <helpcontext-number href="Exporting-Files-to-Revizto#export_scheduling" value="85"/>
       <helpcontext-number href="Exporting-Files-to-Revizto#general" value="70"/>
-      <helpcontext-number href="Exporting-Files-to-Revizto#sync" value="93"/>
       <helpcontext-number href="FAQ" value="15"/>
       <helpcontext-number href="FAQ#appending" value="69"/>
       <helpcontext-number href="FAQ#turn_off_upd" value="45"/>

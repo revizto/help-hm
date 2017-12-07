@@ -55,7 +55,6 @@ hmContextIds["20170823"]="exporting-files-to-revizto.htm";
 hmContextIds["70"]="exporting-files-to-revizto.htm#general";
 hmContextIds["85"]="exporting-files-to-revizto.htm#export_scheduling";
 hmContextIds["68"]="exporting-files-to-revizto.htm#export_scheduler";
-hmContextIds["93"]="exporting-files-to-revizto.htm#sync";
 hmContextIds["12"]="from-revit.htm";
 hmContextIds["74"]="from-revit.htm#revit_options";
 hmContextIds["53"]="from-revit.htm#sheet_export_revit";
