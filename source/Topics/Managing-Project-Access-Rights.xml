@@ -22,7 +22,7 @@
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Repeat steps 3-4 of the procedure provided for the Web GUI </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Project-Management" anchor="project_access_level" styleclass="Procedure" translate="true">access rights editor</link><text styleclass="Procedure" translate="true"> (the interface form is similar to that in the Web GUI). Note that you have to be the project owner, or license level Administrator/SuperAdmin to edit project access rights. </text></li>
     </list>
     <para styleclass="img_display"><image src="rights_in_Revizto.png" scale="60.00%" width="616" height="480" styleclass="img_display"></image></para>
-    <para styleclass="attention"><text styleclass="attention" translate="true">Note that even a project administrator cannot edit their own access rights. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Note that even a project administrator cannot edit their own access rights. </text></para>
     <para styleclass="Normal" style="text-align:center;"></para>
   </body>
 </topic>
