@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Source Export to Revizto. Synchronization</title>
+  <keywords>
+    <keyword translate="true">Export Schedule</keyword>
+    <keyword translate="true">Scheduler</keyword>
+    <keyword translate="true">Source Export</keyword>
+    <keyword translate="true">Synchronization</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Source Export to Revizto</text></para>
+    </header>
+    <para styleclass="Heading 2"><anchor id="general" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">General Procedure</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">In general, all supported source files are exported to </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> according to a standard four-step procedure implemented via the </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> plugin. Particularities of specific BIM tools are described in the following sections.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Most part of the source BIM software supports </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> plug-ins (or addons) with similar menus. As a rule, plug-ins are installed automatically into the source software, but in some cases you have to install them manually (see further). </text></para>
+    <para styleclass="Image Caption"><image src="revizto_plugin.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="attention"><text styleclass="attention" style="font-weight:bold;" translate="true">Important</text><text styleclass="attention" translate="true">: </text><var styleclass="attention">&lt;%BRAND_NAME%&gt;</var><text styleclass="attention" translate="true"> only supports 3D objects, so if your source project contains any lines these will not be exported. Make sure that your export view uses 3D objects.</text></para>
+    <para styleclass="Procedure Heading"><snippet src="Exporting-Files-to-Revizto_general" inline="false"/></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Relinking Projects</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">You can export one source to multiple </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> projects. To relink your source, click the </text><text styleclass="GUI_item" translate="true">Link Settings</text><text styleclass="Normal" translate="true"> button of the </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> plug-in. It initiates the dialog which allows you either to create a new project or to link your file to an existing one (i.e. to change the link).</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">If you decide to create an export schedule, you can redefine export options again. </text></para>
+    <para styleclass="Heading 2"><anchor id="export_scheduling" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">Export Scheduling</text></para>
+    <para styleclass="Note"><text styleclass="Note" translate="true">Note that the scheduling option is unavailable to users with view and collaborate level access.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Project export schedules are built in</text><text styleclass="Bullet_1" translate="true"> relevant &#160;</text><var styleclass="Bullet_1">&lt;%BRAND_NAME%&gt;</var><text styleclass="Bullet_1" translate="true"> plug-ins and can then be managed in &#160;</text><var styleclass="Bullet_1">&lt;%BRAND_NAME%&gt;</var><text styleclass="Bullet_1" translate="true"> Export Scheduler Application. </text></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Creating a Schedule in </text><var styleclass="Heading 3">&lt;%BRAND_NAME%&gt;</var><text styleclass="Heading 3" translate="true"> Plug-in</text></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To create an export schedule:</text></para>
+    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Open the plugin in the relevant source program.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the </text><text styleclass="GUI_item" translate="true">Export Scheduler</text><text styleclass="Procedure" translate="true"> button. The schedule builder loads in a pop-up.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Redefine export options and relink the source, if needed.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Create the export schedule. You can choose several days of the week and define time (the same for all days).</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Note that if the project has been earlier shared and uploaded to the cloud, the Upload to the cloud checkbox appears in the form. Activate it to synchronize your project at each export.</text></li>
+    </list>
+    <para styleclass="Procedure"><text styleclass="Procedure" translate="true">Note that if synchronization settings are also defined in </text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true">, they are updated according to the latest modification (the reverse will be true).</text></para>
+    <list id="4" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="6" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click </text><text styleclass="GUI_item" translate="true">OK</text><text styleclass="Procedure" translate="true"> to save you settings. The new schedule is applied to the project and becomes available in the Export Scheduler Application that contains information on all export schedules for a license.</text></li>
+    </list>
+    <para styleclass="Image Caption"><image src="schedule_1.png" scale="100.00%" styleclass="Image Caption"><title translate="true">schedule_1.png</title></image></para>
+    <para styleclass="Heading 3"><anchor id="export_scheduler" styleclass="Heading 3"></anchor><text styleclass="Heading 3" translate="true">Export Scheduler Application</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">The Export Scheduler Application displays all active export schedules. It can only be used when at least one schedule is created from a </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> plug-in. Existing schedules are listed in the application with the source file and target </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> project names indicated.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">You can use the Export Scheduler to:</text></para>
+    <list id="5" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">run an export immediately for the selected &#160;schedule (click </text><text styleclass="GUI_item" translate="true">Run</text><text styleclass="Bullet_1" translate="true">)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">unschedule an export for the selected &#160; schedule (click </text><text styleclass="GUI_item" translate="true">Unschedule</text><text styleclass="Bullet_1" translate="true">)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">skip the nearest export for the selected &#160;schedule (click </text><text styleclass="GUI_item" translate="true">Skip</text><text styleclass="Bullet_1" translate="true">)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">change schedule for the selected &#160; schedule (use the </text><text styleclass="GUI_item" translate="true">Scheduler</text><text styleclass="Bullet_1" translate="true"> area)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">redefine export settings for the selected schedule (click </text><text styleclass="GUI_item" translate="true">Settings</text><text styleclass="Bullet_1" translate="true"> to access the source file and relevant Revizto plug-in)</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="export-scheduler-app.png" scale="60.00%" width="679" height="370" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Note that even if two sources are scheduled to be exported at the same time, they are not exported simultaneously, but in turns. </text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="export_scheduler_progress.png" scale="60.00%" width="677" height="370" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">When export time comes, the application launches and displays the progress and statuses. </text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="export-scheduler-progress2.png" scale="60.00%" width="678" height="370" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
