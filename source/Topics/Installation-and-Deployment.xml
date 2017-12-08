@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
 <topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title translate="true">Installation and Deployment</title>
+  <title translate="true">Local Installation and Deployment</title>
   <meta name="DESCRIPTION" translate="true" value="Installation of Revizto" />
   <keywords>
     <keyword translate="true">Installation</keyword>
   </keywords>
   <body>
     <header>
-      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Installation and Deployment</text></para>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Local Installation and Deployment</text></para>
     </header>
     <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Local Installation. Windows</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">When a team license is issued to a customer, owner credentials are supplied by </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true">. Further configuration is performed at the customer side according to their business process and preferences.</text></para>
@@ -17,7 +17,7 @@
     <para styleclass="Normal"><text styleclass="Normal" translate="true">To install the software suite, you have to either be the license owner who obtains the download link from </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true">, or a license user invited directly to the team or to one of its projects. The distribution package includes all </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> components (</text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> application and VR viewers, scheduler, plug-ins). The installation wizard installs </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> and viewers, and allows the user to select optional components.</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Note that you will be able to install additional components anytime later (e.g. plug-ins) by launching the installer and choose the </text><text styleclass="GUI_item" translate="true">Modify</text><text styleclass="Normal" translate="true"> option.</text></para>
     <para styleclass="img_display"><image src="ins_opt_comp.png" scale="100.00%" styleclass="img_display"><title translate="true">ins_opt_comp.png</title></image></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Generally, source editors need Revizto and plug-ins for software they work with (most popular ware Revit and Navisworks); collaborators on the customer (or management) side need Revizto and viewers. Thus, customers can review the model in a preferable display format, create issues and track them.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Generally, source editors need </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> app and plug-ins for software they work with (most popular ware Revit and Navisworks); collaborators on the customer (or management) side need </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> &#160;app. Thus, customers can review the model in a preferable display format, create issues and track them.</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Also you can select your language and which shortcuts you want on your desktop.</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">The Wizard asks user permission to install certUtil.exe. It is safe to install this element and it is recommended to. It installs certificates that ensures smooth interaction with Revit and AutoCad (otherwise you will have to confirm that you want to use the plug-in any time you launch it).</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">From this point onwards the procedure is quite standard; just follow the wizard.</text></para>
