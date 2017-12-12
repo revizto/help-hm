@@ -114,6 +114,7 @@
     <para styleclass="Normal"><text styleclass="Normal" translate="true">You can also use a range of filters to quicker find sheets that you want to export.</text></para>
     <para styleclass="Image Caption"><image src="export_sheets.png" scale="100.00%" styleclass="Image Caption"></image></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Note that the list of available filters is not strictly defined and depends on properties available in the source file.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">To accelerate export, you can use parallel sheet export.</text></para>
     <para styleclass="Image Caption"><image src="sheet_export_another_filter_list.png" scale="100.00%" styleclass="Image Caption"></image></para>
     <para styleclass="warning"><text styleclass="warning" style="font-weight:bold;" translate="true">Warning</text><text styleclass="warning" translate="true">: Make sure to export sheets without rotation. &#160;Otherwise </text><var styleclass="warning">&lt;%BRAND_NAME%&gt;</var><text styleclass="warning" translate="true"> will be unable to properly align them with the 3D model.</text></para>
     <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Exporting Selection</text></para>
