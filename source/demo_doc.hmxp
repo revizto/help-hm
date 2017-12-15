@@ -194,7 +194,7 @@
       <config-value name="lcid" translate="true">en-us</config-value>
       <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
       <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000; </config-value>
-      <config-value name="autohelpstart">94</config-value>
+      <config-value name="autohelpstart">100</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
       <config-value name="searchpath">.\images\;.\Topics\</config-value>
@@ -857,6 +857,7 @@ document.write('</frameset>');
       <helpcontext-number href="Scene-Editor" value="60"/>
       <helpcontext-number href="Shared-Location-iPad-Connector" value="58"/>
       <helpcontext-number href="SketchUp" value="37"/>
+      <helpcontext-number href="Suggested-Implementation-Task-" value="100"/>
       <helpcontext-number href="sysreqs" value="11"/>
       <helpcontext-number href="sysreqs#net_reqs" value="92"/>
       <helpcontext-number href="Troubleshooting" value="16"/>
