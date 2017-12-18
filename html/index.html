@@ -26,8 +26,6 @@
         }
       }
     }
-document.write('<frameset rows="130,*" frameborder="1" framespacing="1">');
-document.write('<frame name="hmheader" marginwidth="0" marginheight="0" scrolling="Yes" noresize src="http://www.rtcevents.com/bilt/wp-content/uploads/Revizto-logo_horizontal.png" title="Header">');
 document.write('<frameset cols="25%,*" frameborder="1" framespacing="1">');
 if (document.getElementById) {
   document.write('<frame name="hmnavigation" src="hmcontent.htm" title="Navigation frame">'); }
@@ -35,20 +33,16 @@ else {
   document.write('<frame name="hmnavigation" src="hmcontent.htm" title="Navigation frame">'); }
 document.write('<frame name="hmcontent" src="' + defaulttopic + '" title="Content frame">');
 document.write('</frameset>');
-document.write('</frameset>');
 //-->
 </script>
 </head>
 <noscript>
-  <frameset rows="130,*" frameborder="1" framespacing="1">
-  <frame name="hmheader" marginwidth="0" marginheight="0" scrolling="Yes" noresize src="http://www.rtcevents.com/bilt/wp-content/uploads/Revizto-logo_horizontal.png" title="Header">
   <frameset cols="25%,*" frameborder="1" framespacing="1">
     <frame name="hmnavigation" src="hmcontent.htm" title="Navigation frame">
     <frame name="hmcontent" src="introduction.htm" title="Content frame">
     <noframes>
       This page requires frames<br><a href="hmcontent.htm">Click here to view the table of contents without frames</a>
     </noframes>
-  </frameset>
   </frameset>
 </noscript>
 </html>
