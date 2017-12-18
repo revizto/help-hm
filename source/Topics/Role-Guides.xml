@@ -10,6 +10,10 @@
       <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Workflow &amp; Role Guides</text></para>
     </header>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">This chapter provides concise </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> user road-maps with regards to their license roles. If reading the web version, click on each step, to expand detailed guidelines. To get function-based guidelines, navigate to the following chapters (see the TOC). </text></para>
+    <para styleclass="Heading 2"><var styleclass="Heading 2">&lt;%BRAND_NAME%&gt;</var><text styleclass="Heading 2" translate="true"> Project vs. Traditional Project</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">The charts below illustrate how </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> ensures/facilitates collaboration at critical stages of a BIM project. If correctly implemented, </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> allows streamlining project coordination, accelerates it and reduces the number of errors caused by misunderstanding, loss of contact, misinforming, etc.</text></para>
+    <para styleclass="img_display"><image src="Traditional_project.png" scale="60.00%" width="813" height="457" styleclass="img_display"></image></para>
+    <para styleclass="img_display"><image src="Revizto_project.png" scale="60.00%" width="814" height="437" styleclass="img_display"></image></para>
     <para styleclass="Heading 2"></para>
   </body>
 </topic>
