@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+   <title>Issue Clusterization</title>
+   <meta name="generator" content="Help &amp; Manual" />
+   <meta name="keywords" content="Clusterization,Clusters" />
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+   
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+   <meta name="description" content="In 2D views issues located at distance from 0 to 100 pixels from one another can be viewed and managed as clusters. It increases review flexibility, allows grouping issues by..." />
+   <meta name="picture" content="" />
+   <link type="text/css" href="default.css" rel="stylesheet" />
+   <style type="text/css">
+     body { margin: 0px; background: #FFFFFF; }
+   </style>
+   <script type="text/javascript" src="jquery.js"></script>
+   <script type="text/javascript" src="helpman_settings.js"></script>
+   <script type="text/javascript" src="helpman_topicinit.js"></script>
+
+   <script type="text/javascript">
+     HMSyncTOC("index.html", "issue-clusterization.htm");
+   </script>
+</head>
+<body>
+
+
+<table style="width:100%; border:none; border-spacing:0px; padding:5px; background:#D0D0D0">
+  <tr style="vertical-align:middle">
+    <td style="text-align:left">
+      <h1 class="p_Heading1"><span class="f_Heading1">Issue Clusterization</span></h1>
+
+    </td>
+    <td style="text-align:right">
+     <a href="introduction.htm">Top</a>&nbsp;
+     <a href="2d-elements-and-controls.htm">Previous</a>&nbsp;
+     <a href="view-modes.htm">Next</a>
+    </td>
+  </tr>
+</table>
+
+
+<!-- Placeholder for topic body. -->
+<table style="width:100%;border:none;border-spacing:0px"><tr style="vertical-align:top"><td style="text-align:left;padding:5px">
+<p class="p_Normal">In 2D views issues located at distance from 0 to 100 pixels from one another can be viewed and managed as clusters. It increases review flexibility, allows grouping issues by locations.</p>
+<p class="p_ProcedureHeading"><span class="f_ProcedureHeading">To display clusters from 2D:</span></p>
+<p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 20px; margin: 0px 0px 5px 29px;"><span style="font-size:11pt; font-family: 'Calibri';color:#000000;display:inline-block;width:20px;margin-left:-20px">1.</span><span class="f_Procedure">Navigate to the 2D view. When you first time open the 2D view, all issues visible on a sheet are displayed separately (we assume that no filters are applied either). </span></p><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 20px; margin: 0px 0px 5px 29px;"><span style="font-size:11pt; font-family: 'Calibri';color:#000000;display:inline-block;width:20px;margin-left:-20px">2.</span><span class="f_Procedure">Use the clusterization slider at the bottom of page to build clusters (by default it is set to clusterize issues located at 35 pixels from one another or less)</span></p><p class="p_Procedure"><span class="f_Procedure">Revizto stores your clusterization settings in the local registry. So whenever you reopen the project, you can see your cluster settings. Each cluster pin indicates the number of issues in it and statuses. </span></p>
+<p class="p_Procedure" style="text-align: center;"><img width="722" height="488" style="margin:0px auto 0px auto;width:722px;height:488px;border:none" src="clusters_main.png"/></p>
+<p class="p_Normal">When you click on a cluster pin, Revizto displays the Issue Tracker for the active cluster only (2D view).</p>
+<p class="p_Normal" style="text-align: center;"><img width="722" height="488" style="margin:0px auto 0px auto;width:722px;height:488px;border:none" src="cluster_selected_in_tracker.png"/></p>
+<p class="p_ProcedureHeading"><span class="f_ProcedureHeading">To display cluster from the Issue Tracker:</span></p>
+<p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 20px; margin: 0px 0px 5px 29px;"><span style="font-size:11pt; font-family: 'Calibri';color:#000000;display:inline-block;width:20px;margin-left:-20px">1.</span><span class="f_Procedure">Open the Issue Tracker. By default all issues are displayed separately (we assume that no filters are applied either).</span></p><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 20px; margin: 0px 0px 5px 29px;"><span style="font-size:11pt; font-family: 'Calibri';color:#000000;display:inline-block;width:20px;margin-left:-20px">2.</span><span class="f_Procedure">Navigate to the 2D mode.</span></p><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 20px; margin: 0px 0px 5px 29px;"><span style="font-size:11pt; font-family: 'Calibri';color:#000000;display:inline-block;width:20px;margin-left:-20px">3.</span><span class="f_Procedure">Use the clusterization slider to group neighboring issues.</span></p><p class="p_Heading2"><span class="f_Heading2">Filtration and Clusterization</span></p>
+<p class="p_Normal">If no filters are applied before clusterization, cluster settings then have priority over filters. </p>
+<p class="p_Normal">For example, if your current cluster has no Solved issues and you try filtering the view by Solved issues, the filter will display no issues on the right and suggest changing settings (even if you have Solved issues outside the cluster).</p>
+<p class="p_Normal">Yet, if you first apply one or multiple filters, you can then use clusterization to group the pre-selected issues into clusters. </p>
+<p class="p_Normal">For example, you can filter issues by status (e.g. Closed) and then clusterize them (i.e. group by location), see the image below.</p>
+<p class="p_Normal" style="text-align: center;"><img width="778" height="448" style="margin:0px auto 0px auto;width:778px;height:448px;border:none" src="clusters_and_filters.png"/></p>
+<p class="p_Normal">&nbsp;</p>
+
+</td></tr></table>
+
+</body>
+</html>

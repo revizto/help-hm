@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude" defaulttopic="Introduction">
+  <topicref type="topic" id="412535212434522" build="ALL" modified="2017-10-01T03:51:10.247Z" icon="0" href="Introduction">
+    <caption translate="true">Intoroduction</caption>
+    <topicref type="topic" id="412533931291485" build="ALL" modified="2017-10-01T03:29:14.990Z" icon="0" href="sysreqs">
+      <caption translate="true">Technical requirements</caption>
+    </topicref>
+    <topicref type="topic" id="412533943714332" build="ALL" modified="2017-11-14T12:21:24.192Z" icon="0" href="Abbreviations">
+      <caption translate="true">Glossary</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430090748001303" build="ALL" modified="2017-11-14T11:34:25.689Z" icon="0" href="Role-Guides">
+    <caption translate="true">Workflow &amp; Role Guides</caption>
+    <topicref type="topic" id="430843877320026" build="ALL" modified="2017-12-15T12:55:12.847Z" icon="0" href="Suggested-Implementation-Task-">
+      <caption translate="true">Suggested Implementation Task List</caption>
+    </topicref>
+    <topicref type="topic" id="430090155077075" build="ALL" modified="2017-10-23T08:18:28.694Z" icon="0" href="License-Owner">
+      <caption translate="true">License Administrator</caption>
+    </topicref>
+    <topicref type="topic" id="430093575942866" build="ALL" modified="2017-10-09T04:48:21.706Z" icon="0" href="Project-Manager">
+      <caption translate="true">Project Manager</caption>
+    </topicref>
+    <topicref type="topic" id="430092885596750" build="ALL" modified="2017-10-05T13:28:08.777Z" icon="0" href="Content-author">
+      <caption translate="true">Content Editor</caption>
+    </topicref>
+    <topicref type="topic" id="430092295050164" build="ALL" modified="2017-10-13T04:25:43.155Z" icon="0" href="Reviewer">
+      <caption translate="true">Viewer/Collaborator</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430093570287213" build="ALL" modified="2017-10-01T03:34:17.088Z" icon="0" href="Licensing">
+    <caption translate="true">Licensing. Workspace Configuration and Management</caption>
+    <topicref type="topic" id="430092343760025" build="ALL" modified="2017-10-05T11:59:49.199Z" icon="0" href="Activation">
+      <caption translate="true">Activating License</caption>
+    </topicref>
+    <topicref type="topic" id="430093621256219" build="ALL" modified="2017-10-01T03:36:23.799Z" icon="0" href="Manage-Users">
+      <caption translate="true">Managing Users</caption>
+    </topicref>
+    <topicref type="topic" id="430090358747983" build="ALL" modified="2017-12-08T07:38:50.311Z" icon="0" href="Project-Management">
+      <caption translate="true">Administrating Projects</caption>
+    </topicref>
+    <topicref type="topic" id="430089867500719" build="ALL" modified="2017-10-01T03:37:51.930Z" icon="0" href="License_monitoring">
+      <caption translate="true">License Monitoring</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430144948930184" build="ALL" modified="2017-12-08T07:42:45.090Z" icon="0" href="Using-the-Web-GUI">
+    <caption translate="true">Using the Web Workspace</caption>
+    <topicref type="topic" id="430144011018100" build="ALL" modified="2017-10-06T09:52:30.304Z" icon="0" href="My-Projects">
+      <caption translate="true">My Projects</caption>
+    </topicref>
+    <topicref type="topic" id="430143319475775" build="ALL" modified="2017-10-06T09:51:58.627Z" icon="0" href="Managing-User-Profile">
+      <caption translate="true">Managing User Profile</caption>
+    </topicref>
+    <topicref type="topic" id="429936055817" build="ALL" modified="2017-10-06T09:51:48.456Z" icon="0" href="Managing-Notifications">
+      <caption translate="true">Managing Notifications</caption>
+    </topicref>
+    <topicref type="topic" id="430091924514971" build="ALL" modified="2017-12-05T04:46:53.156Z" icon="0" href="Interface-Tips">
+      <caption translate="true">Web GUI Tips</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="43014952613964" build="ALL" modified="2017-12-08T07:37:18.244Z" icon="0" href="Installation-and-Deployment">
+    <caption translate="true">Local Installation and Deployment</caption>
+  </topicref>
+  <topicref type="topic" id="430144698487057" build="ALL" modified="2017-10-06T11:38:50.123Z" icon="0" href="Project-Management2">
+    <caption translate="true">Project Management</caption>
+    <topicref type="topic" id="430145626347429" build="ALL" modified="2017-10-06T11:39:42.425Z" icon="0" href="Creating-a-Project">
+      <caption translate="true">Creating a Project</caption>
+    </topicref>
+    <topicref type="topic" id="430144045773598" build="ALL" modified="2017-10-06T11:43:56.305Z" icon="0" href="Creating-and-Managing-Project-">
+      <caption translate="true">Creating and Managing Project Team</caption>
+    </topicref>
+    <topicref type="topic" id="430189348410264" build="ALL" modified="2017-10-10T18:57:18.017Z" icon="0" href="Managing-Project-Access-Rights">
+      <caption translate="true">Managing Project Access Rights</caption>
+    </topicref>
+    <topicref type="topic" id="430136681765252" build="ALL" modified="2017-10-06T11:45:09.882Z" icon="0" href="Issue-LifeCycle">
+      <caption translate="true">Issue Management (Collaboration)</caption>
+    </topicref>
+    <topicref type="topic" id="430143528497075" build="ALL" modified="2017-10-06T11:47:27.378Z" icon="0" href="Collaborator-Reports">
+      <caption translate="true">Collaborator Reports</caption>
+    </topicref>
+    <topicref type="topic" id="430183724311347" build="ALL" modified="2017-10-27T06:34:38.804Z" icon="0" href="Version-Control">
+      <caption translate="true">Project Versioning</caption>
+    </topicref>
+    <topicref type="topic" id="430614014346872" build="ALL" modified="2017-11-22T11:45:39.179Z" icon="0" href="quitting_project">
+      <caption translate="true">Quitting a project</caption>
+    </topicref>
+    <topicref type="topic" id="430408294602678" build="ALL" modified="2017-11-01T21:29:57.712Z" icon="0" href="Copying-a-Project">
+      <caption translate="true">Copying a Project</caption>
+    </topicref>
+    <topicref type="topic" id="430458449932060" build="ALL" modified="2017-11-06T21:49:05.743Z" icon="0" href="Offline-Use">
+      <caption translate="true">Offline Use</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430092289959695" build="ALL" modified="2017-10-27T15:41:07.627Z" icon="0" href="Exporting-Files-to-Revizto">
+    <caption translate="true">Source Export to Revizto. Synchronization</caption>
+    <topicref type="topic" id="430137083871120" build="ALL" modified="2017-10-11T00:44:03.439Z" icon="0" href="From-Revit">
+      <caption translate="true">Revit</caption>
+    </topicref>
+    <topicref type="topic" id="430136537361845" build="ALL" modified="2017-10-11T00:44:08.828Z" icon="0" href="From-Navisworks">
+      <caption translate="true">Navisworks</caption>
+    </topicref>
+    <topicref type="topic" id="430144747157305" build="ALL" modified="2017-11-28T15:18:19.901Z" icon="0" href="From-AutoCad_ArchiCad">
+      <caption translate="true">AutoCad/ArchiCad/Civil3D</caption>
+    </topicref>
+    <topicref type="topic" id="43019934814738" build="ALL" modified="2017-10-11T00:44:28.849Z" icon="0" href="Rhinoceros-for-Windows">
+      <caption translate="true">Rhinoceros for Windows</caption>
+    </topicref>
+    <topicref type="topic" id="4300038670640" build="ALL" modified="2017-10-11T00:44:41.532Z" icon="0" href="SketchUp">
+      <caption translate="true">SketchUp</caption>
+    </topicref>
+    <topicref type="topic" id="430401215894496" build="ALL" modified="2017-10-31T23:08:54.005Z" icon="0" href="Import-from-IFC-and-FBX">
+      <caption translate="true">Import from IFC and FBX</caption>
+    </topicref>
+    <topicref type="topic" id="430535561272097" build="ALL" modified="2017-11-14T11:28:24.758Z" icon="0" href="Other-import-options">
+      <caption translate="true">Other import options</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430185774195610" build="ALL" modified="2017-10-10T13:49:52.307Z" icon="0" href="Revizto-Application">
+    <caption translate="true">Revizto Application</caption>
+    <topicref type="topic" id="430242831448933" build="ALL" modified="2017-10-16T09:14:57.935Z" icon="0" href="GUI-Overview">
+      <caption translate="true">GUI Overview</caption>
+    </topicref>
+    <topicref type="topic" id="430244004550145" build="ALL" modified="2017-10-18T10:54:44.694Z" icon="0" href="Browsing-modes">
+      <caption translate="true">Browsing and Hot Keys</caption>
+    </topicref>
+    <topicref type="topic" id="430191693580078" build="ALL" modified="2017-11-08T06:51:39.921Z" icon="0" href="Model-Elements-and-Controls">
+      <caption translate="true">3D Elements, Controls and Options</caption>
+    </topicref>
+    <topicref type="topic" id="430245261322439" build="ALL" modified="2017-11-08T06:51:51.477Z" icon="0" href="2D-Elements-and-Controls">
+      <caption translate="true">2D Elements, Controls, Options</caption>
+    </topicref>
+    <topicref type="topic" id="430184587901783" build="ALL" modified="2017-10-10T13:53:42.425Z" icon="0" href="View-modes">
+      <caption translate="true">Visual Effects</caption>
+    </topicref>
+    <topicref type="topic" id="43022864967676" build="ALL" modified="2017-10-15T17:03:57.233Z" icon="0" href="Preferences">
+      <caption translate="true">Preferences</caption>
+    </topicref>
+    <topicref type="topic" id="430187883994857" build="ALL" modified="2017-10-10T18:07:07.688Z" icon="0" href="Project-Optimization">
+      <caption translate="true">Project Optimization</caption>
+    </topicref>
+    <topicref type="topic" id="430185441952384" build="ALL" modified="2017-10-10T14:13:25.903Z" icon="0" href="Export-from-Revizto">
+      <caption translate="true">Export from Revizto</caption>
+    </topicref>
+    <topicref type="topic" id="430213629385278" build="ALL" modified="2017-10-13T04:51:29.711Z" icon="0" href="Local-Profile-Management">
+      <caption translate="true">Local Profile Management</caption>
+    </topicref>
+    <topicref type="topic" id="430269206505188" build="ALL" modified="2017-10-18T21:34:38.937Z" icon="0" href="Scene-Editor">
+      <caption translate="true">Scene Editor</caption>
+    </topicref>
+    <topicref type="topic" id="430892811214242" build="ALL" modified="2017-12-20T03:10:01.012Z" icon="0" href="Uninstalling-Revizto">
+      <caption translate="true">Uninstalling Revizto</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430270226225512" build="ALL" modified="2017-11-10T05:02:36.649Z" icon="0" href="Additional-Revizto-Components">
+    <caption translate="true">Additional Revizto Components</caption>
+    <topicref type="topic" id="430269811446656" build="ALL" modified="2017-11-16T08:55:02.580Z" icon="0" href="Shared-Location-iPad-Connector">
+      <caption translate="true">Shared Location iPad Connector</caption>
+    </topicref>
+    <topicref type="topic" id="430280841265085" build="ALL" modified="2017-10-20T06:18:58.511Z" icon="0" href="Revizto-Console">
+      <caption translate="true">Revizto Console</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430491923563315" build="ALL" modified="2017-11-10T05:02:46.670Z" icon="0" href="VR-Options">
+    <caption translate="true">VR Options</caption>
+  </topicref>
+  <topicref type="topic" id="430137438263638" build="ALL" modified="2017-10-05T13:28:24.986Z" icon="0" href="FAQ">
+    <caption translate="true">FAQ</caption>
+  </topicref>
+  <topicref type="topic" id="430134805534268" build="ALL" modified="2017-10-13T05:40:58.817Z" icon="0" href="Troubleshooting">
+    <caption translate="true">Troubleshooting and Support</caption>
+  </topicref>
+</map>

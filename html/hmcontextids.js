@@ -87,6 +87,7 @@ hmContextIds["54"]="2d-elements-and-controls.htm#image_overlay";
 hmContextIds["98"]="2d-elements-and-controls.htm#2d_ruler";
 hmContextIds["66"]="2d-elements-and-controls.htm#versioning";
 hmContextIds["84"]="2d-elements-and-controls.htm#importing_sheets";
+hmContextIds["103"]="issue-clusterization.htm";
 hmContextIds["30"]="view-modes.htm";
 hmContextIds["43"]="preferences.htm";
 hmContextIds["63"]="preferences.htm#navigation";
