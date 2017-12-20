@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Uninstalling Revizto</title>
+  <keywords>
+    <keyword translate="true">Uninstall</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Uninstalling Revizto</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">To uninstall </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> either use the standard OS functionality accessible via the Windows Control panel, or launch the &#160;</text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> uninstall wizard.</text></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

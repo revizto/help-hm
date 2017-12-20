@@ -7,38 +7,38 @@
     <header>
       <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Suggested Implementation Task List</text></para>
     </header>
-    <list id="43" type="ol" listtype="decimal" formatstring="&#37;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
-      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Develop Workflow for </text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true"> in organization and/or project.</text></li>
-      <list id="43" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Calibri; font-size:11pt; color:#000000;">
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Develop a Workflow for </text><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true"> in organization and/or project.</text></li>
+      <list id="1" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Calibri; font-size:11pt; color:#000000;">
         <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Compile documentation on current workflow, analyze how the capability </text><var styleclass="Bullet_3">&lt;%BRAND_NAME%&gt;</var><text styleclass="Bullet_3" translate="true"> provides will change the workflow.</text></li>
         <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Create revised workflow to clearly illustrate the changes that will occur regarding communication and design review</text></li>
         <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Provide an overview/learning session regarding the workflow changes to all that will be affected by this implementation.</text></li>
       </list>
     </list>
-    <list id="43" type="ol" listtype="decimal" formatstring="&#37;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Plan and Create any IT related resources needed for desired setup</text></li>
-      <list id="43" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <list id="1" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Calibri; font-size:11pt; color:#000000;">
         <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Create Installation package from Revizto .MSI or use .MSI for direct install.</text></li>
       </list>
     </list>
     <para styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">(</text><link displaytype="text" defaultstyle="true" type="topiclink" href="" styleclass="Bullet_3" translate="true">https://technet.microsoft.com/en-us/library/gg682159.aspx</link><text styleclass="Bullet_3" translate="true">) – link for SCCM package creation from .MSI installer</text></para>
-    <list id="43" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Calibri; font-size:11pt; color:#000000;">
+    <list id="1" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Create a plan for using the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Exporting-Files-to-Revizto" anchor="export_scheduler" styleclass="Bullet_3" translate="true">Export Scheduler</link><text styleclass="Bullet_3" translate="true">.</text></li>
       <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Gather any resources needed for implementing the scheduler such as having a Virtual Machine created or blocking of space on the server for the installation of your authoring tools plus Revizto.</text></li>
       <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Test the Export Scheduler setup and confirm it is operating according the plan established.</text></li>
     </list>
-    <list id="43" type="ol" listtype="decimal" formatstring="&#37;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Procedure"><var styleclass="Procedure">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure" translate="true"> Configuration and Administration Setup</text></li>
-      <list id="43" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <list id="1" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Calibri; font-size:11pt; color:#000000;">
         <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Evaluate the amount of licensing needed</text></li>
         <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Assemble list of participants in company/project with email addresses</text></li>
         <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Determine the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Manage-Users" anchor="license_roles" styleclass="Bullet_3" translate="true">Access Level</link><text styleclass="Bullet_3" translate="true"> of each person being licensed</text></li>
         <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Create invites and create Access Levels for each invitee</text></li>
       </list>
     </list>
-    <list id="43" type="ol" listtype="decimal" formatstring="&#37;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Standardization and Subjective Feature Planning</text></li>
-      <list id="43" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <list id="1" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Calibri; font-size:11pt; color:#000000;">
         <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Plan how tags will be used, develop standard tags for sorting/filtering by crucial values</text></li>
         <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Plan how Priority will be distinguished. Set clear values for best practice.</text></li>
         <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Plan how deadlines for each </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Issue-LifeCycle" styleclass="Bullet_3" translate="true">issue</link><text styleclass="Bullet_3" translate="true"> will be established</text></li>
@@ -47,9 +47,9 @@
         <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Establish a plan for Issue and </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Collaborator-Reports" styleclass="Bullet_3" translate="true">Project Reporting</link><text styleclass="Bullet_3" translate="true">, including who will receive the reports, how often they will be generated, etc.</text></li>
       </list>
     </list>
-    <list id="43" type="ol" listtype="decimal" formatstring="&#37;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">User Training (Workflow, Technical and Standardization)</text></li>
-      <list id="43" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <list id="1" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Calibri; font-size:11pt; color:#000000;">
         <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Provide user based training for Power Users/Admins</text></li>
         <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Provide user based training for Review and Management roles</text></li>
         <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Provide user based training for Engineers/Designers/Drafters</text></li>
