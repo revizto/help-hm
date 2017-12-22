@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Issue Management (Collaboration)</title>
+  <keywords>
+    <keyword translate="true">Clashes</keyword>
+    <keyword translate="true">Collaboration</keyword>
+    <keyword translate="true">Issues</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Issue Management (Collaboration)</text></para>
+    </header>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">General Issue LifeCycle</text></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Issue is created:</text></li>
+      <list id="2" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+        <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">In </text><var styleclass="Bullet_1">&lt;%BRAND_NAME%&gt;</var><text styleclass="Bullet_1" translate="true"> (</text><var styleclass="Bullet_1">&lt;%BRAND_NAME%&gt;</var><text styleclass="Bullet_1" translate="true"> plugin in the source software) and assigned to a team member. Issue status is </text><text styleclass="GUI_item" translate="true">Open</text><text styleclass="Bullet_1" translate="true">.</text></li>
+        <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Imported as a clash from Navisworks</text></li>
+      </list>
+    </list>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">The assignee receives an email </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Managing-Notifications" styleclass="Bullet_1" translate="true">notification</link><text styleclass="Bullet_1" translate="true"> (if configured). The issue automatically becomes available to the assignee in </text><var styleclass="Bullet_1">&lt;%BRAND_NAME%&gt;</var><text styleclass="Bullet_1" translate="true">.</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Optionally, relevant team members can be assigned as issue watchers. Issue becomes available to them for feedback and comments.</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">The assignee changes issue status to In progress and starts working on it. If needed, an open issue can be reassigned to another team member.</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">When the issue is considered resolved it status is changed to </text><text styleclass="GUI_item" translate="true">Resolved</text><text styleclass="Bullet_1" translate="true">. </text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">The issue creator reviews the issue and closes it or changes its status back to </text><text styleclass="GUI_item" translate="true">In Progress</text><text styleclass="Bullet_1" translate="true">. Note that a closed issue can be reopened.</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Every time an issue is created/edited the project is updated and the synchronization option becomes available. </text></para>
+    <para styleclass="Normal"><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> uses the same color legend for issue statuses in the list and for pins in the viewer. </text></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Reporting an Issue and Defining its Settings</text></para>
+    <para styleclass="Heading 3"><snippet src="Issue-LifeCycle-report_issue" inline="false"/></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Issue Processing</text></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">In Revizto </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Team members can review and manage issues available to them in the </text><text styleclass="GUI_item" translate="true">Issue Tracker</text><text styleclass="Normal" translate="true"> mode (as a rule, team members get </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Managing-Notifications" styleclass="Normal" translate="true">notifications</link><text styleclass="Normal" translate="true"> about changes in issues they reported, assigned to them or watched by them). </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">In general, the </text><text styleclass="GUI_item" translate="true">Issue Tracker</text><text styleclass="Normal" translate="true"> offers the following options:</text></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">expand/collapse issue details to view and edit them</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">expand/collapse issue chat to collaborate in realtime with the team</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">expand/collapse filter panel to browse across issues. Note that you can create your own tags to filter issues. Filtering by sheet is available to both issues created from 3D and 2D; if the issue location is on the sheet, filter considers it a match</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">define/use </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Issue-Clusterization" styleclass="Bullet_1" translate="true">issue clusters</link></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">remove one or several issues</text></li>
+      <li styleclass="Bullet_1"><link displaytype="text" defaultstyle="true" type="topiclink" href="" anchor="issue_export" styleclass="Bullet_1" translate="true">export/import issues</link></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">attach files to issues (in the chat dialogue)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">use web-camera in the chat dialogue</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">access the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Collaborator-Reports" styleclass="Bullet_1" translate="true">reporting feature of the web-GUI</link><text styleclass="Bullet_1" translate="true"> (under condition that the project is shared via the Cloud) (</text><image src="Icon_Reports.png" scale="50.00%" width="34" height="34" styleclass="Image Caption"></image><text styleclass="Bullet_1" translate="true"> icon)</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Availability of specific features depends on </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Managing-Project-Access-Rights" styleclass="Normal" translate="true">project level rights</link><text styleclass="Normal" translate="true"> of the current user. </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="issue_processing_windows.png" scale="45.00%" width="720" height="387" styleclass="Image Caption"></image></para>
+    <para styleclass="Heading 3"></para>
+    <para styleclass="Note"><text styleclass="Note" style="font-weight:bold;" translate="true">Tip</text><text styleclass="Note" translate="true">: To simultaneously edit properties of several issues, use the multiedit icon (</text><image src="multiedit_ico.png" scale="100.00%" styleclass="Image Caption"></image><text styleclass="Note" translate="true">). It displays the whole list of project issues allowing you yo select several of them and edit their properties. The features may be useful, if, for example, you want assign several issues to the same person.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="multiedit.png" scale="60.00%" width="668" height="480" styleclass="Image Caption"></image></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">In Source Plug-ins</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">There is no issue tracking functionality in </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> plug-ins. To access a current issue and take part in collaboration, open the required source file and click the </text><text styleclass="GUI_item" translate="true">Track issue</text><text styleclass="Normal" translate="true"> plug-in button. It launches the relevant </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> model in the application and shows issues available to the current user.</text></para>
+    <para styleclass="Note"><text styleclass="Note" style="font-weight:bold;" translate="true">Tip</text><text styleclass="Note" translate="true">: When you view issues in </text><var styleclass="Note">&lt;%BRAND_NAME%&gt;</var><text styleclass="Note" translate="true">, keep the source software (Revit, Navisworks, etc.) open with the </text><text styleclass="GUI_item" translate="true">Issue Tracker</text><text styleclass="Note" translate="true"> plugin button pressed. Then, by selecting an issue in </text><var styleclass="Note">&lt;%BRAND_NAME%&gt;</var><text styleclass="Note" translate="true"> you will be able to see the relevant part of the structure both in </text><var styleclass="Note">&lt;%BRAND_NAME%&gt;</var><text styleclass="Note" translate="true"> model and in the source software. Note that you can have only one instance of source software simultaneously linked to </text><var styleclass="Note">&lt;%BRAND_NAME%&gt;</var><text styleclass="Note" translate="true">. &#160;</text></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Clashes</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Clashes </text><link displaytype="text" defaultstyle="true" type="topiclink" href="From-Navisworks" styleclass="Normal" translate="true">imported from Navisworks</link><text styleclass="Normal" translate="true"> are available in the Issue Tracker. They have specific pins (</text><image src="Clash_issue.png" scale="60.00%" width="41" height="41" styleclass="Image Caption"></image><text styleclass="Normal" translate="true">). Note that each clash-issue is a group that may contain multiple original clashes. &#160;When you navigate to a clash, other model elements around it are displayed as translucent. Click the </text><image src="Icon_clash_transparency.png" scale="50.00%" width="34" height="34" styleclass="Image Caption"></image><text styleclass="Normal" translate="true"> &#160;icon at the bottom to switch off transparency.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clash_view.png" scale="50.00%" width="642" height="400" styleclass="img_display"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Navisworks statuses do not directly correspond to </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> issue statuses. The mapping rules are given below.</text></para>
+    <para styleclass="Normal"><table styleclass="Default2" rowcount="6" colcount="2">
+      <tr style="vertical-align:top">
+        <td style="width:211px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; color:#ffffff;" translate="true">Navisworks Status</text></para>
+        </td>
+        <td style="width:576px;">
+          <para styleclass="Normal"><var styleclass="Normal" style="font-weight:bold; color:#ffffff;">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" style="font-weight:bold; color:#ffffff;" translate="true"> Status</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">ACTIVE</text></para>
+        </td>
+        <td style="width:576px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Open, if non-existent. Don&apos;t change, if exists. </text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">APPROVED</text></para>
+        </td>
+        <td style="width:576px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Open, if non-existent. Don&apos;t change, if exists. </text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">NEW</text></para>
+        </td>
+        <td style="width:576px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Open</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">RESOLVED</text></para>
+        </td>
+        <td style="width:576px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Closed, if exists. Don&apos;t create if non-existent</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">REVIEWED</text></para>
+        </td>
+        <td style="width:576px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Closed</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><conditional-text type="IF" value="DEMO"/><text styleclass="Normal" translate="true">&#32;</text><text styleclass="attention" style="font-weight:bold;" translate="true">Attention</text><text styleclass="attention" translate="true">: Issue content (attachments, etc.) is not automatically updated with the project at synchronization. Please, </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Offline-Use" styleclass="attention" translate="true">load full project cache</link><text styleclass="attention" translate="true"> to make sure you are up to date.</text><conditional-text type="END"/></para>
+    <para styleclass="Heading 2"><anchor id="issue_export" styleclass="Heading 2"><keywords><keyword translate="true">issue export</keyword><keyword translate="true">BCF</keyword></keywords></anchor><text styleclass="Heading 2" translate="true">Issue Export/Import Formats</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">You can export/import </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> issues (see the procedure in the figure below). </text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="issue_export.png" scale="60.00%" width="655" height="482" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">By default, issues are exported as </text><text styleclass="Code Example" translate="true">.vimmrk</text><text styleclass="Normal" translate="true"> files, but you can also choose BCF (</text><text styleclass="Code Example" translate="true">.bcfzip</text><text styleclass="Normal" translate="true">) and Excel (</text><text styleclass="Code Example" translate="true">.xlsx</text><text styleclass="Normal" translate="true">). Same is true for issue import options. </text></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

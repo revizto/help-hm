@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Managing Notifications</title>
+  <keywords>
+    <keyword translate="true">Notifications</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Managing Notifications</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Notifications (messages from </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> emailed to a user in response to a specific event) can only be edited by users in the Web-GUI.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">There two sets of notifications settings:</text></para>
+    <list id="350" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Global: applied at the license level and covering all projects, unless otherwise specified. By default, these are applied to every project a user is involved in.</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Project: &#160;customized set of notifications for a specific project.</text></li>
+    </list>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To edit global notifications:</text></para>
+    <list id="351" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Log in at www.revizto.com. Navigate to the </text><text styleclass="GUI_item" translate="true">Notifications</text><text styleclass="Procedure" translate="true"> screen of your web GUI. By default the </text><text styleclass="GUI_item" translate="true">Global settings</text><text styleclass="Procedure" translate="true"> view is displayed.</text></li>
+    </list>
+    <para styleclass="img_display"><image src="global_notif_settings.png" scale="80.00%" width="610" height="564" styleclass="img_display"><title translate="true">global_notif_settings.png</title></image></para>
+    <list id="352" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Define notification frequency. You have three options. The </text><text styleclass="GUI_item" translate="true">Don’t send</text><text styleclass="Procedure" translate="true"> turns all notifications off, the </text><text styleclass="GUI_item" translate="true">Send once</text><text styleclass="Procedure" translate="true"> in allows setting the frequency, the </text><text styleclass="GUI_item" translate="true">Every time</text><text styleclass="Procedure" translate="true"> option means that a notification is sent every time a triggering event occurs.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Choose event and issue types you want to be notified about (activate the checkboxes).</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the </text><text styleclass="GUI_item" translate="true">Save</text><text styleclass="Procedure" translate="true"> button to apply your global settings.</text></li>
+    </list>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To customize notifications:</text></para>
+    <list id="353" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Log in at revizto.com and navigate to the </text><text styleclass="GUI_item" translate="true">Notifications</text><text styleclass="Procedure" translate="true"> screen of your web GUI.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Define your global settings, if needed.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Go to the </text><text styleclass="GUI_item" translate="true">Project Settings</text><text styleclass="Procedure" translate="true"> view. The view displays the list of projects you are involved in. By default, all use global settings. Note that the view has a sorting option and a search box.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Find the project to customize its notifications settings.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Choose </text><text styleclass="GUI_item" translate="true">Custom Settings</text><text styleclass="Procedure" translate="true"> in the </text><text styleclass="GUI_item" translate="true">Project settings</text><text styleclass="Procedure" translate="true"> field. The </text><text styleclass="GUI_item" translate="true">Edit settings</text><text styleclass="Procedure" translate="true"> button then appears.</text></li>
+    </list>
+    <para styleclass="Image Caption"><image src="notif_custom_settings.png" scale="60.00%" width="484" height="383" styleclass="Image Caption"><title translate="true">notif_custom_settings.png</title></image></para>
+    <list id="354" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="6" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the </text><text styleclass="GUI_item" translate="true">Edit settings</text><text styleclass="Procedure" translate="true"> button. It navigates to the notifications editor similar to the one used to define global settings (the project name is displayed at the top of the screen).</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Make your changes and save them. You can redefine global and project notifications settings any time for your convenience.</text></li>
+    </list>
+    <para styleclass="Note"><text styleclass="Note" translate="true">Note: </text><link displaytype="text" defaultstyle="true" type="weblink" href="mailto:&lt;%LINK_CAPTION%&gt;" styleclass="Note" translate="true">no-reply@revizto.com</link><text styleclass="Note" translate="true"> must by in the white list to ensure that notifications are received correctly.</text></para>
+    <para styleclass="Heading1" style="margin-top:26px; margin-left:0px; line-height:2.75; page-break-before:always; tabstops:none;"></para>
+  </body>
+</topic>

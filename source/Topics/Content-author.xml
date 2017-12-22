@@ -27,13 +27,7 @@
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">If needed, the content editor creates an </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Exporting-Files-to-Revizto" anchor="export_scheduling" styleclass="Procedure" translate="true">export schedule</link><text styleclass="Procedure" translate="true">. </text></li>
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">The content editor uses the Issue tracker to take part in </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Issue-LifeCycle" styleclass="Procedure" translate="true">collaboration</link><text styleclass="Procedure" translate="true"> (processes issues assigned to them, watches available issues, etc.).</text></li>
     </list>
-    <list id="4" type="ul" listtype="bullet" formatstring="&#216;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Wingdings; font-size:11pt; color:#000000;">
-      <list id="4" level="1" type="ul" listtype="bullet" formatstring="&#216;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Wingdings; font-size:11pt; color:#000000;">
-        <list id="4" level="2" type="ul" listtype="bullet" formatstring="&#216;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Wingdings; font-size:11pt; color:#000000;">
-          <li styleclass="Bullet_3"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_3"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_3"><caption translate="true"><![CDATA[Expand for the general issue creation procedure]]></caption></toggle></li>
-        </list>
-      </list>
-    </list>
+    <para styleclass="Bullet_3"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_3"></image><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_3"><caption translate="true"><![CDATA[  Expand for the general issue creation procedure]]></caption></toggle></para>
     <para styleclass="Bullet_3"><table styleclass="Default" rowcount="1" colcount="1">
       <tr style="vertical-align:top">
         <td>

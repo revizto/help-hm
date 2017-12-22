@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Web GUI Tips</title>
+  <keywords>
+    <keyword translate="true">Web GUI tips</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Web GUI Tips</text></para>
+    </header>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Using Tags</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">You can create and assign an unlimited number of tags to user accounts and projects. Tags provide an additional filtration options in large environments.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">User and project tags are created in a similar way. To create and edit tags you need SuperAdmin, Administrator rights or Content Creator rights (limited to your own projects and relevant user accounts).</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Tags are created either from views where projects/users are listed (preferred option when several items have to be tagged), or from individual user/project views.</text></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To create a tag from a general view:</text></para>
+    <list id="84" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the </text><text styleclass="GUI_item" translate="true">Edit tag</text><text styleclass="Procedure" translate="true"> button above the project/user list.</text></li>
+    </list>
+    <list id="85" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Select accounts/projects you want to tag. Enter your tag/s, click the </text><text styleclass="GUI_item" translate="true">Add</text><text styleclass="Procedure" translate="true"> button.</text></li>
+    </list>
+    <para styleclass="img_display"><image src="lc_tagging.png" scale="60.00%" width="633" height="288" styleclass="img_display"></image></para>
+    <list id="85" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="List" style="text-align:left; text-indent:-13px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:40px; line-height:1.31; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none; font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="List" style="text-align:left; text-indent:-13px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:40px; line-height:1.31; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Procedure" translate="true">To return to the main view, click X button at the upper right corner.</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">To remove tags, use the same window (see the image below).</text></para>
+    <para styleclass="img_display"><image src="lc_tagging_remove.png" scale="60.00%" width="638" height="262" styleclass="img_display"></image></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To tag an individual project/account:</text></para>
+    <list id="86" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Open a project/user view. Both views have the </text><text styleclass="GUI_item" translate="true">Tags</text><text styleclass="Procedure" translate="true"> area.</text></li>
+    </list>
+    <list id="87" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Enter tag/s into the textbox and click </text><text styleclass="GUI_item" translate="true">Add</text><text styleclass="Procedure" translate="true">. The application adds your tag/s to the item; assigned tags are displayed under the textbox.</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">To remove a tag, click </text><text styleclass="GUI_item" translate="true">x</text><text styleclass="Normal" translate="true"> in the tax box (see the image below).</text></para>
+    <para styleclass="img_display"><image src="lc_tag_filtering_logic.png" scale="100.00%" styleclass="img_display"></image></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Using tags for filtration</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Mainly, tags are used to filter project and user lists in major environments. In both lists tag-based filtration uses similar logic.</text></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To filter items by tags:</text></para>
+    <list id="88" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click in the </text><text styleclass="GUI_item" translate="true">Select</text><text styleclass="Procedure" translate="true"> tag text box to show the whole list of available tags.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Choose one or several tags to filter by.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Choose filtration logic. The following options are available:</text></li>
+    </list>
+    <list id="89" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_3"><text styleclass="GUI_item" translate="true">Union</text><text styleclass="Bullet_3" translate="true"> - includes items with at least one of the selected tags into filtration results</text></li>
+      <li styleclass="Bullet_3"><text styleclass="GUI_item" translate="true">Intersection</text><text styleclass="Bullet_3" translate="true"> - includes items that have all selected tags into filtration results</text></li>
+      <li styleclass="Bullet_3"><text styleclass="GUI_item" translate="true">Exclusion</text><text styleclass="Bullet_3" translate="true"> - includes items that have none of the selected tags into filtration results</text></li>
+    </list>
+    <para styleclass="img_display"><image src="lc_filter_by_tags.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Creating Filtration Presets</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Filtration presets allow administrators to quickly filter lists of licensed items (users and projects) and to build several charts with different settings for comparison. E.g.: a 30-day activity chart including collaborators with a specific tag, or a weekly chart for active projects with specific tag etc.</text></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To create a preset:</text></para>
+    <list id="90" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Navigate to the </text><text styleclass="GUI_item" translate="true">Manage Users</text><text styleclass="Procedure" translate="true"> or </text><text styleclass="GUI_item" translate="true">Manage Projects</text><text styleclass="Procedure" translate="true"> page (depending on your needs).</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Define your preferences in the filtration pane on the left.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the </text><text styleclass="GUI_item" translate="true">Save as</text><text styleclass="Procedure" translate="true"> button. Enter the preset name in the </text><text styleclass="GUI_item" translate="true">Preset</text><text styleclass="Procedure" translate="true"> field and click the </text><text styleclass="GUI_item" translate="true">Save</text><text styleclass="Procedure" translate="true"> button.</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Your filter is saved and becomes available for selection.</text></para>
+    <para styleclass="img_display"><image src="lc_preset_list.png" scale="100.00%" styleclass="img_display"></image></para>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"></para>
+  </body>
+</topic>
