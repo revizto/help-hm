@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">FAQ</title>
+  <keywords>
+    <keyword translate="true">FAQ</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">FAQ</text></para>
+    </header>
+    <list id="130" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- We let go a team member who owns a range of projects. How to transfer ownership?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">- You have 2 options. One is to deactivate (and then delete) this user. Project ownership will be automatically assigned to the License Owner (SuperAdmin). The other option is to manually reassign project ownership before deactivating (and deleting) the user.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="131" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- We let go the License Owner (SuperAdmin). How to transfer the license ownership?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">- Note that only the License Owner can edit their own access level. You have to make sure that before leaving the company, employee who owns and manages Revizto license transfers their rights to another person.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="132" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="3" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- My company operates in Canada and has partners in the UK. Both we and our partners have Revizto licenses. Yet, I cannot invite their users as Guests to collaborate in my projects. Why?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">- In Revizto geographies are strictly divided in order to ensure maximum operation speed. Therefore, the Guest status (free collaboration access to members of other Revisto workspaces) is reserved to users within the same geography. To invite a collaborator from a team that has a license issues for another geography, you will have to create a fee-based Collaborator or Content Creator account.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="133" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="4" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- We often get failures and errors while exporting our source files to Revizto. What to do?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">- If your working folder is located on a network location, not on a local collaborator PC, try moving it to a local disk. Revizto uses SQL Light, therefore multiple requests to a remote folder can cause failures and errors.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="134" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="5" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- We want to show the project to our colleagues/partners from another company, but they have no Revizto license. Also, we don’t want them to see our issues.]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">- You can use the Export to EXE option (the </text><text styleclass="GUI_item" translate="true">Project</text><text styleclass="Bullet_1" translate="true"> menu). Also, choose No in the Export Issues field to hide your issues. The resulting file will be accessible on any Windows x64 machine without Revizto.</text></para>
+          <para styleclass="img_display"><image src="export_to_exe.png" scale="100.00%" styleclass="img_display"><title translate="true">export_to_exe.png</title></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Bullet_1"></para>
+    <list id="135" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="6" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- I am currently using the French keyboard and cannot use the WASD viewer navigation option. Can I define other buttons as controls?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">- No, you cannot customize control buttons, but you can use arrows instead of WASD.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Bullet_1"></para>
+    <list id="136" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- I exported a model from Revit to Navisworks and then to Revizto. But I cannot see the entire model, only one element. What has happened?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">- When exporting a Revit model to Navisworks (or importing it from Navisworks), pay attention to export/import settings. Your problem is likely to have been caused by exporting the first 3D view instead of the entire project. Note that you can also export your model directly from Revit to Revizto and use Navisworks to export clashes.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Bullet_1"></para>
+    <list id="136" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><anchor id="turn_off_upd" styleclass="Bullet_1"></anchor><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[I would like to to turn off the update feature. Is it possible?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">- Yes, you can switch off the update feature. To do it, you have to go the registry and change the HKEY_CURRENT_USER\Software\Vizerra\Revizto\keyLastSkipVersion_h127002115 set the </text><text styleclass="GUI_item" translate="true">Value data</text><text styleclass="Normal" translate="true"> field to 99999 (decimal value). The option may be useful, if you want to make sure that all local users have the same version. </text></para>
+          <para styleclass="Normal" style="text-align:center;"><image src="registry_change.png" scale="60.00%" width="712" height="327" styleclass="Image Caption"></image></para>
+          <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="136" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- I want to customize navigation mode, but <%BRAND_NAME%> would not save my settings. Every time I restart the application, I am back to defaults. Is there a remedy for it?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Bullet_1" translate="true">- User navigation settings are stored in the registry; the path is </text><text styleclass="Normal" translate="true">HKEY_CURRENT_USER/Software/Vizerra/Revizto. Normally, settings do not reset on their own. Yet, issues can occur if </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> &#160;has no rights to save data in the registry location on your PC. Try removing the folder in the registry and relaunching </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true">. It is supposed to create the folder with default values and necessary rights to store user-defined settings. &#160;</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="136" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><anchor id="appending" styleclass="Bullet_1"></anchor><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[ - Our company subcontracts some BIM work and we usually have several Revit files compiled into the same container project. We also use <%BRAND_NAME%> for collaboration and issue tracking. Do you recommend linking our source files in Revit and than creating a <%BRAND_NAME%> project from a single Revit source file, or appending additional .rvt files is better?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">- In depends on your business process. From the viewpoint of export flow, it is better to first link your sources in Revit container project. Then you are less likely to get export and synchronization issues. On the other hand, it is possible to append each source file to a </text><var styleclass="Bullet_1">&lt;%BRAND_NAME%&gt;</var><text styleclass="Bullet_1" translate="true"> &#160;project separately, which is a better option, if each source is updated according to a specific time-line. You can than create export schedules for each of the source files and manage these schedules in </text><var styleclass="Bullet_1">&lt;%BRAND_NAME%&gt;</var><text styleclass="Bullet_1" translate="true">&#32;</text><link displaytype="text" defaultstyle="true" type="topiclink" href="Exporting-Files-to-Revizto" anchor="export_scheduler" styleclass="Bullet_1" translate="true">Export Scheduler</link><text styleclass="Bullet_1" translate="true"> application.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="136" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[ - I would like to change fonts for names of Rooms and other objects in the model. How can I do it?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true"> - Currently, &#160;</text><var styleclass="Bullet_1">&lt;%BRAND_NAME%&gt;</var><text styleclass="Bullet_1" translate="true"> does not offer font modification functionality (or other advanced formatting options).</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="136" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[- I would like to manage sheets of a shared project offline. How can I do it?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">- To work offline, you have to </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Offline-Use" styleclass="Normal" translate="true">load full cache of the project</link><text styleclass="Normal" translate="true">.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="136" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" styleclass="Bullet_1"><caption translate="true"><![CDATA[Can I remove a project from <%BRAND_NAME%> cloud?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Yes, after </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Project-Management" anchor="archiving_deleting" styleclass="Normal" translate="true">archving a project</link><text styleclass="Normal" translate="true"> you can remove it form the Cloud altogether.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="136" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" src-print="none" styleclass="Bullet_1"><caption translate="true"><![CDATA[I see that the product is updated frequently, but updates bother me and interrupt my work. Can I turn them off?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Yes, to turn the updates off, use option:</text></para>
+          <para styleclass="Code Example"><text styleclass="Code Example" translate="true">UPDATES_DISABLE=&quot;true&quot;.</text></para>
+          <para styleclass="Code Example"><text styleclass="Code Example" translate="true">msiexec &quot;Revizto(x64)-4.5.40791.msi&quot; UPDATES_DISABLE=&quot;true&quot;</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="136" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">&#32;</text><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" styleclass="Bullet_1"><caption translate="true"><![CDATA[Can we turn a shared location project to a cloud one?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">While there is no special tool for this, you can </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Copying-a-Project" styleclass="Bullet_1" translate="true">copy your project</link><text styleclass="Bullet_1" translate="true"> and re-upload it as a new one stored at the Cloud.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="136" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Normal" style="text-indent:-18px; margin-top:0px; margin-left:18px; line-height:1.00; tabstops:none; font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="text-indent:-18px; margin-top:0px; margin-left:18px; line-height:1.00; tabstops:none;"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Normal"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" styleclass="Normal"><caption translate="true"><![CDATA[Does <%BRAND_NAME%> support incremental export/upload (e.g. we have initially exported a 100Mb model, than added 20Mb more to it, can the increment be exported/uploaded separately)?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Normal" style="text-indent:-18px; margin-top:0px; margin-left:18px; line-height:1.00; tabstops:none;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Unfortunately we don&apos;t support incremental model updates. Each time the whole model is re-exported and re-uploaded.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"><text styleclass="Normal" style="font-family:Arial; font-size:10pt; vertical-align:baseline; color:#6d6f74; background-color:#ffffff;" translate="true">&#32;</text></para>
+    <list id="136" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" styleclass="Bullet_1"><caption translate="true"><![CDATA[ -I work with a screen that has resolution below the recommended. How can optimize the view?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">-</text><text styleclass="Bullet_1" translate="true">In case requirements to the screen cannot be met, try the following optimization options:</text></para>
+          <list id="137" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Calibri; font-size:11pt; color:#000000;">
+            <list id="137" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Calibri; font-size:11pt; color:#000000;">
+              <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Use the &quot;R&quot; </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Browsing-modes" anchor="hot_keys" styleclass="Bullet_3" translate="true">shortcut</link><text styleclass="Bullet_3" translate="true"> to switch between fly and walk mode.</text></li>
+              <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Maximize your window, then press </text><text styleclass="Bullet_3" translate="true">Alt+Enter</text><text styleclass="Bullet_3" translate="true"> to go to the full screen mode. You can again use </text><text styleclass="Bullet_3" translate="true">Alt+Enter</text><text styleclass="Bullet_3" translate="true"> to quit full screen mode later on.</text></li>
+            </list>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <list id="136" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">To be continued</text></li>
+    </list>
+    <para styleclass="Bullet_1" style="page-break-before:always;"></para>
+  </body>
+</topic>
