@@ -57,7 +57,7 @@
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Update materials</text></para>
         </td>
         <td style="width:945px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">This checkbox is important when export is carried out repeatedly. Revizto has its own lighting and material editor that allows changing textures, colors of objects, lighting.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">This checkbox is important when export is carried out repeatedly. </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> has its own lighting and material editor that allows changing textures, colors of objects, lighting.</text></para>
           <para styleclass="Normal"><text styleclass="Normal" translate="true">If you are sure that it is necessary to overwrite changes made in Revizto every time source is exported, activate this checkbox. Otherwise, deactivate it.</text></para>
         </td>
       </tr>
@@ -66,8 +66,8 @@
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Use render appearance</text></para>
         </td>
         <td style="width:945px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Activate the checkbox, if you want your Revizto model to have a more movie-like appearance with less attention to actual materials. If correct display of materials is important, deactivate the checkbox.</text></para>
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">This option does not affect any lighting/material changes in Revizto editor.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Activate the checkbox, if you want your </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> model to have a more movie-like appearance with less attention to actual materials. If correct display of materials is important, deactivate the checkbox.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">This option does not affect any lighting/material changes in </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> editor.</text></para>
         </td>
       </tr>
       <tr style="vertical-align:middle">
@@ -91,9 +91,9 @@
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Export phases</text></para>
         </td>
         <td style="width:945px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revit files store data on development stages called phases and users can switch from phase to phase and review changes. If you activate this checkbox, phases will be also available in Revizto.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Revit files store data on development stages called </text><text styleclass="Normal" style="font-style:italic;" translate="true">phases. </text><text styleclass="Normal" translate="true">U</text><text styleclass="Normal" translate="true">sers can switch from phase to phase and review changes. If you activate this checkbox, phases will be also available in </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true">.</text></para>
           <para styleclass="attention"><text styleclass="attention" style="font-weight:bold;" translate="true">Caution</text><text styleclass="attention" translate="true">: If your Revit file is open in the phase mode and the flag is deactivated, only the open phase will be exported, which is not likely to be the desired option.</text></para>
-          <para styleclass="Note"><text styleclass="Note" style="font-weight:bold;" translate="true">Note</text><text styleclass="Note" translate="true">: Phase export may affect performance of the Revizto lighting editor due to the large amount of layers coexisting in a scene.</text></para>
+          <para styleclass="Note"><text styleclass="Note" style="font-weight:bold;" translate="true">Note</text><text styleclass="Note" translate="true">: Phase export may affect performance of the </text><var styleclass="Note">&lt;%BRAND_NAME%&gt;</var><text styleclass="Note" translate="true"> lighting editor due to the large amount of layers coexisting in a scene.</text></para>
         </td>
       </tr>
       <tr style="vertical-align:middle">

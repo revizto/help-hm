@@ -195,7 +195,16 @@
       </tr>
     </table></para>
     <list id="14" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
-      <li styleclass="Bullet_1"></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">&#32;</text><image src="hmtoggle_plus0.gif" scale="100.00%" styleclass="Bullet_1"></image><tab /><toggle type="dropdown" print-expanded="true" help-expanded="false" defaultstyle="true" translate="true" src-collapsed="hmtoggle_plus0.gif" src-expanded="hmtoggle_plus1.gif" styleclass="Bullet_1"><caption translate="true"><![CDATA[Do you offer any direct interface with Bluebeam products?]]></caption></toggle></li>
+    </list>
+    <para styleclass="Bullet_1"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">No, but you can import a marked-up .pdf from Bluebeam to </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> in the 2D view. Note that only visible mark-ups are imported. Any interactivity will be lost.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="14" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Bullet_1" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">To be continued</text></li>
     </list>
     <para styleclass="Bullet_1" style="page-break-before:always;"></para>
