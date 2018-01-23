@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Technical requirements</title>
+  <keywords>
+    <keyword translate="true">System requirements</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Technical requirements</text></para>
+    </header>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Hardware Requirements</text></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Desktops/laptops</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">CPU, GPU, RAM are needed for </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">The system requirements for working with </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> mostly depend on the size and complexity of models which you plan to work with.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">The initial conversion into Revizto from your authoring software relies mostly on CPU. To reduce long export times for large models choose a machine with a decent amount of CPU or use the Revizto export scheduler. The export scheduler still uses CPU but can be planned during non-working hours.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Real time navigation relies mostly on GPU and RAM. The Graphics Card is also very important if you’re using a higher graphic quality or looking to view in VR. The NVIDIA GTX 1080 is a great choice for anyone needing great visual quality.</text></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Screen resolution </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">The minimum supported height of a </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> window which is either 768 pixels for screens with low DPI or twice that big (1536 pixels) for high DPI screen.</text></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Tablets</text></para>
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">We recommend Apple IOS powered tablets: iPad Air 2 and better.</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Android tablets are less preferred due to a huge variety of the available models and potential device-specific problems. In case Android is your only possible choice we recommend current top devices from vendors like Samsung, Google, LG, Asus, etc.</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">MS Surface Pro 4 is a good choice if you need a Windows device.</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Note that </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> cannot be installed on devices with screen diagonal below 7&apos;&apos;.</text></para>
+    <para styleclass="Heading 2"><anchor id="net_reqs" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">Network requirements </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">If the company is using firewall, ports 80 and 443 have to be opened for </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true">. And the following domains must be allowed:</text></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">*.revizto.com</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">*.s3.amazonaws.com</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Note that to use the product you have to make sure that you have enough bandwidth to ensure stable 24/7 connection to your local server.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">If the company is using the proxy server, you need to set up proxy server settings in </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true">. In log in window click the </text><text styleclass="GUI_item" translate="true">Proxy server settings</text><text styleclass="Normal" translate="true"> in the right top corner and fill in all required information.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table styleclass="Default" rowcount="1" colcount="2" style="width:650px;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle;">
+          <para styleclass="img_display"><image src="proxy2.png" scale="50.00%" width="364" height="280" styleclass="img_display"></image></para>
+        </td>
+        <td>
+          <para styleclass="img_display"><image src="proxy1.png" scale="50.00%" width="306" height="302" styleclass="img_display"></image></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Note"><text styleclass="Note" style="font-weight:bold;" translate="true">Tip</text><text styleclass="Note" translate="true">: </text><var styleclass="Note">&lt;%BRAND_NAME%&gt;</var><text styleclass="Note" translate="true"> displays the current connection status in a circle by the name of current user. It indicates the status of the notifier service. If everything is ok, the circle is green, if there are connection issues, it is yellow, if you are offline, it goes black.</text></para>
+    <para styleclass="Image Caption"><image src="connection_status.png" scale="100.00%" styleclass="Image Caption"><title translate="true">connection_status.png</title></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">To notifier service ensures that all collaborators are updated on the project issue status.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Requirements for VR are provided in the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="VR-Options" styleclass="Normal" translate="true">relevant section</link><text styleclass="Normal" translate="true">.</text></para>
+  </body>
+</topic>
