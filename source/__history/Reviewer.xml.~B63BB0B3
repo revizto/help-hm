@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Viewer/Collaborator</title>
+  <keywords>
+    <keyword translate="true">Viewer. Collaborator</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Viewer/Collaborator</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Collaborator workflow is similar to that of content editor as far as issue processing is concerned, but a collaborator is highly unlikely to be involved in editing actual source content. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Note that you can quit any project by </text><link displaytype="text" defaultstyle="true" type="topiclink" href="quitting_project" styleclass="Normal" translate="true">Unsubscribing</link><text styleclass="Normal" translate="true">.</text></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

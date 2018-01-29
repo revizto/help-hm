@@ -40,7 +40,7 @@
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">USA</text></para>
         </td>
         <td style="width:365px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">America/Chicago</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">UTC-06:00 (CTZ, America/Chicago)</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
@@ -48,7 +48,7 @@
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Europe</text></para>
         </td>
         <td style="width:365px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Europe/Berlin</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">UTC+01:00 (CETZ, Europe/Berlin)</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
@@ -56,7 +56,7 @@
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Brazil</text></para>
         </td>
         <td style="width:365px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">America/Sao_Paulo</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">UTC-03:00 (Brazilia Time, America/Sao_Paulo)</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
@@ -64,7 +64,7 @@
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Singapore</text></para>
         </td>
         <td style="width:365px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Asia/Singapore</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">UTC+08:00 (Asia/Singapore)</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
@@ -72,7 +72,7 @@
           <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Australia</text></para>
         </td>
         <td style="width:365px;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">Australia/Darwin</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">UTC+09:30 (ACST, Australia/Darwin)</text></para>
         </td>
       </tr>
     </table></para>
