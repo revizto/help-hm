@@ -11,7 +11,7 @@
     </header>
     <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Using Tags</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">You can create and assign an unlimited number of tags to user accounts and projects. Tags provide an additional filtration options in large environments.</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">User and project tags are created in a similar way. To create and edit tags you need SuperAdmin or Administrator rights rights (limited to your own projects and relevant user accounts).</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">User and project tags are created in a similar way. To create and edit tags you need SuperAdmin, Administrator rights or Content Creator rights (limited to your own projects and relevant user accounts).</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Tags are created either from views where projects/users are listed (preferred option when several items have to be tagged), or from individual user/project views.</text></para>
     <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To create a tag from a general view:</text></para>
     <list id="7" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
