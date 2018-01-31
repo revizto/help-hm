@@ -107,3 +107,4 @@ hmContextIds["16"]="troubleshooting.htm";
 hmContextIds["46"]="troubleshooting.htm#working_folder";
 hmContextIds["96"]="troubleshooting.htm#video_issues";
 hmContextIds["101"]="troubleshooting.htm#pin_repositioning";
+hmContextIds["104"]="troubleshooting.htm#local";
