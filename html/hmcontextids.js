@@ -38,6 +38,7 @@ hmContextIds["19"]="managing-notifications.htm";
 hmContextIds["20170822"]="interface-tips.htm";
 hmContextIds["17"]="installation-and-deployment.htm";
 hmContextIds["67"]="installation-and-deployment.htm#proxy";
+hmContextIds["106"]="installation-and-deployment.htm#updating";
 hmContextIds["23"]="project-management2.htm";
 hmContextIds["24"]="creating-a-project.htm";
 hmContextIds["25"]="creating-and-managing-project-.htm";

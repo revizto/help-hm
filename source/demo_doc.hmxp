@@ -804,6 +804,7 @@ document.write('</frameset>');
       <helpcontext-number href="Import-from-IFC-and-FBX" value="81"/>
       <helpcontext-number href="Installation-and-Deployment" value="17"/>
       <helpcontext-number href="Installation-and-Deployment#proxy" value="67"/>
+      <helpcontext-number href="Installation-and-Deployment#updating" value="106"/>
       <helpcontext-number href="Interface-Tips" value="20170822"/>
       <helpcontext-number href="Introduction" value="1"/>
       <helpcontext-number href="Issue-Clusterization" value="103"/>

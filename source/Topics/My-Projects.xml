@@ -12,7 +12,7 @@
     <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
       <li styleclass="Bullet_1"><text styleclass="GUI_item" translate="true">My projects</text><text styleclass="Bullet_1" translate="true"> for projects created by the current user</text></li>
       <li styleclass="Bullet_1"><text styleclass="GUI_item" translate="true">Shared with me</text><text styleclass="Bullet_1" translate="true"> for projects where the current user is a member (not Owner)</text></li>
-      <li styleclass="Bullet_1"><text styleclass="GUI_item" translate="true">Archived</text><text styleclass="Bullet_1" translate="true"> for closed projects</text></li>
+      <li styleclass="Bullet_1"><text styleclass="GUI_item" translate="true">Archived</text><text styleclass="Bullet_1" translate="true"> for projects that are removed from the active workflow</text></li>
     </list>
     <para styleclass="Normal" style="margin-top:0px; margin-left:0px; line-height:1.00; tabstops:none;"></para>
     <para styleclass="Image Caption"><image src="lc_my_pr.png" scale="90.00%" width="704" height="317" styleclass="Image Caption"><title translate="true">lc_my_pr.png</title></image></para>
