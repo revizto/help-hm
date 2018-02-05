@@ -82,6 +82,7 @@ hmContextIds["75"]="model-elements-and-controls.htm#map";
 hmContextIds["61"]="model-elements-and-controls.htm#section";
 hmContextIds["42"]="model-elements-and-controls.htm#example_1";
 hmContextIds["49"]="2d-elements-and-controls.htm";
+hmContextIds["107"]="2d-elements-and-controls.htm#import_export_sheets";
 hmContextIds["54"]="2d-elements-and-controls.htm#image_overlay";
 hmContextIds["98"]="2d-elements-and-controls.htm#2d_ruler";
 hmContextIds["66"]="2d-elements-and-controls.htm#versioning";

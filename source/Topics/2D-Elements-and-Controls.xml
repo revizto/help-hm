@@ -26,7 +26,7 @@
     </list>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">For more details on issue management see the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Issue-LifeCycle" styleclass="Normal" translate="true">Issue Management (Collaboration)</link><text styleclass="Normal" translate="true"> section. Note that issue pins in 2D indicate whether an issue was originally created in 2D or 3D. When click on a 3D pin, the relevant issue opens in 3D issue tracker.</text></para>
     <para styleclass="img_display"><image src="2s_general.png" scale="60.00%" width="842" height="480" styleclass="img_display"></image></para>
-    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Importing/Exporting sheets</text></para>
+    <para styleclass="Heading 2"><anchor id="import_export_sheets" styleclass="Heading 2"><keywords><keyword translate="true">Import/Export Sheets</keyword></keywords></anchor><text styleclass="Heading 2" translate="true">Importing/Exporting sheets</text></para>
     <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To add a new sheet: </text></para>
     <list id="6" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
       <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Go to the list of 2D sheets attached to the model.</text></li>
@@ -76,7 +76,7 @@
     </list>
     <para styleclass="Procedure"><text styleclass="Procedure" translate="true">The </text><text styleclass="GUI_item" translate="true">View</text><text styleclass="Procedure" translate="true"> button at the bottom opens the selected revision.</text></para>
     <para styleclass="Normal" style="text-align:center;"><image src="sheet_revisions.png" scale="60.00%" width="692" height="238" styleclass="Image Caption"></image></para>
-    <para styleclass="Heading 2"><anchor id="importing_sheets" styleclass="Heading 2"></anchor><text styleclass="Heading 2" translate="true">Importing Sheets</text></para>
+    <para styleclass="Heading 2"><anchor id="importing_sheets" styleclass="Heading 2"><keywords><keyword translate="true">Importing PDF and DWFX</keyword></keywords></anchor><text styleclass="Heading 2" translate="true">Importing PDF and DWFX</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">You can add .pdf and .dwfx files to the project in the 2D view. It is recommended to create a new folder for sheets added outside the source export.</text></para>
     <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To add sheets:</text></para>
     <list id="9" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">

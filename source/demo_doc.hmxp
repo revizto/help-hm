@@ -770,6 +770,7 @@ document.write('</frameset>');
       <helpcontext-number href="2D-Elements-and-Controls" value="49"/>
       <helpcontext-number href="2D-Elements-and-Controls#2d_ruler" value="98"/>
       <helpcontext-number href="2D-Elements-and-Controls#image_overlay" value="54"/>
+      <helpcontext-number href="2D-Elements-and-Controls#import_export_sheets" value="107"/>
       <helpcontext-number href="2D-Elements-and-Controls#importing_sheets" value="84"/>
       <helpcontext-number href="2D-Elements-and-Controls#versioning" value="66"/>
       <helpcontext-number href="Abbreviations" value="13"/>
