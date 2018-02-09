@@ -9,7 +9,7 @@
     <para styleclass="Normal"><text styleclass="Normal" translate="true">There are two points where a new collaboration project can be created:</text></para>
     <list id="29" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
       <li styleclass="Bullet_1"><var styleclass="Bullet_1">&lt;%BRAND_NAME%&gt;</var><text styleclass="Bullet_1" translate="true"> application</text></li>
-      <li styleclass="Bullet_1"><var styleclass="Bullet_1">&lt;%BRAND_NAME%&gt;</var><text styleclass="Bullet_1" translate="true"> plug-in in your authoring tool</text></li>
+      <li styleclass="Bullet_1"><var styleclass="Bullet_1">&lt;%BRAND_NAME%&gt;</var><text styleclass="Bullet_1" translate="true"> plug-in in your authoring tool (most common option)</text></li>
     </list>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">The preferred option depends on &#160;the business process. Note that to create new projects, you need at least Content Creator </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Manage-Users" anchor="license_roles" styleclass="Normal" translate="true">license role</link><text styleclass="Normal" translate="true">.</text></para>
     <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To create a new project in </text><var styleclass="Procedure Heading">&lt;%BRAND_NAME%&gt;</var><text styleclass="Procedure Heading" translate="true">:</text></para>
