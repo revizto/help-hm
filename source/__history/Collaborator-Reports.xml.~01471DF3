@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Collaborator Reports</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Collaborator Reports</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Each user can create issue reports for projects they are invited to. Reports are created in the </text><text styleclass="GUI_item" translate="true">Dashboard</text><text styleclass="Normal" translate="true"> view of the web GUI (My </text><text styleclass="GUI_item" translate="true">Projects</text><text styleclass="Normal" translate="true"> &gt;</text><text styleclass="GUI_item" translate="true"> Project page</text><text styleclass="Normal" translate="true">). This view allows building customized issue reports at the project level, scheduling generation and distribution time for each.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">You can also navigate to this page from the </text><text styleclass="GUI_item" translate="true">Issue Tracker</text><text styleclass="Normal" translate="true"> ( </text><image src="Icon_Reports.png" scale="50.00%" width="34" height="34" styleclass="Image Caption"></image><text styleclass="Image Caption" translate="true">&#32;</text><text styleclass="Normal" translate="true">icon).</text></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To create a new report:</text></para>
+    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the </text><text styleclass="GUI_item" translate="true">Create New Report</text><text styleclass="Procedure" translate="true"> button.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Define the report settings. Use filters to select issues you want in your report (by assignee, tag, reporter, etc.). &#160;</text></li>
+    </list>
+    <para styleclass="img_display"><image src="lc_report_settings.png" scale="100.00%" styleclass="img_display"><title translate="true">lc_report_settings.png</title></image></para>
+    <list id="4" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="3" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Save your settings. The system immediately generates the report and displays it on the view.</text></li>
+    </list>
+    <para styleclass="img_display"><image src="lc_report_display.png" scale="60.00%" width="669" height="410" styleclass="img_display"><title translate="true">lc_report_display.png</title></image></para>
+    <list id="5" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="4" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">If you want to email your report to anyone, go to the </text><text styleclass="GUI_item" translate="true">Delivery</text><text styleclass="Procedure" translate="true"> tab of the report view. You can either launch a one-time immediate delivery or schedule regular mailings. Note that you can send reports to people outside the project and workspace. You can also define multiple delivery format/s. Note that all fields are mandatory. </text></li>
+    </list>
+    <para styleclass="img_display"><image src="lc_delivery_schedule.png" scale="100.00%" styleclass="img_display"><title translate="true">lc_delivery_schedule.png</title></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Report recipients get links to documents generated in the requested format. If there are no issues matching the report settings for the selected period, reports (and links) are not generated, the recipient gets a relevant notification.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">By default recipients are notified if they are scheduled to get reports. </text></para>
+    <para styleclass="Heading 3"><anchor id="note_on_timestamps" styleclass="Heading 3"><keywords><keyword translate="true">Timestamps</keyword></keywords></anchor><text styleclass="Heading 3" translate="true">Note on Timestamps</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">All timestamps in reports are based on the server time. For convenience standard timezone abbreviations are used (e.g. CEST). These abbreviations are used for convenience, yet each corresponds to a specific location. Here are locations used in &#160;</text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> timestamps. </text></para>
+    <para styleclass="Normal_confluencetable" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default2" rowcount="6" colcount="2" style="width:500px;">
+      <tr style="vertical-align:top">
+        <td style="width:122px;">
+          <para styleclass="Normal_tablesorter-header-inner" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="tablesorter-header-inner" style="font-family:&apos;Segoe UI&apos;; font-size:11pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#ffffff; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Region</text></para>
+        </td>
+        <td style="width:365px;">
+          <para styleclass="Normal_tablesorter-header-inner" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="tablesorter-header-inner" style="font-family:&apos;Segoe UI&apos;; font-size:11pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#ffffff; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Local time used for timestamps</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:122px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">USA</text></para>
+        </td>
+        <td style="width:365px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">UTC-06:00 (CTZ, America/Chicago)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:122px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Europe</text></para>
+        </td>
+        <td style="width:365px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">UTC+01:00 (CETZ, Europe/Berlin)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:122px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Brazil</text></para>
+        </td>
+        <td style="width:365px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">UTC-03:00 (Brazilia Time, America/Sao_Paulo)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:122px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Singapore</text></para>
+        </td>
+        <td style="width:365px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">UTC+08:00 (Asia/Singapore)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:122px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold;" translate="true">Australia</text></para>
+        </td>
+        <td style="width:365px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">UTC+09:30 (ACST, Australia/Darwin)</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Procedure" style="page-break-before:always;"></para>
+  </body>
+</topic>
