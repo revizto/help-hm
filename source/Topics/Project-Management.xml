@@ -44,7 +44,7 @@
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Create and assign tags to the project</text></li>
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">View project activity summary</text></li>
     </list>
-    <para styleclass="img_display"><image src="project_basic.png" scale="50.00%" width="552" height="288" styleclass="img_display"></image></para>
+    <para styleclass="img_display"><image src="project_basic.png" scale="70.00%" width="572" height="477" styleclass="img_display"></image></para>
     <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Private Sharing</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">Depending on the license and project role, this view allows user to invite people to the project, manage their access rights and remove project participants.</text></para>
     <para styleclass="Note"><text styleclass="Note" style="font-weight:bold;" translate="true">Note</text><text styleclass="Note" translate="true">: You can invite a new user to the project without creating a license-level account before. Then the system creates a license-level collaborator account automatically. Yet, deleting a user at the project level does not mean deleting a license level account. You have to deactivate a user at the license level to completely cancel user access to the license.</text></para>
