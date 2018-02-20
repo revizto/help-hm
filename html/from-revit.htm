@@ -59,7 +59,7 @@
 <td style="vertical-align:middle; width:301px; padding:1px; border:solid thin #000000;"><p class="p_Normal"><span style="font-weight: bold;">Export 3D model</span></p>
 </td>
 <td style="vertical-align:middle; width:945px; padding:1px; border:solid thin #000000;"><p class="p_Normal">Activate this checkbox to export the 3D model. Note that if this checkbox is deactivated all options related to 3D view become unavailable.</p>
-<p class="p_Normal">Before launching export make sure that your source file is open in the 3D mode (3D view is selected in Revit).</p>
+<p class="p_Normal">Before launching export make sure that your source file is open in the 3D mode (i.e. the 3D view is selected in Revit).</p>
 </td>
 </tr>
 <tr style="text-align:left;vertical-align:middle;">
@@ -77,15 +77,15 @@
 <tr style="text-align:left;vertical-align:middle;">
 <td style="vertical-align:middle; width:301px; background-color:#ffcc00; padding:1px; border:solid thin #000000;"><p class="p_Normal"><span style="font-weight: bold;">Update materials</span></p>
 </td>
-<td style="vertical-align:middle; width:945px; background-color:#ffcc00; padding:1px; border:solid thin #000000;"><p class="p_Normal">This checkbox is important when export is carried out repeatedly. Revizto has its own lighting and material editor that allows changing textures, colors of objects, lighting.</p>
+<td style="vertical-align:middle; width:945px; background-color:#ffcc00; padding:1px; border:solid thin #000000;"><p class="p_Normal">This checkbox is important when export is carried out repeatedly. Revizto has its own lighting and material editor that allows changing textures, colors of objects, lighting. </p>
 <p class="p_Normal">If you are sure that it is necessary to overwrite changes made in Revizto every time source is exported, activate this checkbox. Otherwise, deactivate it.</p>
 </td>
 </tr>
 <tr style="text-align:left;vertical-align:middle;">
 <td style="vertical-align:middle; width:301px; padding:1px; border:solid thin #000000;"><p class="p_Normal"><span style="font-weight: bold;">Use render appearance</span></p>
 </td>
-<td style="vertical-align:middle; width:945px; padding:1px; border:solid thin #000000;"><p class="p_Normal">Activate the checkbox, if you want your Revizto model to have a more movie-like appearance with less attention to actual materials. If correct display of materials is important, deactivate the checkbox.</p>
-<p class="p_Normal">This option does not affect any lighting/material changes in Revizto editor.</p>
+<td style="vertical-align:middle; width:945px; padding:1px; border:solid thin #000000;"><p class="p_Normal">The checkbox applies display options corresponding to <span class="f_GUI_item">Realistic</span> and <span class="f_GUI_item">Ray Trace</span> Revit graphic options (these are better for presentation purposes). <span class="f_GUI_item">Shaded</span> and <span class="f_GUI_item">Consistent color</span> Revit options ensure sharp, accurate but less realistic visualization which is a better working option.</p>
+<p class="p_Normal">Note that this option does not affect any lighting/material changes in Revizto editor.</p>
 </td>
 </tr>
 <tr style="text-align:left;vertical-align:middle;">
@@ -129,7 +129,7 @@
 <tr style="text-align:left;vertical-align:middle;">
 <td style="vertical-align:middle; width:301px; padding:1px; border:solid thin #000000;"><p class="p_Normal"><span style="font-weight: bold;">Workset</span></p>
 </td>
-<td style="vertical-align:middle; width:945px; padding:1px; border:solid thin #000000;"><p class="p_Normal">If you use Revit collaboration options (worksets), you can export them to Revizto when scheduling exports. </p>
+<td style="vertical-align:middle; width:945px; padding:1px; border:solid thin #000000;"><p class="p_Normal">If you use Revit collaboration options (worksets), you can export them to Revizto when scheduling exports. Worksets are designed to divide the model elements between multiple authors who upload their own changes without affecting changes outside their workset. &nbsp;</p>
 <p class="p_Normal"><img width="387" height="681" style="margin:0;width:387px;height:681px;border:none" src="workset_export.png"/></p>
 </td>
 </tr>
@@ -137,7 +137,7 @@
 </table>
 </div>
 <p class="p_Normal" style="margin: 0px 0px 0px 0px;">&nbsp;</p>
-<p class="p_Heading3"><a id="sheet_export_revit" class="hmanchor"></a><span class="f_Heading3">Sheet Export Particularities</span></p>
+<p class="p_Heading3"><a id="sheet_export_revit" class="hmanchor"></a><span class="f_Heading3">Sheet Export Options</span></p>
 <p class="p_Normal">As mentioned above, you can export sheets in vector or image format. the Image option is recommended for sheets that use East Asian fonts. Also, images are quicker processed when <a href="2d-elements-and-controls.htm#image_overlay" class="topiclink">image overlay</a> is created. &nbsp;</p>
 <p class="p_Normal">You can also use a range of filters to quicker find sheets that you want to export.</p>
 <p class="p_ImageCaption"><img width="463" height="480" style="margin:0px auto 0px auto;width:463px;height:480px;border:none" src="export_sheets.png"/></p>
