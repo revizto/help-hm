@@ -109,7 +109,7 @@
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">editing issue visibility (</text><text styleclass="GUI_item" translate="true">Edit issue visibility</text><text styleclass="Bullet_1" translate="true">)</text></li>
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">and other rights, related to issue control</text></li>
     </list>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">At the same time this access level is not likely to include options to edit content. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">At the same time, this access level is not likely to include options to edit content. </text></para>
     <para styleclass="Heading 3"><anchor id="edit_or_append" styleclass="Heading 3"></anchor><text styleclass="Heading 3" translate="true">Edit or Append Content?</text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">In </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> there is a distinction between the right to edit 3D/2D and append 3D/2D. As you may see from the entry form, editing includes appending, but not vice versa. The idea is that appending allows user to add content (a sheet, or a scene) to a project and to subsequently modify/delete it, but not to edit content created by other project members. Editing, in turn, allows both appending new content and editing any existing regardless of its author. </text></para>
     <para styleclass="Normal"></para>

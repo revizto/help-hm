@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Administrating Projects</title>
+  <keywords>
+    <keyword translate="true">Managing projects (license level)</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Administrating Projects</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Super Admin, Administrator and Content Creator can create new projects within the team licenses using locally installed instances of </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> (project creator is considered its Owner (for more details on project roles, please, &#160;</text><link displaytype="text" defaultstyle="true" type="topiclink" href="" anchor="project_access_level" styleclass="Normal" translate="true">see below</link><text styleclass="Normal" translate="true">).</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Newly created projects are listed on the </text><text styleclass="GUI_item" translate="true">Manage Projects</text><text styleclass="Normal" translate="true"> screen of the workspace web GUI (available to the License Owner and Administrators) with an </text><text styleclass="GUI_item" translate="true">Active</text><text styleclass="Normal" translate="true"> or </text><text styleclass="GUI_item" translate="true">Inactive</text><text styleclass="Normal" translate="true"> status; a project license is issued. Projects are active when they are opened in the application at a specific frequency; users are active when they open projects in the application often enough. After a specific period of idleness projects and users are switched to </text><text styleclass="GUI_item" translate="true">inactive</text><text styleclass="Normal" translate="true"> status.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Once a project is archived, its license becomes vacant for a new project. Members previously invited to an archived project lose access to it. Only project Owner can view an archived project in read-only format in </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Revizto-Application" styleclass="Normal" translate="true">&lt;%BRAND_NAME%&gt; application</link><text styleclass="Normal" translate="true">.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Archived projects can then be deleted altogether (i.e. from the cloud).</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">You can open project details in a new browser tab to edit it. Note that you can also navigate to a project page from a page of any of its members (users invited to the project). &#160;</text></para>
+    <para styleclass="Heading 2"><anchor id="archiving_deleting" styleclass="Heading 2"><keywords><keyword translate="true">Archiving projects</keyword><keyword translate="true">Deleting projects</keyword></keywords></anchor><text styleclass="Heading 2" translate="true">Archiving and Deleting Projects</text></para>
+    <para styleclass="img_display"><image src="lc_projects.png" scale="100.00%" styleclass="img_display"></image></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To archive project/s:</text></para>
+    <list id="1496" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click </text><text styleclass="GUI_item" translate="true">Archive</text><text styleclass="Procedure" translate="true"> above the project list.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Tick one or more projects. Click </text><text styleclass="GUI_item" translate="true">Archive</text><text styleclass="Procedure" translate="true">. The selected project/s is archived, its license becomes vacant.</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">The list of archived projects is displayed in the </text><text styleclass="GUI_item" translate="true">Archived</text><text styleclass="Normal" translate="true"> tab. Archived projects become unavailable to all members previously invited to it. Yet, the project owners retain read-only access to archived projects via </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true">.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Later, you can delete the project altogether (from the cloud) or restore it. Once the project is restored, it becomes available to all members invited to it before with all settings and issue history.</text></para>
+    <para styleclass="Heading 2"><text styleclass="Heading 2" translate="true">Editing Separate Projects</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">The project page consists of three views:</text></para>
+    <list id="1497" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Project Info</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Private Sharing</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Dashboard</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Availability of these views depends on the user license role and project access level (see the table below).</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">All changes made in the workspace web GUI are automatically synchronized with local instances of Revizto. Below full functionality of each view is covered.</text></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Project Info</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Depending on the workspace and project role, use this view to:</text></para>
+    <list id="1498" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Rename the project</text></li>
+    </list>
+    <list id="1499" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Change project owner (only available to the current owner)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Change master license (only available to the current owner, may be needed when a project is transferred to another team or trial license is replaced with a permanent)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Upload a thumbnail</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">Create and assign tags to the project</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">View project activity summary</text></li>
+    </list>
+    <para styleclass="img_display"><image src="project_basic.png" scale="70.00%" width="572" height="477" styleclass="img_display"></image></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Private Sharing</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Depending on the license and project role, this view allows user to invite people to the project, manage their access rights and remove project participants.</text></para>
+    <para styleclass="Note"><text styleclass="Note" style="font-weight:bold;" translate="true">Note</text><text styleclass="Note" translate="true">: You can invite a new user to the project without creating a license-level account before. Then the system creates a license-level collaborator account automatically. Yet, deleting a user at the project level does not mean deleting a license level account. You have to deactivate a user at the license level to completely cancel user access to the license.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Also, the License Owner (SuperAdmin) and license Administrators can manage project access levels from this view. Note that project access changes made from the web-GUI are applicable to the whole license, not to a single project. Project owners can modify and create project-level access rights from </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> application (in this case changes are only applicable to a specific project).</text></para>
+    <para styleclass="img_display"><image src="lc_project_sharing.png" scale="60.00%" width="645" height="374" styleclass="img_display"></image></para>
+    <para styleclass="Heading 3"><anchor id="project_access_level" styleclass="Heading 3"><keywords><keyword translate="true">Project access level</keyword></keywords></anchor><text styleclass="Heading 3" translate="true">Managing Project Access Levels in the Web GUI</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">SuperAdmin and Administrator can manage existing project-level access settings and create new ones; as mentioned above, settings defined in the web GUI are applied license-wide. </text></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To create a new access level in the Web GUI:</text></para>
+    <list id="1500" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Navigate to the </text><text styleclass="GUI_item" translate="true">Private Sharing</text><text styleclass="Procedure" translate="true"> view of the team workspace web GUI.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the</text><text styleclass="GUI_item" translate="true"> Manage Access Levels</text><text styleclass="Procedure" translate="true"> button. The </text><text styleclass="GUI_item" translate="true">Manage Access Levels</text><text styleclass="Procedure" translate="true"> view opens.</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">In this view you can either edit an existing level, or a create a new one.</text></para>
+    <para styleclass="img_display"><image src="lc_manage_access_levels_screen.png" scale="80.00%" width="638" height="550" styleclass="img_display"></image></para>
+    <list id="1501" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="3" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">To edit an existing level:</text></li>
+      <list id="1501" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#49;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_3" style="font-family:Calibri; font-size:11pt; color:#000000;">
+        <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Tick rights that you want to assign to the role, if you want to extend the access level</text></li>
+        <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Untick available rights to revoke them and limit the access level in some respect</text></li>
+        <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Enter a new name for the access level in the </text><text styleclass="GUI_item" translate="true">Edit name</text><text styleclass="Bullet_3" translate="true"> field, if needed.</text></li>
+        <li styleclass="Bullet_3"><text styleclass="Bullet_3" translate="true">Click the </text><text styleclass="GUI_item" translate="true">Save</text><text styleclass="Bullet_3" translate="true"> button at the bottom of the view. &#160;</text></li>
+      </list>
+    </list>
+    <list id="1501" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="3" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">To create a new access level repeat substeps a - c of the step 3 above and click the </text><text styleclass="GUI_item" translate="true">Save as new level</text><text styleclass="Procedure" translate="true"> button. Note that to create a new level you have to enter a new name.</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">You can delete any existing access level, but, if it was previously assigned to one or more team members, you will be requested to choose a new access level to them before deleting the current one.</text></para>
+    <para styleclass="img_display"><image src="lc_delete_access_leve.png" scale="100.00%" styleclass="img_display"></image></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To check current user access level:</text></para>
+    <list id="1502" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Navigate to the page of the required project.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Go to the </text><text styleclass="GUI_item" translate="true">Private Sharing</text><text styleclass="Procedure" translate="true"> view.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click button by the name of the user you want to check. The system displays detailed information on user rights with a modification option available at the top of the screen.</text></li>
+    </list>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Rights. Example 1</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Let&apos;s assume that your goal is to create an access level for your content authors so that they could:</text></para>
+    <list id="1503" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">edit and add 3D to </text><var styleclass="Bullet_1">&lt;%BRAND_NAME%&gt;</var></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">edit and add 2D to </text><var styleclass="Bullet_1">&lt;%BRAND_NAME%&gt;</var></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">work on issues assigned to them</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">To create a relevant access level, you will need to activate the following rights:</text></para>
+    <list id="1504" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="GUI_item" translate="true">Edit 3D </text><text styleclass="Bullet_1" translate="true">(appending included automatically)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="GUI_item" translate="true">Edit 2D</text><text styleclass="Bullet_1" translate="true"> (appending included automatically)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="GUI_item" translate="true">View public issues</text></li>
+      <li styleclass="Bullet_1"><text styleclass="GUI_item" translate="true">Edit issues status (except close)</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">This set of rights enables a users to see all public issues in the project, edit statuses (but not closing issues), changing 2D and 3D content. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Also you can enable additional rights like tagging issues, editing issue markup, commenting on issue, etc. It depends on project needs and user competeneces.</text></para>
+    <para styleclass="Heading 3"><text styleclass="Heading 3" translate="true">Rights. Example 2</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Let&apos;s assume that your goal is to create an access level for a manager/reviewer who does not work with authoring software, but does some kind of supervision/assessment.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">To create a relevant access level, you are like to want to allow:</text></para>
+    <list id="1505" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Bullet_1" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">creating issues (</text><text styleclass="GUI_item" translate="true">Create issue</text><text styleclass="Bullet_1" translate="true">)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">editing issues (</text><text styleclass="GUI_item" translate="true">Edit issue markup</text><text styleclass="Bullet_1" translate="true">)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">assigning issues to users (</text><text styleclass="GUI_item" translate="true">Edit issue assignee</text><text styleclass="Bullet_1" translate="true">)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">editing deadlines (</text><text styleclass="GUI_item" translate="true">Edit issue deadline</text><text styleclass="Bullet_1" translate="true">)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">closing issues (</text><text styleclass="GUI_item" translate="true">Close issue</text><text styleclass="Bullet_1" translate="true">)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">viewing issues (</text><text styleclass="GUI_item" translate="true">View public issues</text><text styleclass="Bullet_1" translate="true">)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">commenting on issues (</text><text styleclass="GUI_item" translate="true">Comment issue</text><text styleclass="Bullet_1" translate="true">)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">editing issue visibility (</text><text styleclass="GUI_item" translate="true">Edit issue visibility</text><text styleclass="Bullet_1" translate="true">)</text></li>
+      <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">and other rights, related to issue control</text></li>
+    </list>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">At the same time this access level is not likely to include options to edit content. </text></para>
+    <para styleclass="Heading 3"><anchor id="edit_or_append" styleclass="Heading 3"></anchor><text styleclass="Heading 3" translate="true">Edit or Append Content?</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">In </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> there is a distinction between the right to edit 3D/2D and append 3D/2D. As you may see from the entry form, editing includes appending, but not vice versa. The idea is that appending allows user to add content (a sheet, or a scene) to a project and to subsequently modify/delete it, but not to edit content created by other project members. Editing, in turn, allows both appending new content and editing any existing regardless of its author. </text></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
