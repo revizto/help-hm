@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">SketchUp</title>
+  <keywords>
+    <keyword translate="true">SketchUp</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">SketchUp</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">By default </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> plug-in is available from the main menu of the program (</text><text styleclass="GUI_item" translate="true">Extensions</text><text styleclass="Normal" translate="true"> &gt; </text><var styleclass="GUI_item">&lt;%BRAND_NAME%&gt;</var><text styleclass="GUI_item" translate="true"> 4</text><text styleclass="Normal" translate="true">). Yet, at the first launch SketchUp suggests creating a toolbar icon. You can use any navigation option you prefer.</text></para>
+    <para styleclass="Image Caption"><image src="sketchup_tb.png" scale="60.00%" width="584" height="26" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Basically, the only function of the plug-in is export which has no particularities and fits the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Exporting-Files-to-Revizto" anchor="general" styleclass="Normal" translate="true">general procedure</link><text styleclass="Normal" translate="true">. Note that SketchUp allows exporting only 3D with materials. </text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="sketchup_export.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Note that SketchUp generates levels from the native entity type called scenes. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">You can use all </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Issue-LifeCycle" styleclass="Normal" translate="true">collaboration options</link><text styleclass="Normal" translate="true"> in projects based on SketchUp files, but, unlike AutoDesk software, you cannot simultaneously navigate to an issue point in the source program by selecting the issue in </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true">.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">SketchUp allows exporting selected items. Like Revit, when selection is exported to an existing project, it replaces all previously exported 3D elements (i.e. you cannot use this option to update a specific object).</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="sketch_up_selection.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Note"><text styleclass="Note" translate="true">Note that if you import .dwg files to SketchUp for subsequent export to </text><var styleclass="Note">&lt;%BRAND_NAME%&gt;</var><text styleclass="Note" translate="true"> you have to make sure that coordinates remain unchanged. </text></para>
+    <para styleclass="Procedure Heading"><text styleclass="Procedure Heading" translate="true">To do it during import:</text></para>
+    <list id="23" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click </text><text styleclass="GUI_item" translate="true">Options</text><text styleclass="Procedure" translate="true">.</text></li>
+    </list>
+    <para styleclass="img_display"><image src="sketchup_import_options.png" scale="75.00%" width="498" height="355" styleclass="img_display"></image></para>
+    <list id="23" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Activate the </text><text styleclass="GUI_item" translate="true">Preserve drawing origin</text><text styleclass="Procedure" translate="true"> checkbox (or similar, depending on the SketchUp version).</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="sketch_up_import_options2.png" scale="90.00%" width="353" height="228" styleclass="img_display"></image></para>
+  </body>
+</topic>
