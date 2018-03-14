@@ -776,6 +776,7 @@ document.write('</frameset>');
       <helpcontext-number href="Abbreviations" value="13"/>
       <helpcontext-number href="Activation" value="20170818"/>
       <helpcontext-number href="Additional-Revizto-Components" value="57"/>
+      <helpcontext-number href="ArchiCad" value="108"/>
       <helpcontext-number href="Browsing-modes" value="48"/>
       <helpcontext-number href="Browsing-modes#hot_keys" value="52"/>
       <helpcontext-number href="Browsing-modes#tagging_issues" value="95"/>

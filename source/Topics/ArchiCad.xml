@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">ArchiCad</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ArchiCad</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Due to Graphisoft policy, </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> plug-in is not automatically installed on ArchiCad. To install it, do the following:</text></para>
+    <list id="76" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Launch ArchiCad.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Navigate to </text><text styleclass="GUI_item" translate="true">Options</text><text styleclass="Procedure" translate="true"> &gt; </text><text styleclass="GUI_item" translate="true">Add-on Manager</text><text styleclass="Procedure" translate="true">.</text></li>
+      <li styleclass="Procedure"><text styleclass="Procedure" translate="true">Click the </text><text styleclass="GUI_item" translate="true">Search for More Add-Ons</text><text styleclass="Procedure" translate="true"> button.</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="archi_cad_install.png" scale="60.00%" width="271" height="541" styleclass="img_display"></image></para>
+    <list id="76" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
+      <li styleclass="Procedure"><text styleclass="Normal" translate="true">Choose </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> working folder and choose the relevant plug-in version in it. </text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="revizto_plugin_versions.png" scale="60.00%" width="587" height="272" styleclass="img_display"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">ArchiCad stores links to plug-in, i.e. when </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> is updated, no further action has to be taken (unless you move the working folder).</text></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

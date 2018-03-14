@@ -63,6 +63,7 @@ hmContextIds["72"]="from-navisworks.htm#clashes";
 hmContextIds["18"]="from-autocad_archicad.htm";
 hmContextIds["79"]="from-autocad_archicad.htm#autocad";
 hmContextIds["80"]="from-autocad_archicad.htm#archicad";
+hmContextIds["108"]="archicad.htm";
 hmContextIds["36"]="rhinoceros-for-windows.htm";
 hmContextIds["37"]="sketchup.htm";
 hmContextIds["81"]="import-from-ifc-and-fbx.htm";

@@ -31,7 +31,7 @@
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">phases</text></li>
       <li styleclass="Bullet_1"><text styleclass="Bullet_1" translate="true">2D overlay settings</text></li>
     </list>
-    <para styleclass="Normal"><text styleclass="Normal" translate="true">Exported viewpoints store only camera position. </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Exported viewpoints store camera position and section box, if any. </text></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">You can set any viewpoint as the </text><text styleclass="GUI_item" translate="true">Home Viewpoint</text><text styleclass="Normal" translate="true">. (i.e. the one displayed when you click </text><image src="home_viewpoint_ico.png" scale="80.00%" width="121" height="22" styleclass="Image Caption"></image><text styleclass="Image Caption" translate="true">&#32;</text><text styleclass="Normal" translate="true">icon at the bottom of the screen). Viewpoints can be filtered by applied tools/properties (see the figure below).</text></para>
     <para styleclass="img_display"><image src="viewpoint_filters.png" scale="80.00%" width="831" height="650" styleclass="img_display"></image></para>
     <para styleclass="Normal"><text styleclass="Normal" translate="true">See also </text><link displaytype="text" defaultstyle="true" type="weblink" href="https://youtu.be/PqFflJWeT_U" target="_blank" styleclass="Normal" translate="true">Viewpoint Tutorial</link><text styleclass="Normal" translate="true">.</text></para>
@@ -141,7 +141,7 @@
     </list>
     <para styleclass="img_display"><image src="issue_example.png" scale="50.00%" width="796" height="402" styleclass="img_display"></image></para>
     <list id="17" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Procedure" style="font-family:Calibri; font-size:11pt; color:#000000;">
-      <li styleclass="Procedure"><text styleclass="Normal" translate="true">Assign the issue to a source author and other collaborators</text><text styleclass="Normal" translate="true">. Issues are uploaded automatically.</text></li>
+      <li styleclass="Procedure"><text styleclass="Normal" translate="true">Assign the issue to a source author and other collaborators. Issues are uploaded automatically.</text></li>
     </list>
     <para styleclass="Procedure"><text styleclass="Normal" translate="true">Now, when the content editor clicks </text><text styleclass="GUI_item" translate="true">Issue Tracker</text><text styleclass="Normal" translate="true"> in Revit </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> plug-in, the relevant </text><var styleclass="Normal">&lt;%BRAND_NAME%&gt;</var><text styleclass="Normal" translate="true"> model opens with the new issue in it. By clicking on the issue sign (the pin) a user can navigate to the same spot in the source file (as long as it is open) in Revit or Navisworks. It is especially important for Revit, as it is there that issues are corrected and navigation is less transparent due to the preferred camera type. </text></para>
   </body>
