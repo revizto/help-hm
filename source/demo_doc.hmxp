@@ -194,7 +194,7 @@
       <config-value name="lcid" translate="true">en-us</config-value>
       <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
       <config-value name="deffont">font-family:'MS Sans Serif'; font-size:8pt; color:#000000; </config-value>
-      <config-value name="autohelpstart">108</config-value>
+      <config-value name="autohelpstart">109</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">1</config-value>
       <config-value name="searchpath">.\images\;.\Topics\</config-value>
@@ -824,7 +824,6 @@ document.write('</frameset>');
       <helpcontext-number href="Model-Elements-and-Controls" value="35"/>
       <helpcontext-number href="Model-Elements-and-Controls#3d_ruler" value="99"/>
       <helpcontext-number href="Model-Elements-and-Controls#cam_share" value="76"/>
-      <helpcontext-number href="Model-Elements-and-Controls#example_1" value="42"/>
       <helpcontext-number href="Model-Elements-and-Controls#map" value="75"/>
       <helpcontext-number href="Model-Elements-and-Controls#objects" value="78"/>
       <helpcontext-number href="Model-Elements-and-Controls#section" value="61"/>
@@ -863,6 +862,9 @@ document.write('</frameset>');
       <helpcontext-number href="Troubleshooting#video_issues" value="96"/>
       <helpcontext-number href="Troubleshooting#working_folder" value="46"/>
       <helpcontext-number href="Uninstalling-Revizto" value="102"/>
+      <helpcontext-number href="Usage-Examples" value="109"/>
+      <helpcontext-number href="Usage-Examples#2d_example" value="110"/>
+      <helpcontext-number href="Usage-Examples#2D_ruler_use" value="111"/>
       <helpcontext-number href="Using-the-Web-GUI" value="22"/>
       <helpcontext-number href="Version-Control" value="31"/>
       <helpcontext-number href="View-modes" value="30"/>
